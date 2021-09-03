@@ -4,636 +4,727 @@
     "NAME": "AS Combo 1",
     "ID": "AS01",
     "DATE": "6/29/2020",
-    "SKILLS": "Swing\nCross\nAS\nCaboose\nBackwards Open"
+    "SKILLS": "Swing\nCross\nAS\nCaboose\nBackwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/as#AS02",
     "NAME": "AS Combo 2",
     "ID": "AS02",
     "DATE": "6/30/2020",
-    "SKILLS": "Backwards Swing\nCross\nStall\nForwards AS"
+    "SKILLS": "Backwards Swing\nCross\nStall\nForwards AS",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/as#AS03",
     "NAME": "AS Combo 3",
     "ID": "AS03",
     "DATE": "7/1/2020",
-    "SKILLS": "AS\nOpen, Open (double)"
+    "SKILLS": "AS\nOpen, Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/as#AS04",
     "NAME": "AS Combo 4",
     "ID": "AS04",
     "DATE": "7/2/2020",
-    "SKILLS": "Toad\nAS"
+    "SKILLS": "Toad\nAS",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/as#AS05",
     "NAME": "AS Combo 5",
     "ID": "AS05",
     "DATE": "7/3/2020",
-    "SKILLS": "Backwards Leg Hook\nStall\nForwards AS"
+    "SKILLS": "Backwards Leg Hook\nStall\nForwards AS",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/as#AS06",
     "NAME": "AS Combo 6",
     "ID": "AS06",
     "DATE": "7/4/2020",
-    "SKILLS": "Step-Through Mic Release\nAS"
+    "SKILLS": "Step-Through Mic Release\nAS",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/as#AS07",
     "NAME": "AS Combo 7",
     "ID": "AS07",
     "DATE": "7/5/2020",
-    "SKILLS": "Push Up\nAS"
+    "SKILLS": "Push Up\nAS",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA01",
     "NAME": "Awesome Annie Combo 1",
     "ID": "AA01",
     "DATE": "11/30/2020",
-    "SKILLS": "Mamba\nGround Awesome Annie (double)"
+    "SKILLS": "Mamba\nGround Awesome Annie (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA02",
     "NAME": "Awesome Annie Combo 2",
     "ID": "AA02",
     "DATE": "12/1/2020",
-    "SKILLS": "Toad\nAwesome Annie\nLeg Over Mic Release\nLeg Over Catch\nAwesome Annie to Toad\nOpen"
+    "SKILLS": "Toad\nAwesome Annie\nLeg Over Mic Release\nLeg Over Catch\nAwesome Annie to Toad\nOpen",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA03",
     "NAME": "Awesome Annie Combo 3",
     "ID": "AA03",
     "DATE": "12/2/2020",
-    "SKILLS": "Ground Awesome Annie (double)\nLeg Over into Awesome Annie"
+    "SKILLS": "Ground Awesome Annie (double)\nLeg Over into Awesome Annie",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA04",
     "NAME": "Awesome Annie Combo 4",
     "ID": "AA04",
     "DATE": "12/3/2020",
-    "SKILLS": "Open, Leg Over (double)\nAwesome Annie to Toad\nCL"
+    "SKILLS": "Open, Leg Over (double)\nAwesome Annie to Toad\nCL",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA05",
     "NAME": "Awesome Annie Combo 5",
     "ID": "AA05",
     "DATE": "12/4/2020",
-    "SKILLS": "EB Toad\nAwesome Annie to Leg Over\nAwesome Annie to Toad\nOpen"
+    "SKILLS": "EB Toad\nAwesome Annie to Leg Over\nAwesome Annie to Toad\nOpen",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA06",
     "NAME": "Awesome Annie Combo 6",
     "ID": "AA06",
     "DATE": "12/5/2020",
-    "SKILLS": "Leg Over (left)\nAwesome Annie\nStep-Through Mic Release (left)"
+    "SKILLS": "Leg Over (left)\nAwesome Annie\nStep-Through Mic Release (left)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA07",
     "NAME": "Awesome Annie Combo 7",
     "ID": "AA07",
     "DATE": "12/6/2020",
-    "SKILLS": "Toad (right)\nAwesome Annie to Leg Over\nMic Release (in Leg Over)\nToad (left)\nAwesome Annie to Leg Over\nCross\nOpen"
+    "SKILLS": "Toad (right)\nAwesome Annie to Leg Over\nMic Release (in Leg Over)\nToad (left)\nAwesome Annie to Leg Over\nCross\nOpen",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG01",
     "NAME": "Beginner Combo 1",
     "ID": "BG01",
     "DATE": "1/4/2021",
-    "SKILLS": "Open\nSwing (jump, left)\nOpen\nSwing (no jump, left)\nOpen\nSwing (jump, left)\nOpen\nToe Catch"
+    "SKILLS": "Open\nSwing (jump, left)\nOpen\nSwing (no jump, left)\nOpen\nSwing (jump, left)\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG02",
     "NAME": "Beginner Combo 2",
     "ID": "BG02",
     "DATE": "1/5/2021",
-    "SKILLS": "Swing (left)\nCross\nOpen\nSwing (right)\nCross\nOpen\nToe Catch"
+    "SKILLS": "Swing (left)\nCross\nOpen\nSwing (right)\nCross\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG03",
     "NAME": "Beginner Combo 3",
     "ID": "BG03",
     "DATE": "1/6/2021",
-    "SKILLS": "Swing (right)\nOpen\nSwing (left)\nCross\nCross Toe Catch"
+    "SKILLS": "Swing (right)\nOpen\nSwing (left)\nCross\nCross Toe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG04",
     "NAME": "Beginner Combo 4",
     "ID": "BG04",
     "DATE": "1/7/2021",
-    "SKILLS": "Cross\nCross\nSwing (right)\nOpen\nSwing (left)\nOpen\nToe Catch"
+    "SKILLS": "Cross\nCross\nSwing (right)\nOpen\nSwing (left)\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG05",
     "NAME": "Beginner Combo 5",
     "ID": "BG05",
     "DATE": "1/8/2021",
-    "SKILLS": "Cross\nSwing\nSwing\nOpen\nCross\nOpen One-Foot Catch"
+    "SKILLS": "Cross\nSwing\nSwing\nOpen\nCross\nOpen One-Foot Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG06",
     "NAME": "Beginner Combo 6",
     "ID": "BG06",
     "DATE": "1/9/2021",
-    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nCross\nCrossed Toe Catch"
+    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nCross\nCrossed Toe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG07",
     "NAME": "Beginner Combo 7",
     "ID": "BG07",
     "DATE": "1/10/2021",
-    "SKILLS": "Backwards Swing\nBackwards Cross\nBackwards Open\nBackwards Swing\nBackwards Cross\nBackwards Open\nBackwards Heel Catch"
+    "SKILLS": "Backwards Swing\nBackwards Cross\nBackwards Open\nBackwards Swing\nBackwards Cross\nBackwards Open\nBackwards Heel Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG08",
     "NAME": "Beginner Combo 8",
     "ID": "BG08",
     "DATE": "1/18/2021",
-    "SKILLS": "Cross\nCross\nSwing\nCross\nCross\nCrossed Toe Catch"
+    "SKILLS": "Cross\nCross\nSwing\nCross\nCross\nCrossed Toe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG09",
     "NAME": "Beginner Combo 9",
     "ID": "BG09",
     "DATE": "1/19/2021",
-    "SKILLS": "Open\nOpen, Open (double)\nCross\nOpen\nToe Catch"
+    "SKILLS": "Open\nOpen, Open (double)\nCross\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG10",
     "NAME": "Beginner Combo 10",
     "ID": "BG10",
     "DATE": "1/20/2021",
-    "SKILLS": "Open\nOpen, Open (double)\nSwing (jump, left)\nOpen\nSwing (jump, right)\nOpen\nToe Catch"
+    "SKILLS": "Open\nOpen, Open (double)\nSwing (jump, left)\nOpen\nSwing (jump, right)\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG11",
     "NAME": "Beginner Combo 11",
     "ID": "BG11",
     "DATE": "1/21/2021",
-    "SKILLS": "Cross\nOpen, Open (double)\nCross\nOpen, Open (double) \nCross\nOpen, Open (double)\nOpen, Open (double)\nOpen\nToe Catch"
+    "SKILLS": "Cross\nOpen, Open (double)\nCross\nOpen, Open (double) \nCross\nOpen, Open (double)\nOpen, Open (double)\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG12",
     "NAME": "Beginner Combo 12",
     "ID": "BG12",
     "DATE": "1/22/2021",
-    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nOpen\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nOpen\nToe Catch"
+    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nOpen\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG13",
     "NAME": "Beginner Combo 13",
     "ID": "BG13",
     "DATE": "1/23/2021",
-    "SKILLS": "Right Foot\nRight Foot\nLeft Foot\nLeft Foot\nCross\nOpen, Open (double) \nOpen\nToe Catch"
+    "SKILLS": "Right Foot\nRight Foot\nLeft Foot\nLeft Foot\nCross\nOpen, Open (double) \nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG14",
     "NAME": "Beginner Combo 14",
     "ID": "BG14",
     "DATE": "1/24/2021",
-    "SKILLS": "Straddle\nCross\nSwing (jump, left)\nCross\nOpen\nSwing (jump, left)\nOpen\nToe Catch"
+    "SKILLS": "Straddle\nCross\nSwing (jump, left)\nCross\nOpen\nSwing (jump, left)\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG15",
     "NAME": "Beginner Combo 15",
     "ID": "BG15",
     "DATE": "2/1/2021",
-    "SKILLS": "Backwards Open\nBackwards Cross\nBackwards Open\nBackwards Swing\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch"
+    "SKILLS": "Backwards Open\nBackwards Cross\nBackwards Open\nBackwards Swing\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG16",
     "NAME": "Beginner Combo 16",
     "ID": "BG16",
     "DATE": "2/2/2021",
-    "SKILLS": "Backwards Open\nBackwards Double\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch"
+    "SKILLS": "Backwards Open\nBackwards Double\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG17",
     "NAME": "Beginner Combo 17",
     "ID": "BG17",
     "DATE": "2/3/2021",
-    "SKILLS": "Backwards Open\nBackwards High Knee (right)\nBackwards Open\nBackwards High Kick (right)\nBackwards Open\nBackwards High Knee (left)\nBackwards Open\nBackwards High Kick (left)\nBackwards Open\nBackwards Straddle\nBackwards Cross\nBackwards Heel Catch"
+    "SKILLS": "Backwards Open\nBackwards High Knee (right)\nBackwards Open\nBackwards High Kick (right)\nBackwards Open\nBackwards High Knee (left)\nBackwards Open\nBackwards High Kick (left)\nBackwards Open\nBackwards Straddle\nBackwards Cross\nBackwards Heel Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG18",
     "NAME": "Beginner Combo 18",
     "ID": "BG18",
     "DATE": "2/4/2021",
-    "SKILLS": "Open\nSwing Heel Click\nOpen\nToe Catch"
+    "SKILLS": "Open\nSwing Heel Click\nOpen\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG19",
     "NAME": "Beginner Combo 19",
     "ID": "BG19",
     "DATE": "2/5/2021",
-    "SKILLS": "Backwards Cross\nBackwards Swing (right)\nBackwards Cross\nBackwards Swing (left)\nBackwards Cross\nBackwards Cross\nBackwards Open Heel Catch"
+    "SKILLS": "Backwards Cross\nBackwards Swing (right)\nBackwards Cross\nBackwards Swing (left)\nBackwards Cross\nBackwards Cross\nBackwards Open Heel Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG20",
     "NAME": "Beginner Combo 20",
     "ID": "BG20",
     "DATE": "2/6/2021",
-    "SKILLS": "Backwards Open\nBackwards Swing (no jump, right)\nBackwards Cross\nBackwards Swing (jump, right)\nBackwards Cross\nBackwards Swing (no jump, right)\nBackwards Cross\nBackwards Open Heel Catch"
+    "SKILLS": "Backwards Open\nBackwards Swing (no jump, right)\nBackwards Cross\nBackwards Swing (jump, right)\nBackwards Cross\nBackwards Swing (no jump, right)\nBackwards Cross\nBackwards Open Heel Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG21",
     "NAME": "Beginner Combo 21",
     "ID": "BG21",
     "DATE": "2/7/2021",
-    "SKILLS": "Open\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nCross\nSwing (jump, right)\nSwing (jump, left)\nOpen\nOpen, Open (double)\nToe Catch"
+    "SKILLS": "Open\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nCross\nSwing (jump, right)\nSwing (jump, left)\nOpen\nOpen, Open (double)\nToe Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB01",
     "NAME": "Caboose Combo 1",
     "ID": "CB01",
     "DATE": "8/3/2020",
-    "SKILLS": "Toad\nCaboose\nBackwards Toad"
+    "SKILLS": "Toad\nCaboose\nBackwards Toad",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB02",
     "NAME": "Caboose Combo 2",
     "ID": "CB02",
     "DATE": "8/4/2020",
-    "SKILLS": "Swing\nInverse Toad Swing\nInverse Toad Gogo\nOpen, Caboose (double)"
+    "SKILLS": "Swing\nInverse Toad Swing\nInverse Toad Gogo\nOpen, Caboose (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB03",
     "NAME": "Caboose Combo 3",
     "ID": "CB03",
     "DATE": "8/5/2020",
-    "SKILLS": "Caboose\nBackwards Stall (between legs)\nForwards AS-Weave"
+    "SKILLS": "Caboose\nBackwards Stall (between legs)\nForwards AS-Weave",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB04",
     "NAME": "Caboose Combo 4",
     "ID": "CB04",
     "DATE": "8/6/2020",
-    "SKILLS": "Kruger\nKruger Wrap\nUnwrap Swing\nToad\nCaboose\nBackwards Open, Cross (double)\nStall, Forwards Open (double)"
+    "SKILLS": "Kruger\nKruger Wrap\nUnwrap Swing\nToad\nCaboose\nBackwards Open, Cross (double)\nStall, Forwards Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB05",
     "NAME": "Caboose Combo 5",
     "ID": "CB05",
     "DATE": "8/7/2020",
-    "SKILLS": "Mic Release\nCaboose\nBackwards Cross\nStall (between legs)\nForwards Open"
+    "SKILLS": "Mic Release\nCaboose\nBackwards Cross\nStall (between legs)\nForwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB06",
     "NAME": "Caboose Combo 6",
     "ID": "CB06",
     "DATE": "8/8/2020",
-    "SKILLS": "Caboose\nBackwards 360\nStall (between legs)\nForwards Open, Caboose (double)"
+    "SKILLS": "Caboose\nBackwards 360\nStall (between legs)\nForwards Open, Caboose (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB07",
     "NAME": "Caboose Combo 7",
     "ID": "CB07",
     "DATE": "8/9/2020",
-    "SKILLS": "Kruger\nOpen Caboose\nBackwards Kruger (other side)"
+    "SKILLS": "Kruger\nOpen Caboose\nBackwards Kruger (other side)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA01",
     "NAME": "Catch Combo 1",
     "ID": "CA01",
     "DATE": "8/31/2020",
-    "SKILLS": "Swing\nFoot Catch\nReverse Direction"
+    "SKILLS": "Swing\nFoot Catch\nReverse Direction",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA02",
     "NAME": "Catch Combo 2",
     "ID": "CA02",
     "DATE": "9/1/2020",
-    "SKILLS": "Backwards EB4\nLJ Catch\nForwards Open"
+    "SKILLS": "Backwards EB4\nLJ Catch\nForwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA03",
     "NAME": "Catch Combo 3",
     "ID": "CA03",
     "DATE": "9/2/2020",
-    "SKILLS": "Swing\nEB\nMic Release\nFoot Catch\nBackwards Swing, Cross (double)\nSwing, Open (double)"
+    "SKILLS": "Swing\nEB\nMic Release\nFoot Catch\nBackwards Swing, Cross (double)\nSwing, Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA04",
     "NAME": "Catch Combo 4",
     "ID": "CA04",
     "DATE": "9/3/2020",
-    "SKILLS": "Backwards Swing, Cross (double)\nLeeMan Catch\nCross, Open (double)\nSwing, Open (double)"
+    "SKILLS": "Backwards Swing, Cross (double)\nLeeMan Catch\nCross, Open (double)\nSwing, Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA05",
     "NAME": "Catch Combo 5",
     "ID": "CA05",
     "DATE": "9/4/2020",
-    "SKILLS": "Backwards Swing\nBackwards Cross\nCross Catch\nForwards Open"
+    "SKILLS": "Backwards Swing\nBackwards Cross\nCross Catch\nForwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA06",
     "NAME": "Catch Combo 6",
     "ID": "CA06",
     "DATE": "9/5/2020",
-    "SKILLS": "Swing\nCross\nSwing\nEB\nMic Release\nCrossed Foot Catch"
+    "SKILLS": "Swing\nCross\nSwing\nEB\nMic Release\nCrossed Foot Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA07",
     "NAME": "Catch Combo 7",
     "ID": "CA07",
     "DATE": "9/6/2020",
-    "SKILLS": "Backwards Swing\nBackwards Cross\nBackwards Swing\nBackwards Step-Through Mic Release\nCrossed Foot Catch"
+    "SKILLS": "Backwards Swing\nBackwards Cross\nBackwards Swing\nBackwards Step-Through Mic Release\nCrossed Foot Catch",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL01",
     "NAME": "CL Combo 1",
     "ID": "CL01",
     "DATE": "12/28/2020",
-    "SKILLS": "Ground Stall\nCL\nOpen\nCL\nOpen"
+    "SKILLS": "Ground Stall\nCL\nOpen\nCL\nOpen",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL02",
     "NAME": "CL Combo 2",
     "ID": "CL02",
     "DATE": "12/29/2020",
-    "SKILLS": "Inverse Toad\nCL"
+    "SKILLS": "Inverse Toad\nCL",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL03",
     "NAME": "CL Combo 3",
     "ID": "CL03",
     "DATE": "12/30/2020",
-    "SKILLS": "Leg Over\nCL\nToad\nCL"
+    "SKILLS": "Leg Over\nCL\nToad\nCL",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL04",
     "NAME": "CL Combo 4",
     "ID": "CL04",
     "DATE": "12/31/2020",
-    "SKILLS": "Swing\nEB\nSwing\nCL\nOpen"
+    "SKILLS": "Swing\nEB\nSwing\nCL\nOpen",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL05",
     "NAME": "CL Combo 5",
     "ID": "CL05",
     "DATE": "1/1/2021",
-    "SKILLS": "AS\nCL"
+    "SKILLS": "AS\nCL",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL06",
     "NAME": "CL Combo 6",
     "ID": "CL06",
     "DATE": "1/2/2021",
-    "SKILLS": "AS Open double (land in CL)\nCL"
+    "SKILLS": "AS Open double (land in CL)\nCL",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL07",
     "NAME": "CL Combo 7",
     "ID": "CL07",
     "DATE": "1/3/2021",
-    "SKILLS": "CL \n180 Swing Behind Back\nBackwards Toad"
+    "SKILLS": "CL \n180 Swing Behind Back\nBackwards Toad",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR01",
     "NAME": "Cross Combo 1",
     "ID": "CR01",
     "DATE": "11/16/2020",
-    "SKILLS": "Cross\nOpen, Open (double)\nCross\nOpen, Cross (double)\nCross\nCross, Open (double)"
+    "SKILLS": "Cross\nOpen, Open (double)\nCross\nOpen, Cross (double)\nCross\nCross, Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR02",
     "NAME": "Cross Combo 2",
     "ID": "CR02",
     "DATE": "11/17/2020",
-    "SKILLS": "Cross\nSwing 180\nBackwards Cross\nBackwards Open, Open (double)"
+    "SKILLS": "Cross\nSwing 180\nBackwards Cross\nBackwards Open, Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR03",
     "NAME": "Cross Combo 3",
     "ID": "CR03",
     "DATE": "11/18/2020",
-    "SKILLS": "Swing\nCross\nOpen, Toad (double)\nAwesome Annie\nCross\nSwitch Cross"
+    "SKILLS": "Swing\nCross\nOpen, Toad (double)\nAwesome Annie\nCross\nSwitch Cross",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR04",
     "NAME": "Cross Combo 4",
     "ID": "CR04",
     "DATE": "11/19/2020",
-    "SKILLS": "Cross\nToad\nToad Stall\nBackwards Toad\nBackwards Cross\nCrossed Texan 180\nForwards Open"
+    "SKILLS": "Cross\nToad\nToad Stall\nBackwards Toad\nBackwards Cross\nCrossed Texan 180\nForwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR05",
     "NAME": "Cross Combo 5",
     "ID": "CR05",
     "DATE": "11/20/2020",
-    "SKILLS": "Backwards Cross\nCross Stall\nForwards Cross\n180 to Backwards Toad"
+    "SKILLS": "Backwards Cross\nCross Stall\nForwards Cross\n180 to Backwards Toad",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR06",
     "NAME": "Cross Combo 6",
     "ID": "CR06",
     "DATE": "11/21/2020",
-    "SKILLS": "Swing\nCross\nCrossed Stall, Backwards Open (double)\nBackwards Cross"
+    "SKILLS": "Swing\nCross\nCrossed Stall, Backwards Open (double)\nBackwards Cross",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR07",
     "NAME": "Cross Combo 7",
     "ID": "CR07",
     "DATE": "11/22/2020",
-    "SKILLS": "Cross\n180 (holding the Cross)\nBackwards Cross"
+    "SKILLS": "Cross\n180 (holding the Cross)\nBackwards Cross",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU01",
     "NAME": "Doubles Combo 1",
     "ID": "DU01",
     "DATE": "11/23/2020",
-    "SKILLS": "Open, Open\nOpen, Cross\nCross, Cross\nCross, Open\nSwing, Cross (left)\nSwing, Cross (right)"
+    "SKILLS": "Open, Open\nOpen, Cross\nCross, Cross\nCross, Open\nSwing, Cross (left)\nSwing, Cross (right)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU02",
     "NAME": "Doubles Combo 2",
     "ID": "DU02",
     "DATE": "11/24/2020",
-    "SKILLS": "Swing, Cross (left)\nCross, Switch Cross\nSwing, Cross (right)"
+    "SKILLS": "Swing, Cross (left)\nCross, Switch Cross\nSwing, Cross (right)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU03",
     "NAME": "Doubles Combo 3",
     "ID": "DU03",
     "DATE": "11/25/2020",
-    "SKILLS": "Swing, EB (left)\nSwing, Cross (left)\nSwing, EB (right)\nSwing, Cross (right)"
+    "SKILLS": "Swing, EB (left)\nSwing, Cross (left)\nSwing, EB (right)\nSwing, Cross (right)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU04",
     "NAME": "Doubles Combo 4",
     "ID": "DU04",
     "DATE": "11/26/2020",
-    "SKILLS": "Swing, Toad (left)\nSwing, EB Toad (left)\nSwing, Toad (left)\nSwing, EB (right)"
+    "SKILLS": "Swing, Toad (left)\nSwing, EB Toad (left)\nSwing, Toad (left)\nSwing, EB (right)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU05",
     "NAME": "Doubles Combo 5",
     "ID": "DU05",
     "DATE": "11/27/2020",
-    "SKILLS": "Swing, Cross\nCross, Cross\nSwing, EB\nEB, EB"
+    "SKILLS": "Swing, Cross\nCross, Cross\nSwing, EB\nEB, EB",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU06",
     "NAME": "Doubles Combo 6",
     "ID": "DU06",
     "DATE": "11/28/2020",
-    "SKILLS": "Swing, Open (right)\nOpen, Swing (left)\nMic, Open (left)\nCross, Open"
+    "SKILLS": "Swing, Open (right)\nOpen, Swing (left)\nMic, Open (left)\nCross, Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU07",
     "NAME": "Doubles Combo 7",
     "ID": "DU07",
     "DATE": "11/29/2020",
-    "SKILLS": "Swing, Open\nOpen, EB Wrap\nUnwrap 180 to Backwards Open\nStall to Forwards Open"
+    "SKILLS": "Swing, Open\nOpen, EB Wrap\nUnwrap 180 to Backwards Open\nStall to Forwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB01",
     "NAME": "EB Combo 1",
     "ID": "EB01",
     "DATE": "8/10/2020",
-    "SKILLS": "Swing\nEB\nSwing\nCross\nSwing, EB (double)\nSwing, Cross (double)\nOpen"
+    "SKILLS": "Swing\nEB\nSwing\nCross\nSwing, EB (double)\nSwing, Cross (double)\nOpen",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB02",
     "NAME": "EB Combo 2",
     "ID": "EB02",
     "DATE": "8/11/2020",
-    "SKILLS": "Swing\nEB Wrap\nUnwrap 180\nBackwards EB Swing (other side)\nBackwards Swing\nBackwards EB Swing\nBackwards Swing"
+    "SKILLS": "Swing\nEB Wrap\nUnwrap 180\nBackwards EB Swing (other side)\nBackwards Swing\nBackwards EB Swing\nBackwards Swing",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB03",
     "NAME": "EB Combo 3",
     "ID": "EB03",
     "DATE": "8/12/2020",
-    "SKILLS": "Mic Release\nSwing\nEB\n180 to Backwards EB"
+    "SKILLS": "Mic Release\nSwing\nEB\n180 to Backwards EB",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB04",
     "NAME": "EB Combo 4",
     "ID": "EB04",
     "DATE": "8/13/2020",
-    "SKILLS": "Swing\nEB Swing\nOpen, Open (double)\nSwing\nEB\nOpen, Open (double)"
+    "SKILLS": "Swing\nEB Swing\nOpen, Open (double)\nSwing\nEB\nOpen, Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB05",
     "NAME": "EB Combo 5",
     "ID": "EB05",
     "DATE": "8/14/2020",
-    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nBackwards Open\nBackwards EB Swing\nBackwards Swing"
+    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nBackwards Open\nBackwards EB Swing\nBackwards Swing",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB06",
     "NAME": "EB Combo 6",
     "ID": "EB06",
     "DATE": "8/15/2020",
-    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nMic Release\n180 to Forwards Open"
+    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nMic Release\n180 to Forwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB07",
     "NAME": "EB Combo 7",
     "ID": "EB07",
     "DATE": "8/16/2020",
-    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nMic Release (under leg)\nBackwards Swing\nBackwards Swing\nBackwards Swing\nBackwards Open"
+    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nMic Release (under leg)\nBackwards Swing\nBackwards Swing\nBackwards Swing\nBackwards Open",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL01",
     "NAME": "Elephant Combo 1",
     "ID": "EL01",
     "DATE": "1/25/2021",
-    "SKILLS": "Swing\nCross\nElephant"
+    "SKILLS": "Swing\nCross\nElephant",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL02",
     "NAME": "Elephant Combo 2",
     "ID": "EL02",
     "DATE": "1/26/2021",
-    "SKILLS": "Leg Over\nToad (same leg)\nToad Swing\nElephant"
+    "SKILLS": "Leg Over\nToad (same leg)\nToad Swing\nElephant",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL03",
     "NAME": "Elephant Combo 3",
     "ID": "EL03",
     "DATE": "1/27/2021",
-    "SKILLS": "Elephant\nOpen, Open (double)\nElephant"
+    "SKILLS": "Elephant\nOpen, Open (double)\nElephant",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL04",
     "NAME": "Elephant Combo 4",
     "ID": "EL04",
     "DATE": "1/28/2021",
-    "SKILLS": "Elephant\nStep Through Mic"
+    "SKILLS": "Elephant\nStep Through Mic",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL05",
     "NAME": "Elephant Combo 5",
     "ID": "EL05",
     "DATE": "1/29/2021",
-    "SKILLS": "Elephant\nLeg Over\nCross"
+    "SKILLS": "Elephant\nLeg Over\nCross",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL06",
     "NAME": "Elephant Combo 6",
     "ID": "EL06",
     "DATE": "1/30/2021",
-    "SKILLS": "Elephant\nStall\nBackwards Elephant"
+    "SKILLS": "Elephant\nStall\nBackwards Elephant",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL07",
     "NAME": "Elephant Combo 7",
     "ID": "EL07",
     "DATE": "1/31/2021",
-    "SKILLS": "Inverse Toad\nSwitch Cross into Elephant\nInverse Toad Gogo"
+    "SKILLS": "Inverse Toad\nSwitch Cross into Elephant\nInverse Toad Gogo",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL01",
     "NAME": "Floater Combo 1",
     "ID": "FL01",
     "DATE": "10/5/2020",
-    "SKILLS": "Toad\nFloater\nCross"
+    "SKILLS": "Toad\nFloater\nCross",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL02",
     "NAME": "Floater Combo 2",
     "ID": "FL02",
     "DATE": "10/6/2020",
-    "SKILLS": "Swing\nEB Toad\nFloater\nEB\nEB Swing\nOpen"
+    "SKILLS": "Swing\nEB Toad\nFloater\nEB\nEB Swing\nOpen",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL03",
     "NAME": "Floater Combo 3",
     "ID": "FL03",
     "DATE": "10/7/2020",
-    "SKILLS": "Kruger\nFloater\nOpen, Open (double)"
+    "SKILLS": "Kruger\nFloater\nOpen, Open (double)",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL04",
     "NAME": "Floater Combo 4",
     "ID": "FL04",
     "DATE": "10/8/2020",
-    "SKILLS": "Kruger\nFloater\nKruger (over the top placement)\nSwing\nSwing"
+    "SKILLS": "Kruger\nFloater\nKruger (over the top placement)\nSwing\nSwing",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL05",
     "NAME": "Floater Combo 5",
     "ID": "FL05",
     "DATE": "10/9/2020",
-    "SKILLS": "Cross\nFloater (double)\nCaboose"
+    "SKILLS": "Cross\nFloater (double)\nCaboose",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL06",
     "NAME": "Floater Combo 6",
     "ID": "FL06",
     "DATE": "10/10/2020",
-    "SKILLS": "Backwards Leg Hook\nFloater Stall\nForwards Toad"
+    "SKILLS": "Backwards Leg Hook\nFloater Stall\nForwards Toad",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   },
   {
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL07",
     "NAME": "Floater Combo 7",
     "ID": "FL07",
     "DATE": "10/11/2020",
-    "SKILLS": "Cross\nFloater Switch (double)\nCross"
+    "SKILLS": "Cross\nFloater Switch (double)\nCross",
+    "IMAGE": "https://www.natekg.com/wp-content/uploads/2020/12/JumpRope_AwesomeAnnie.jpg"
   }
 ]
