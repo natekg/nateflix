@@ -1,65 +1,639 @@
 [
-    {
-      "NAME": "Mic Combo 2",
-      "LINK": "https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_web_copy_link",
-      "DATE": "7/14/2020",
-      "SKILLS": "Mic Release / Toad Swing / EB Toad / Open",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "Awesome Annie Combo 1",
-      "LINK": "https://www.instagram.com/p/CIOvYi5BllC/?utm_source=ig_web_copy_link",
-      "DATE": "11/30/2020",
-      "SKILLS": "Mamba / Ground Awesome Annie Double",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "Awesome Annie Combo 2",
-      "LINK": "https://www.instagram.com/p/CIRCaKxgrgI/?utm_source=ig_web_copy_link",
-      "DATE": "12/1/2020",
-      "SKILLS": "Toad / Awesome Annie / Mic Release / Leg Over Catch / Awesome Annie / Open",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "Awesome Annie Combo 3",
-      "LINK": "https://www.instagram.com/p/CIRCaKxgrgI/?utm_source=ig_web_copy_link",
-      "DATE": "12/2/2020",
-      "SKILLS": "Ground Awesome Annie (land in Leg Over) / Awesome Annie",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "Awesome Annie Combo 4",
-      "LINK": "https://www.instagram.com/p/CIRCaKxgrgI/?utm_source=ig_web_copy_link",
-      "DATE": "12/3/2020",
-      "SKILLS": "Double (land in Leg Over) / Awesome Annie / CL",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "Awesome Annie Combo 5",
-      "LINK": "https://www.instagram.com/p/CIRCaKxgrgI/?utm_source=ig_web_copy_link",
-      "DATE": "12/4/2020",
-      "SKILLS": "EB Toad / Awesome Annie x2 / Open",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "Awesome Annie Combo 6",
-      "LINK": "https://www.instagram.com/p/CIRCaKxgrgI/?utm_source=ig_web_copy_link",
-      "DATE": "12/5/2020",
-      "SKILLS": "Leg Over (left) / Awesome Annie / Step-Through Mic (left)",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "Awesome Annie Combo 7",
-      "LINK": "https://www.instagram.com/p/CIRCaKxgrgI/?utm_source=ig_web_copy_link",
-      "DATE": "12/6/2020",
-      "SKILLS": "Toad (right) / Awesome Annie / Mic Release (out of the Leg Over placement) / Toad (left) / Awesome Annie / Cross",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    },
-    {
-      "NAME": "EB Combo 2",
-      "LINK": "https://www.instagram.com/p/CIRCaKxgrgI/?utm_source=ig_web_copy_link",
-      "DATE": "12/7/2020",
-      "SKILLS": "Swing / EB Wrap / Unwrap 180 / Backwards EB Swing (other side) / Backwards Swing / Backwards EB Swing / Backwards Swing",
-      "EMBED": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/CCn-9cInxo5/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Coach Nate K-G (@nate_kg)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
-    }
-  ]
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/as#AS01",
+    "NAME": "AS Combo 1",
+    "ID": "AS01",
+    "DATE": "6/29/2020",
+    "SKILLS": "Swing\nCross\nAS\nCaboose\nBackwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/as#AS02",
+    "NAME": "AS Combo 2",
+    "ID": "AS02",
+    "DATE": "6/30/2020",
+    "SKILLS": "Backwards Swing\nCross\nStall\nForwards AS"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/as#AS03",
+    "NAME": "AS Combo 3",
+    "ID": "AS03",
+    "DATE": "7/1/2020",
+    "SKILLS": "AS\nOpen, Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/as#AS04",
+    "NAME": "AS Combo 4",
+    "ID": "AS04",
+    "DATE": "7/2/2020",
+    "SKILLS": "Toad\nAS"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/as#AS05",
+    "NAME": "AS Combo 5",
+    "ID": "AS05",
+    "DATE": "7/3/2020",
+    "SKILLS": "Backwards Leg Hook\nStall\nForwards AS"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/as#AS06",
+    "NAME": "AS Combo 6",
+    "ID": "AS06",
+    "DATE": "7/4/2020",
+    "SKILLS": "Step-Through Mic Release\nAS"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/as#AS07",
+    "NAME": "AS Combo 7",
+    "ID": "AS07",
+    "DATE": "7/5/2020",
+    "SKILLS": "Push Up\nAS"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA01",
+    "NAME": "Awesome Annie Combo 1",
+    "ID": "AA01",
+    "DATE": "11/30/2020",
+    "SKILLS": "Mamba\nGround Awesome Annie (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA02",
+    "NAME": "Awesome Annie Combo 2",
+    "ID": "AA02",
+    "DATE": "12/1/2020",
+    "SKILLS": "Toad\nAwesome Annie\nLeg Over Mic Release\nLeg Over Catch\nAwesome Annie to Toad\nOpen"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA03",
+    "NAME": "Awesome Annie Combo 3",
+    "ID": "AA03",
+    "DATE": "12/2/2020",
+    "SKILLS": "Ground Awesome Annie (double)\nLeg Over into Awesome Annie"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA04",
+    "NAME": "Awesome Annie Combo 4",
+    "ID": "AA04",
+    "DATE": "12/3/2020",
+    "SKILLS": "Open, Leg Over (double)\nAwesome Annie to Toad\nCL"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA05",
+    "NAME": "Awesome Annie Combo 5",
+    "ID": "AA05",
+    "DATE": "12/4/2020",
+    "SKILLS": "EB Toad\nAwesome Annie to Leg Over\nAwesome Annie to Toad\nOpen"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA06",
+    "NAME": "Awesome Annie Combo 6",
+    "ID": "AA06",
+    "DATE": "12/5/2020",
+    "SKILLS": "Leg Over (left)\nAwesome Annie\nStep-Through Mic Release (left)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie#AA07",
+    "NAME": "Awesome Annie Combo 7",
+    "ID": "AA07",
+    "DATE": "12/6/2020",
+    "SKILLS": "Toad (right)\nAwesome Annie to Leg Over\nMic Release (in Leg Over)\nToad (left)\nAwesome Annie to Leg Over\nCross\nOpen"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG01",
+    "NAME": "Beginner Combo 1",
+    "ID": "BG01",
+    "DATE": "1/4/2021",
+    "SKILLS": "Open\nSwing (jump, left)\nOpen\nSwing (no jump, left)\nOpen\nSwing (jump, left)\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG02",
+    "NAME": "Beginner Combo 2",
+    "ID": "BG02",
+    "DATE": "1/5/2021",
+    "SKILLS": "Swing (left)\nCross\nOpen\nSwing (right)\nCross\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG03",
+    "NAME": "Beginner Combo 3",
+    "ID": "BG03",
+    "DATE": "1/6/2021",
+    "SKILLS": "Swing (right)\nOpen\nSwing (left)\nCross\nCross Toe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG04",
+    "NAME": "Beginner Combo 4",
+    "ID": "BG04",
+    "DATE": "1/7/2021",
+    "SKILLS": "Cross\nCross\nSwing (right)\nOpen\nSwing (left)\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG05",
+    "NAME": "Beginner Combo 5",
+    "ID": "BG05",
+    "DATE": "1/8/2021",
+    "SKILLS": "Cross\nSwing\nSwing\nOpen\nCross\nOpen One-Foot Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG06",
+    "NAME": "Beginner Combo 6",
+    "ID": "BG06",
+    "DATE": "1/9/2021",
+    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nCross\nCrossed Toe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG07",
+    "NAME": "Beginner Combo 7",
+    "ID": "BG07",
+    "DATE": "1/10/2021",
+    "SKILLS": "Backwards Swing\nBackwards Cross\nBackwards Open\nBackwards Swing\nBackwards Cross\nBackwards Open\nBackwards Heel Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG08",
+    "NAME": "Beginner Combo 8",
+    "ID": "BG08",
+    "DATE": "1/18/2021",
+    "SKILLS": "Cross\nCross\nSwing\nCross\nCross\nCrossed Toe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG09",
+    "NAME": "Beginner Combo 9",
+    "ID": "BG09",
+    "DATE": "1/19/2021",
+    "SKILLS": "Open\nOpen, Open (double)\nCross\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG10",
+    "NAME": "Beginner Combo 10",
+    "ID": "BG10",
+    "DATE": "1/20/2021",
+    "SKILLS": "Open\nOpen, Open (double)\nSwing (jump, left)\nOpen\nSwing (jump, right)\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG11",
+    "NAME": "Beginner Combo 11",
+    "ID": "BG11",
+    "DATE": "1/21/2021",
+    "SKILLS": "Cross\nOpen, Open (double)\nCross\nOpen, Open (double) \nCross\nOpen, Open (double)\nOpen, Open (double)\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG12",
+    "NAME": "Beginner Combo 12",
+    "ID": "BG12",
+    "DATE": "1/22/2021",
+    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nOpen\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG13",
+    "NAME": "Beginner Combo 13",
+    "ID": "BG13",
+    "DATE": "1/23/2021",
+    "SKILLS": "Right Foot\nRight Foot\nLeft Foot\nLeft Foot\nCross\nOpen, Open (double) \nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG14",
+    "NAME": "Beginner Combo 14",
+    "ID": "BG14",
+    "DATE": "1/24/2021",
+    "SKILLS": "Straddle\nCross\nSwing (jump, left)\nCross\nOpen\nSwing (jump, left)\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG15",
+    "NAME": "Beginner Combo 15",
+    "ID": "BG15",
+    "DATE": "2/1/2021",
+    "SKILLS": "Backwards Open\nBackwards Cross\nBackwards Open\nBackwards Swing\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG16",
+    "NAME": "Beginner Combo 16",
+    "ID": "BG16",
+    "DATE": "2/2/2021",
+    "SKILLS": "Backwards Open\nBackwards Double\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG17",
+    "NAME": "Beginner Combo 17",
+    "ID": "BG17",
+    "DATE": "2/3/2021",
+    "SKILLS": "Backwards Open\nBackwards High Knee (right)\nBackwards Open\nBackwards High Kick (right)\nBackwards Open\nBackwards High Knee (left)\nBackwards Open\nBackwards High Kick (left)\nBackwards Open\nBackwards Straddle\nBackwards Cross\nBackwards Heel Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG18",
+    "NAME": "Beginner Combo 18",
+    "ID": "BG18",
+    "DATE": "2/4/2021",
+    "SKILLS": "Open\nSwing Heel Click\nOpen\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG19",
+    "NAME": "Beginner Combo 19",
+    "ID": "BG19",
+    "DATE": "2/5/2021",
+    "SKILLS": "Backwards Cross\nBackwards Swing (right)\nBackwards Cross\nBackwards Swing (left)\nBackwards Cross\nBackwards Cross\nBackwards Open Heel Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG20",
+    "NAME": "Beginner Combo 20",
+    "ID": "BG20",
+    "DATE": "2/6/2021",
+    "SKILLS": "Backwards Open\nBackwards Swing (no jump, right)\nBackwards Cross\nBackwards Swing (jump, right)\nBackwards Cross\nBackwards Swing (no jump, right)\nBackwards Cross\nBackwards Open Heel Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/beginner#BG21",
+    "NAME": "Beginner Combo 21",
+    "ID": "BG21",
+    "DATE": "2/7/2021",
+    "SKILLS": "Open\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nCross\nSwing (jump, right)\nSwing (jump, left)\nOpen\nOpen, Open (double)\nToe Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB01",
+    "NAME": "Caboose Combo 1",
+    "ID": "CB01",
+    "DATE": "8/3/2020",
+    "SKILLS": "Toad\nCaboose\nBackwards Toad"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB02",
+    "NAME": "Caboose Combo 2",
+    "ID": "CB02",
+    "DATE": "8/4/2020",
+    "SKILLS": "Swing\nInverse Toad Swing\nInverse Toad Gogo\nOpen, Caboose (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB03",
+    "NAME": "Caboose Combo 3",
+    "ID": "CB03",
+    "DATE": "8/5/2020",
+    "SKILLS": "Caboose\nBackwards Stall (between legs)\nForwards AS-Weave"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB04",
+    "NAME": "Caboose Combo 4",
+    "ID": "CB04",
+    "DATE": "8/6/2020",
+    "SKILLS": "Kruger\nKruger Wrap\nUnwrap Swing\nToad\nCaboose\nBackwards Open, Cross (double)\nStall, Forwards Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB05",
+    "NAME": "Caboose Combo 5",
+    "ID": "CB05",
+    "DATE": "8/7/2020",
+    "SKILLS": "Mic Release\nCaboose\nBackwards Cross\nStall (between legs)\nForwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB06",
+    "NAME": "Caboose Combo 6",
+    "ID": "CB06",
+    "DATE": "8/8/2020",
+    "SKILLS": "Caboose\nBackwards 360\nStall (between legs)\nForwards Open, Caboose (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose#CB07",
+    "NAME": "Caboose Combo 7",
+    "ID": "CB07",
+    "DATE": "8/9/2020",
+    "SKILLS": "Kruger\nOpen Caboose\nBackwards Kruger (other side)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA01",
+    "NAME": "Catch Combo 1",
+    "ID": "CA01",
+    "DATE": "8/31/2020",
+    "SKILLS": "Swing\nFoot Catch\nReverse Direction"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA02",
+    "NAME": "Catch Combo 2",
+    "ID": "CA02",
+    "DATE": "9/1/2020",
+    "SKILLS": "Backwards EB4\nLJ Catch\nForwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA03",
+    "NAME": "Catch Combo 3",
+    "ID": "CA03",
+    "DATE": "9/2/2020",
+    "SKILLS": "Swing\nEB\nMic Release\nFoot Catch\nBackwards Swing, Cross (double)\nSwing, Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA04",
+    "NAME": "Catch Combo 4",
+    "ID": "CA04",
+    "DATE": "9/3/2020",
+    "SKILLS": "Backwards Swing, Cross (double)\nLeeMan Catch\nCross, Open (double)\nSwing, Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA05",
+    "NAME": "Catch Combo 5",
+    "ID": "CA05",
+    "DATE": "9/4/2020",
+    "SKILLS": "Backwards Swing\nBackwards Cross\nCross Catch\nForwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA06",
+    "NAME": "Catch Combo 6",
+    "ID": "CA06",
+    "DATE": "9/5/2020",
+    "SKILLS": "Swing\nCross\nSwing\nEB\nMic Release\nCrossed Foot Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches#CA07",
+    "NAME": "Catch Combo 7",
+    "ID": "CA07",
+    "DATE": "9/6/2020",
+    "SKILLS": "Backwards Swing\nBackwards Cross\nBackwards Swing\nBackwards Step-Through Mic Release\nCrossed Foot Catch"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL01",
+    "NAME": "CL Combo 1",
+    "ID": "CL01",
+    "DATE": "12/28/2020",
+    "SKILLS": "Ground Stall\nCL\nOpen\nCL\nOpen"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL02",
+    "NAME": "CL Combo 2",
+    "ID": "CL02",
+    "DATE": "12/29/2020",
+    "SKILLS": "Inverse Toad\nCL"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL03",
+    "NAME": "CL Combo 3",
+    "ID": "CL03",
+    "DATE": "12/30/2020",
+    "SKILLS": "Leg Over\nCL\nToad\nCL"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL04",
+    "NAME": "CL Combo 4",
+    "ID": "CL04",
+    "DATE": "12/31/2020",
+    "SKILLS": "Swing\nEB\nSwing\nCL\nOpen"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL05",
+    "NAME": "CL Combo 5",
+    "ID": "CL05",
+    "DATE": "1/1/2021",
+    "SKILLS": "AS\nCL"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL06",
+    "NAME": "CL Combo 6",
+    "ID": "CL06",
+    "DATE": "1/2/2021",
+    "SKILLS": "AS Open double (land in CL)\nCL"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cl#CL07",
+    "NAME": "CL Combo 7",
+    "ID": "CL07",
+    "DATE": "1/3/2021",
+    "SKILLS": "CL \n180 Swing Behind Back\nBackwards Toad"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR01",
+    "NAME": "Cross Combo 1",
+    "ID": "CR01",
+    "DATE": "11/16/2020",
+    "SKILLS": "Cross\nOpen, Open (double)\nCross\nOpen, Cross (double)\nCross\nCross, Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR02",
+    "NAME": "Cross Combo 2",
+    "ID": "CR02",
+    "DATE": "11/17/2020",
+    "SKILLS": "Cross\nSwing 180\nBackwards Cross\nBackwards Open, Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR03",
+    "NAME": "Cross Combo 3",
+    "ID": "CR03",
+    "DATE": "11/18/2020",
+    "SKILLS": "Swing\nCross\nOpen, Toad (double)\nAwesome Annie\nCross\nSwitch Cross"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR04",
+    "NAME": "Cross Combo 4",
+    "ID": "CR04",
+    "DATE": "11/19/2020",
+    "SKILLS": "Cross\nToad\nToad Stall\nBackwards Toad\nBackwards Cross\nCrossed Texan 180\nForwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR05",
+    "NAME": "Cross Combo 5",
+    "ID": "CR05",
+    "DATE": "11/20/2020",
+    "SKILLS": "Backwards Cross\nCross Stall\nForwards Cross\n180 to Backwards Toad"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR06",
+    "NAME": "Cross Combo 6",
+    "ID": "CR06",
+    "DATE": "11/21/2020",
+    "SKILLS": "Swing\nCross\nCrossed Stall, Backwards Open (double)\nBackwards Cross"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/cross#CR07",
+    "NAME": "Cross Combo 7",
+    "ID": "CR07",
+    "DATE": "11/22/2020",
+    "SKILLS": "Cross\n180 (holding the Cross)\nBackwards Cross"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU01",
+    "NAME": "Doubles Combo 1",
+    "ID": "DU01",
+    "DATE": "11/23/2020",
+    "SKILLS": "Open, Open\nOpen, Cross\nCross, Cross\nCross, Open\nSwing, Cross (left)\nSwing, Cross (right)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU02",
+    "NAME": "Doubles Combo 2",
+    "ID": "DU02",
+    "DATE": "11/24/2020",
+    "SKILLS": "Swing, Cross (left)\nCross, Switch Cross\nSwing, Cross (right)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU03",
+    "NAME": "Doubles Combo 3",
+    "ID": "DU03",
+    "DATE": "11/25/2020",
+    "SKILLS": "Swing, EB (left)\nSwing, Cross (left)\nSwing, EB (right)\nSwing, Cross (right)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU04",
+    "NAME": "Doubles Combo 4",
+    "ID": "DU04",
+    "DATE": "11/26/2020",
+    "SKILLS": "Swing, Toad (left)\nSwing, EB Toad (left)\nSwing, Toad (left)\nSwing, EB (right)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU05",
+    "NAME": "Doubles Combo 5",
+    "ID": "DU05",
+    "DATE": "11/27/2020",
+    "SKILLS": "Swing, Cross\nCross, Cross\nSwing, EB\nEB, EB"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU06",
+    "NAME": "Doubles Combo 6",
+    "ID": "DU06",
+    "DATE": "11/28/2020",
+    "SKILLS": "Swing, Open (right)\nOpen, Swing (left)\nMic, Open (left)\nCross, Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders#DU07",
+    "NAME": "Doubles Combo 7",
+    "ID": "DU07",
+    "DATE": "11/29/2020",
+    "SKILLS": "Swing, Open\nOpen, EB Wrap\nUnwrap 180 to Backwards Open\nStall to Forwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB01",
+    "NAME": "EB Combo 1",
+    "ID": "EB01",
+    "DATE": "8/10/2020",
+    "SKILLS": "Swing\nEB\nSwing\nCross\nSwing, EB (double)\nSwing, Cross (double)\nOpen"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB02",
+    "NAME": "EB Combo 2",
+    "ID": "EB02",
+    "DATE": "8/11/2020",
+    "SKILLS": "Swing\nEB Wrap\nUnwrap 180\nBackwards EB Swing (other side)\nBackwards Swing\nBackwards EB Swing\nBackwards Swing"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB03",
+    "NAME": "EB Combo 3",
+    "ID": "EB03",
+    "DATE": "8/12/2020",
+    "SKILLS": "Mic Release\nSwing\nEB\n180 to Backwards EB"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB04",
+    "NAME": "EB Combo 4",
+    "ID": "EB04",
+    "DATE": "8/13/2020",
+    "SKILLS": "Swing\nEB Swing\nOpen, Open (double)\nSwing\nEB\nOpen, Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB05",
+    "NAME": "EB Combo 5",
+    "ID": "EB05",
+    "DATE": "8/14/2020",
+    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nBackwards Open\nBackwards EB Swing\nBackwards Swing"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB06",
+    "NAME": "EB Combo 6",
+    "ID": "EB06",
+    "DATE": "8/15/2020",
+    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nMic Release\n180 to Forwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb#EB07",
+    "NAME": "EB Combo 7",
+    "ID": "EB07",
+    "DATE": "8/16/2020",
+    "SKILLS": "Backwards Swing\nBackwards EB\nBackwards EB Swing\nMic Release (under leg)\nBackwards Swing\nBackwards Swing\nBackwards Swing\nBackwards Open"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL01",
+    "NAME": "Elephant Combo 1",
+    "ID": "EL01",
+    "DATE": "1/25/2021",
+    "SKILLS": "Swing\nCross\nElephant"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL02",
+    "NAME": "Elephant Combo 2",
+    "ID": "EL02",
+    "DATE": "1/26/2021",
+    "SKILLS": "Leg Over\nToad (same leg)\nToad Swing\nElephant"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL03",
+    "NAME": "Elephant Combo 3",
+    "ID": "EL03",
+    "DATE": "1/27/2021",
+    "SKILLS": "Elephant\nOpen, Open (double)\nElephant"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL04",
+    "NAME": "Elephant Combo 4",
+    "ID": "EL04",
+    "DATE": "1/28/2021",
+    "SKILLS": "Elephant\nStep Through Mic"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL05",
+    "NAME": "Elephant Combo 5",
+    "ID": "EL05",
+    "DATE": "1/29/2021",
+    "SKILLS": "Elephant\nLeg Over\nCross"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL06",
+    "NAME": "Elephant Combo 6",
+    "ID": "EL06",
+    "DATE": "1/30/2021",
+    "SKILLS": "Elephant\nStall\nBackwards Elephant"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL07",
+    "NAME": "Elephant Combo 7",
+    "ID": "EL07",
+    "DATE": "1/31/2021",
+    "SKILLS": "Inverse Toad\nSwitch Cross into Elephant\nInverse Toad Gogo"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL01",
+    "NAME": "Floater Combo 1",
+    "ID": "FL01",
+    "DATE": "10/5/2020",
+    "SKILLS": "Toad\nFloater\nCross"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL02",
+    "NAME": "Floater Combo 2",
+    "ID": "FL02",
+    "DATE": "10/6/2020",
+    "SKILLS": "Swing\nEB Toad\nFloater\nEB\nEB Swing\nOpen"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL03",
+    "NAME": "Floater Combo 3",
+    "ID": "FL03",
+    "DATE": "10/7/2020",
+    "SKILLS": "Kruger\nFloater\nOpen, Open (double)"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL04",
+    "NAME": "Floater Combo 4",
+    "ID": "FL04",
+    "DATE": "10/8/2020",
+    "SKILLS": "Kruger\nFloater\nKruger (over the top placement)\nSwing\nSwing"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL05",
+    "NAME": "Floater Combo 5",
+    "ID": "FL05",
+    "DATE": "10/9/2020",
+    "SKILLS": "Cross\nFloater (double)\nCaboose"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL06",
+    "NAME": "Floater Combo 6",
+    "ID": "FL06",
+    "DATE": "10/10/2020",
+    "SKILLS": "Backwards Leg Hook\nFloater Stall\nForwards Toad"
+  },
+  {
+    "LINK": "https://www.natekg.com/jump-rope-combos/floaters#FL07",
+    "NAME": "Floater Combo 7",
+    "ID": "FL07",
+    "DATE": "10/11/2020",
+    "SKILLS": "Cross\nFloater Switch (double)\nCross"
+  }
+]
