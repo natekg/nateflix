@@ -1,2552 +1,2977 @@
 [
   {
-    "NAME": "AS Combo 1",
-    "SKILLS": "Swing\nBasic Cross\nAS Cross\nCaboose\nBackwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/as/#AS01",
+    "NAME": "AS Combo 1",
+    "ID": "AS01",
+    "SKILLS": "Swing\nBasic Cross\nAS Cross\nCaboose\nBackwards Open",
     "DATE": "2020-6-29"
   },
   {
-    "NAME": "AS Combo 2",
-    "SKILLS": "Backwards Swing\nBasic Cross\nStall\nForwards AS Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/as/#AS02",
+    "NAME": "AS Combo 2",
+    "ID": "AS02",
+    "SKILLS": "Backwards Swing\nBasic Cross\nStall\nForwards AS Cross",
     "DATE": "2020-6-30"
   },
   {
-    "NAME": "AS Combo 3",
-    "SKILLS": "AS Cross\nOO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/as/#AS03",
+    "NAME": "AS Combo 3",
+    "ID": "AS03",
+    "SKILLS": "AS Cross\nOO Double",
     "DATE": "2020-7-1"
   },
   {
-    "NAME": "AS Combo 4",
-    "SKILLS": "Toad Cross\nAS Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/as/#AS04",
+    "NAME": "AS Combo 4",
+    "ID": "AS04",
+    "SKILLS": "Toad Cross\nAS Cross",
     "DATE": "2020-7-2"
   },
   {
-    "NAME": "AS Combo 5",
-    "SKILLS": "Backwards Leg Hook\nStall\nForwards AS Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/as/#AS05",
+    "NAME": "AS Combo 5",
+    "ID": "AS05",
+    "SKILLS": "Backwards Leg Hook\nStall\nForwards AS Cross",
     "DATE": "2020-7-3"
   },
   {
-    "NAME": "AS Combo 6",
-    "SKILLS": "Step-Through Mic Release\nAS Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/as/#AS06",
+    "NAME": "AS Combo 6",
+    "ID": "AS06",
+    "SKILLS": "Step-Through Mic Release\nAS Cross",
     "DATE": "2020-7-4"
   },
   {
-    "NAME": "AS Combo 7",
-    "SKILLS": "Push Up\nAS Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/as/#AS07",
+    "NAME": "AS Combo 7",
+    "ID": "AS07",
+    "SKILLS": "Push Up\nAS Cross",
     "DATE": "2020-7-5"
   },
   {
-    "NAME": "AS-Toad Combo 1",
-    "SKILLS": "Ground Stall\nSwing\nAS-Toad\nToad Swing\nToad Cross\nDive 180\nTexan BTF 180",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#AT01",
+    "NAME": "AS-Toad Combo 1",
+    "ID": "AT01",
+    "SKILLS": "Ground Stall\nSwing\nAS-Toad\nToad Swing\nToad Cross\nDive 180\nTexan BTF 180",
     "DATE": "2022-4-11"
   },
   {
-    "NAME": "AS-Toad Combo 2",
-    "SKILLS": "Ground Toad Swing\nAS Swing \nBasic Cross\nToad Swing\nEB Swing",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#AT02",
+    "NAME": "AS-Toad Combo 2",
+    "ID": "AT02",
+    "SKILLS": "Ground Toad Swing\nAS Swing \nBasic Cross\nToad Swing\nEB Swing",
     "DATE": "2022-4-12"
   },
   {
-    "NAME": "AS-Toad Combo 3",
-    "SKILLS": "Swing EB Wrap Dub\nEB Unwrap 180 Dub\nLeg Hook (Toad)\nToad Swing\nAS-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#AT03",
+    "NAME": "AS-Toad Combo 3",
+    "ID": "AT03",
+    "SKILLS": "Swing EB Wrap Dub\nEB Unwrap 180 Dub\nLeg Hook (Toad)\nToad Swing\nAS-Toad",
     "DATE": "2022-4-13"
   },
   {
-    "NAME": "AS-Toad Combo 4",
-    "SKILLS": "CL Cross\nAS-Toad\nCrossed Step Through Wrap\nToad Unwrap\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#AT04",
+    "NAME": "AS-Toad Combo 4",
+    "ID": "AT04",
+    "SKILLS": "CL Cross\nAS-Toad\nCrossed Step Through Wrap\nToad Unwrap\nOpen",
     "DATE": "2022-4-14"
   },
   {
-    "NAME": "AS-Toad Combo 5",
-    "SKILLS": "Swing\nToad Cross\nAS Dive\nAS-Toad\nAS Swing\nCL",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#AT05",
+    "NAME": "AS-Toad Combo 5",
+    "ID": "AT05",
+    "SKILLS": "Swing\nToad Cross\nAS Dive\nAS-Toad\nAS Swing\nCL",
     "DATE": "2022-4-15"
   },
   {
-    "NAME": "AS-Toad Combo 6",
-    "SKILLS": "Ground Stall\nGround Toad Swing\nAS-Toad\nToad Swing\nEB Toad\nEB Swing\nEB Wrap\nEB Unwrap 180\nBackwards EB Swing\nBackwards TS Cross\nBackwards EB Swing 180",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#AT06",
+    "NAME": "AS-Toad Combo 6",
+    "ID": "AT06",
+    "SKILLS": "Ground Stall\nGround Toad Swing\nAS-Toad\nToad Swing\nEB Toad\nEB Swing\nEB Wrap\nEB Unwrap 180\nBackwards EB Swing\nBackwards TS Cross\nBackwards EB Swing 180",
     "DATE": "2022-4-16"
   },
   {
-    "NAME": "AS-Toad Combo 7",
-    "SKILLS": "Caboose\nBackwards Uber\nBackwards EB Toad\nBackwards Toad Swing Stall\nToad Swing\nAS-Toad\nToad Thigh Wrap",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#AT07",
+    "NAME": "AS-Toad Combo 7",
+    "ID": "AT07",
+    "SKILLS": "Caboose\nBackwards Uber\nBackwards EB Toad\nBackwards Toad Swing Stall\nToad Swing\nAS-Toad\nToad Thigh Wrap",
     "DATE": "2022-4-17"
   },
   {
-    "NAME": "Awesome Annie Combo 1",
-    "SKILLS": "Mamba\nGround Awesome Annie (double)",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA01",
+    "NAME": "Awesome Annie Combo 1",
+    "ID": "AA01",
+    "SKILLS": "Mamba\nGround Awesome Annie (double)",
     "DATE": "2020-11-30"
   },
   {
-    "NAME": "Awesome Annie Combo 2",
-    "SKILLS": "Toad Cross\nAwesome Annie\nLeg Over Mic Release\nLeg Over Catch\nAwesome Annie to Toad Cross\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA02",
+    "NAME": "Awesome Annie Combo 2",
+    "ID": "AA02",
+    "SKILLS": "Toad Cross\nAwesome Annie\nLeg Over Mic Release\nLeg Over Catch\nAwesome Annie to Toad Cross\nOpen",
     "DATE": "2020-12-01"
   },
   {
-    "NAME": "Awesome Annie Combo 3",
-    "SKILLS": "Ground Awesome Annie (double)\nLeg Over into Awesome Annie",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA03",
+    "NAME": "Awesome Annie Combo 3",
+    "ID": "AA03",
+    "SKILLS": "Ground Awesome Annie (double)\nLeg Over into Awesome Annie",
     "DATE": "2020-12-02"
   },
   {
-    "NAME": "Awesome Annie Combo 4",
-    "SKILLS": "Open, Leg Over (double)\nAwesome Annie to Toad Cross\nCL Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA04",
+    "NAME": "Awesome Annie Combo 4",
+    "ID": "AA04",
+    "SKILLS": "Open, Leg Over (double)\nAwesome Annie to Toad Cross\nCL Cross",
     "DATE": "2020-12-03"
   },
   {
-    "NAME": "Awesome Annie Combo 5",
-    "SKILLS": "EB Toad\nAwesome Annie to Leg Over\nAwesome Annie to Toad Cross\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA05",
+    "NAME": "Awesome Annie Combo 5",
+    "ID": "AA05",
+    "SKILLS": "EB Toad\nAwesome Annie to Leg Over\nAwesome Annie to Toad Cross\nOpen",
     "DATE": "2020-12-04"
   },
   {
-    "NAME": "Awesome Annie Combo 6",
-    "SKILLS": "Leg Over (left)\nAwesome Annie\nStep-Through Mic Release (left)",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA06",
+    "NAME": "Awesome Annie Combo 6",
+    "ID": "AA06",
+    "SKILLS": "Leg Over (left)\nAwesome Annie\nStep-Through Mic Release (left)",
     "DATE": "2020-12-05"
   },
   {
-    "NAME": "Awesome Annie Combo 7",
-    "SKILLS": "Toad Cross (right)\nAwesome Annie to Leg Over\nMic Release (in Leg Over)\nToad Cross (left)\nAwesome Annie to Leg Over\nBasic Cross\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA07",
+    "NAME": "Awesome Annie Combo 7",
+    "ID": "AA07",
+    "SKILLS": "Toad Cross (right)\nAwesome Annie to Leg Over\nMic Release (in Leg Over)\nToad Cross (left)\nAwesome Annie to Leg Over\nBasic Cross\nOpen",
     "DATE": "2020-12-06"
   },
   {
-    "NAME": "Backwards Cross Combo 1",
-    "SKILLS": "Backwards Basic Cross\nBackwards Open\nBackwards Basic Cross\nBackwards Basic Cross\nBackwards Swing\nBackwards Backwards Basic Cross\nBackwards Swing \nBackwards Basic Cross \nBackwards Heel Catch",
     "LINK": "",
+    "NAME": "Backwards Cross Combo 1",
+    "ID": "BB01",
+    "SKILLS": "Backwards Basic Cross\nBackwards Open\nBackwards Basic Cross\nBackwards Basic Cross\nBackwards Swing\nBackwards Backwards Basic Cross\nBackwards Swing \nBackwards Basic Cross \nBackwards Heel Catch",
     "DATE": "2021-10-18"
   },
   {
-    "NAME": "Backwards Cross Combo 2",
-    "SKILLS": "Single Under\nStall \nBackwards Basic Cross\nBackwards Side Swing\nBackwards Basic Cross\nBackwards Side Swing\nBackwards Open\nHeel Catch",
     "LINK": "",
+    "NAME": "Backwards Cross Combo 2",
+    "ID": "BB02",
+    "SKILLS": "Single Under\nStall \nBackwards Basic Cross\nBackwards Side Swing\nBackwards Basic Cross\nBackwards Side Swing\nBackwards Open\nHeel Catch",
     "DATE": "2021-10-19"
   },
   {
-    "NAME": "Backwards Cross Combo 3",
-    "SKILLS": "Backwards Basic Cross\nBackwards Basic Cross\nOpen + Straddle\nOpen\nBackwards Cross + Straddle\nBackwards Cross\nHeel Catch",
     "LINK": "",
+    "NAME": "Backwards Cross Combo 3",
+    "ID": "BB03",
+    "SKILLS": "Backwards Basic Cross\nBackwards Basic Cross\nOpen + Straddle\nOpen\nBackwards Cross + Straddle\nBackwards Cross\nHeel Catch",
     "DATE": "2021-10-20"
   },
   {
-    "NAME": "Backwards Cross Combo 4",
-    "SKILLS": "Backwards High Knee\nBackwards Heel Tap \nBackwards Basic Cross + High Knee \nBackwards Open\nBackwards High Knee\nBackwards Heel Tap\nBackwards Basic Cross + High Knee \nBackwards Open \nHeel Catch",
     "LINK": "",
+    "NAME": "Backwards Cross Combo 4",
+    "ID": "BB04",
+    "SKILLS": "Backwards High Knee\nBackwards Heel Tap \nBackwards Basic Cross + High Knee \nBackwards Open\nBackwards High Knee\nBackwards Heel Tap\nBackwards Basic Cross + High Knee \nBackwards Open \nHeel Catch",
     "DATE": "2021-10-21"
   },
   {
-    "NAME": "Backwards Cross Combo 5",
-    "SKILLS": "Backwards Basic Cross\nBackwards Leg Over\nBackwards EB\nBackwards Heel Catch",
     "LINK": "",
+    "NAME": "Backwards Cross Combo 5",
+    "ID": "BB05",
+    "SKILLS": "Backwards Basic Cross\nBackwards Leg Over\nBackwards EB\nBackwards Heel Catch",
     "DATE": "2021-10-22"
   },
   {
-    "NAME": "Backwards Cross Combo 6",
-    "SKILLS": "Basic Cross\nCross Stall Behind Legs\nBackwards Basic Cross\nBackwards Crossed Full Twist 360",
     "LINK": "",
+    "NAME": "Backwards Cross Combo 6",
+    "ID": "BB06",
+    "SKILLS": "Basic Cross\nCross Stall Behind Legs\nBackwards Basic Cross\nBackwards Crossed Full Twist 360",
     "DATE": "2021-10-23"
   },
   {
-    "NAME": "Backwards Cross Combo 7",
-    "SKILLS": "Backwards Same Side Mic\nBackwards Swing\nBackwards Basic Cross\nBTF Crossed Texan 180",
     "LINK": "",
+    "NAME": "Backwards Cross Combo 7",
+    "ID": "BB07",
+    "SKILLS": "Backwards Same Side Mic\nBackwards Swing\nBackwards Basic Cross\nBTF Crossed Texan 180",
     "DATE": "2021-10-24"
   },
   {
-    "NAME": "Beginner Combo 1",
-    "SKILLS": "Open\nSwing (jump, left)\nOpen\nSwing (no jump, left)\nOpen\nSwing (jump, left)\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG01",
+    "NAME": "Beginner Combo 1",
+    "ID": "BG01",
+    "SKILLS": "Open\nSwing (jump, left)\nOpen\nSwing (no jump, left)\nOpen\nSwing (jump, left)\nOpen\nToe Catch",
     "DATE": "2021-1-4"
   },
   {
-    "NAME": "Beginner Combo 2",
-    "SKILLS": "Swing (left)\nBasic Cross\nOpen\nSwing (right)\nBasic Cross\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG02",
+    "NAME": "Beginner Combo 2",
+    "ID": "BG02",
+    "SKILLS": "Swing (left)\nBasic Cross\nOpen\nSwing (right)\nBasic Cross\nOpen\nToe Catch",
     "DATE": "2021-1-5"
   },
   {
-    "NAME": "Beginner Combo 3",
-    "SKILLS": "Swing (right)\nOpen\nSwing (left)\nBasic Cross\nCross Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG03",
+    "NAME": "Beginner Combo 3",
+    "ID": "BG03",
+    "SKILLS": "Swing (right)\nOpen\nSwing (left)\nBasic Cross\nCross Toe Catch",
     "DATE": "2021-1-6"
   },
   {
-    "NAME": "Beginner Combo 4",
-    "SKILLS": "Basic Cross\nBasic Cross\nSwing (right)\nOpen\nSwing (left)\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG04",
+    "NAME": "Beginner Combo 4",
+    "ID": "BG04",
+    "SKILLS": "Basic Cross\nBasic Cross\nSwing (right)\nOpen\nSwing (left)\nOpen\nToe Catch",
     "DATE": "2021-1-7"
   },
   {
-    "NAME": "Beginner Combo 5",
-    "SKILLS": "Basic Cross\nSwing\nSwing\nOpen\nBasic Cross\nOpen One-Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG05",
+    "NAME": "Beginner Combo 5",
+    "ID": "BG05",
+    "SKILLS": "Basic Cross\nSwing\nSwing\nOpen\nBasic Cross\nOpen One-Foot Catch",
     "DATE": "2021-1-8"
   },
   {
-    "NAME": "Beginner Combo 6",
-    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nBasic Cross\nCrossed Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG06",
+    "NAME": "Beginner Combo 6",
+    "ID": "BG06",
+    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nBasic Cross\nCrossed Toe Catch",
     "DATE": "2021-1-9"
   },
   {
-    "NAME": "Beginner Combo 7",
-    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nBackwards Open\nBackwards Swing\nBackwards Basic Cross\nBackwards Open\nBackwards Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG07",
+    "NAME": "Beginner Combo 7",
+    "ID": "BG07",
+    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nBackwards Open\nBackwards Swing\nBackwards Basic Cross\nBackwards Open\nBackwards Heel Catch",
     "DATE": "2021-1-10"
   },
   {
-    "NAME": "Beginner Combo 8",
-    "SKILLS": "Basic Cross\nBasic Cross\nSwing\nBasic Cross\nBasic Cross\nCrossed Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG08",
+    "NAME": "Beginner Combo 8",
+    "ID": "BG08",
+    "SKILLS": "Basic Cross\nBasic Cross\nSwing\nBasic Cross\nBasic Cross\nCrossed Toe Catch",
     "DATE": "2021-1-18"
   },
   {
-    "NAME": "Beginner Combo 9",
-    "SKILLS": "Open\nOO Double\nBasic Cross\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG09",
+    "NAME": "Beginner Combo 9",
+    "ID": "BG09",
+    "SKILLS": "Open\nOO Double\nBasic Cross\nOpen\nToe Catch",
     "DATE": "2021-1-19"
   },
   {
-    "NAME": "Beginner Combo 10",
-    "SKILLS": "Open\nOO Double\nSwing (jump, left)\nOpen\nSwing (jump, right)\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG10",
+    "NAME": "Beginner Combo 10",
+    "ID": "BG10",
+    "SKILLS": "Open\nOO Double\nSwing (jump, left)\nOpen\nSwing (jump, right)\nOpen\nToe Catch",
     "DATE": "2021-1-20"
   },
   {
-    "NAME": "Beginner Combo 11",
-    "SKILLS": "Basic Cross\nOO Double\nBasic Cross\nOO Double \nBasic Cross\nOO Double\nOO Double\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG11",
+    "NAME": "Beginner Combo 11",
+    "ID": "BG11",
+    "SKILLS": "Basic Cross\nOO Double\nBasic Cross\nOO Double \nBasic Cross\nOO Double\nOO Double\nOpen\nToe Catch",
     "DATE": "2021-1-21"
   },
   {
-    "NAME": "Beginner Combo 12",
-    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nOpen\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG12",
+    "NAME": "Beginner Combo 12",
+    "ID": "BG12",
+    "SKILLS": "Open\nSwing (jump, left)\nSwing (jump, right)\nOpen\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nOpen\nToe Catch",
     "DATE": "2021-1-22"
   },
   {
-    "NAME": "Beginner Combo 13",
-    "SKILLS": "Right Foot\nRight Foot\nLeft Foot\nLeft Foot\nBasic Cross\nOO Double \nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG13",
+    "NAME": "Beginner Combo 13",
+    "ID": "BG13",
+    "SKILLS": "Right Foot\nRight Foot\nLeft Foot\nLeft Foot\nBasic Cross\nOO Double \nOpen\nToe Catch",
     "DATE": "2021-1-23"
   },
   {
-    "NAME": "Beginner Combo 14",
-    "SKILLS": "Straddle\nBasic Cross\nSwing (jump, left)\nBasic Cross\nOpen\nSwing (jump, left)\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG14",
+    "NAME": "Beginner Combo 14",
+    "ID": "BG14",
+    "SKILLS": "Straddle\nBasic Cross\nSwing (jump, left)\nBasic Cross\nOpen\nSwing (jump, left)\nOpen\nToe Catch",
     "DATE": "2021-1-24"
   },
   {
-    "NAME": "Beginner Combo 15",
-    "SKILLS": "Backwards Open\nBackwards Basic Cross\nBackwards Open\nBackwards Swing\nBackwards Basic Cross\nBackwards Basic Cross\nBackwards Open\nBackwards Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG15",
+    "NAME": "Beginner Combo 15",
+    "ID": "BG15",
+    "SKILLS": "Backwards Open\nBackwards Basic Cross\nBackwards Open\nBackwards Swing\nBackwards Basic Cross\nBackwards Basic Cross\nBackwards Open\nBackwards Heel Catch",
     "DATE": "2021-2-1"
   },
   {
-    "NAME": "Beginner Combo 16",
-    "SKILLS": "Backwards Open\nBackwards Double\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG16",
+    "NAME": "Beginner Combo 16",
+    "ID": "BG16",
+    "SKILLS": "Backwards Open\nBackwards Double\nBackwards Cross\nBackwards Cross\nBackwards Open\nBackwards Heel Catch",
     "DATE": "2021-2-2"
   },
   {
-    "NAME": "Beginner Combo 17",
-    "SKILLS": "Backwards Open\nBackwards High Knee (right)\nBackwards Open\nBackwards High Kick (right)\nBackwards Open\nBackwards High Knee (left)\nBackwards Open\nBackwards High Kick (left)\nBackwards Open\nBackwards Straddle\nBackwards Basic Cross\nBackwards Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG17",
+    "NAME": "Beginner Combo 17",
+    "ID": "BG17",
+    "SKILLS": "Backwards Open\nBackwards High Knee (right)\nBackwards Open\nBackwards High Kick (right)\nBackwards Open\nBackwards High Knee (left)\nBackwards Open\nBackwards High Kick (left)\nBackwards Open\nBackwards Straddle\nBackwards Basic Cross\nBackwards Heel Catch",
     "DATE": "2021-2-3"
   },
   {
-    "NAME": "Beginner Combo 18",
-    "SKILLS": "Open\nSwing Heel Click\nOpen\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG18",
+    "NAME": "Beginner Combo 18",
+    "ID": "BG18",
+    "SKILLS": "Open\nSwing Heel Click\nOpen\nToe Catch",
     "DATE": "2021-2-4"
   },
   {
-    "NAME": "Beginner Combo 19",
-    "SKILLS": "Backwards Basic Cross\nBackwards Swing (right)\nBackwards Basic Cross\nBackwards Swing (left)\nBackwards Cross\nBackwards Basic Cross\nBackwards Open Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG19",
+    "NAME": "Beginner Combo 19",
+    "ID": "BG19",
+    "SKILLS": "Backwards Basic Cross\nBackwards Swing (right)\nBackwards Basic Cross\nBackwards Swing (left)\nBackwards Cross\nBackwards Basic Cross\nBackwards Open Heel Catch",
     "DATE": "2021-2-5"
   },
   {
-    "NAME": "Beginner Combo 20",
-    "SKILLS": "Backwards Open\nBackwards Swing (no jump, right)\nBackwards Basic Cross\nBackwards Swing (jump, right)\nBackwards Basic Cross\nBackwards Swing (no jump, right)\nBackwards Basic Cross\nBackwards Open Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG20",
+    "NAME": "Beginner Combo 20",
+    "ID": "BG20",
+    "SKILLS": "Backwards Open\nBackwards Swing (no jump, right)\nBackwards Basic Cross\nBackwards Swing (jump, right)\nBackwards Basic Cross\nBackwards Swing (no jump, right)\nBackwards Basic Cross\nBackwards Open Heel Catch",
     "DATE": "2021-2-6"
   },
   {
-    "NAME": "Beginner Combo 21",
-    "SKILLS": "Open\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nBasic Cross\nSwing (jump, right)\nSwing (jump, left)\nOpen\nOO Double\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG21",
+    "NAME": "Beginner Combo 21",
+    "ID": "BG21",
+    "SKILLS": "Open\nSwing (no jump, left)\nSwing (no jump, right)\nOpen\nSwing (jump, left)\nSwing (jump, right)\nBasic Cross\nSwing (jump, right)\nSwing (jump, left)\nOpen\nOO Double\nToe Catch",
     "DATE": "2021-2-7"
   },
   {
-    "NAME": "Caboose Combo 1",
-    "SKILLS": "Toad Cross\nCaboose\nBackwards Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB01",
+    "NAME": "Caboose Combo 1",
+    "ID": "CB01",
+    "SKILLS": "Toad Cross\nCaboose\nBackwards Toad",
     "DATE": "2020-8-3"
   },
   {
-    "NAME": "Caboose Combo 2",
-    "SKILLS": "Swing\nInverse Toad Swing\nInverse Toad Gogo\nOpen Caboose Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB02",
+    "NAME": "Caboose Combo 2",
+    "ID": "CB02",
+    "SKILLS": "Swing\nInverse Toad Swing\nInverse Toad Gogo\nOpen Caboose Double",
     "DATE": "2020-8-4"
   },
   {
-    "NAME": "Caboose Combo 3",
-    "SKILLS": "Caboose\nBackwards Stall (between legs)\nForwards AS-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB03",
+    "NAME": "Caboose Combo 3",
+    "ID": "CB03",
+    "SKILLS": "Caboose\nBackwards Stall (between legs)\nForwards AS-Toad",
     "DATE": "2020-8-5"
   },
   {
-    "NAME": "Caboose Combo 4",
-    "SKILLS": "Leg Over\nLeg Over Wrap\nUnwrap Swing\nToad\nCaboose\nBackwards OC Double\nStall to Forwards Open Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB04",
+    "NAME": "Caboose Combo 4",
+    "ID": "CB04",
+    "SKILLS": "Leg Over\nLeg Over Wrap\nUnwrap Swing\nToad\nCaboose\nBackwards OC Double\nStall to Forwards Open Double",
     "DATE": "2020-8-6"
   },
   {
-    "NAME": "Caboose Combo 5",
-    "SKILLS": "Mic Release\nCaboose\nBackwards Basic Cross\nStall (between legs)\nForwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB05",
+    "NAME": "Caboose Combo 5",
+    "ID": "CB05",
+    "SKILLS": "Mic Release\nCaboose\nBackwards Basic Cross\nStall (between legs)\nForwards Open",
     "DATE": "2020-8-7"
   },
   {
-    "NAME": "Caboose Combo 6",
-    "SKILLS": "Caboose\nBackwards 360\nStall (between legs)\nForwards Open, Caboose (double)",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB06",
+    "NAME": "Caboose Combo 6",
+    "ID": "CB06",
+    "SKILLS": "Caboose\nBackwards 360\nStall (between legs)\nForwards Open, Caboose (double)",
     "DATE": "2020-8-8"
   },
   {
-    "NAME": "Caboose Combo 7",
-    "SKILLS": "Leg Over\nOpen Caboose\nBackwards Leg Over (other side)",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB07",
+    "NAME": "Caboose Combo 7",
+    "ID": "CB07",
+    "SKILLS": "Leg Over\nOpen Caboose\nBackwards Leg Over (other side)",
     "DATE": "2020-8-9"
   },
   {
-    "NAME": "Catch Combo 1",
-    "SKILLS": "Swing\nFoot Catch\nReverse Direction",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA01",
+    "NAME": "Catch Combo 1",
+    "ID": "CA01",
+    "SKILLS": "Swing\nFoot Catch\nReverse Direction",
     "DATE": "2020-8-31"
   },
   {
-    "NAME": "Catch Combo 2",
-    "SKILLS": "Backwards EB Cross 4\nLJ Catch\nForwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA02",
+    "NAME": "Catch Combo 2",
+    "ID": "CA02",
+    "SKILLS": "Backwards EB Cross 4\nLJ Catch\nForwards Open",
     "DATE": "2020-9-1"
   },
   {
-    "NAME": "Catch Combo 3",
-    "SKILLS": "Swing\nEB Cross\nMic Release\nFoot Catch\nBackwards SC Double\nSO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA03",
+    "NAME": "Catch Combo 3",
+    "ID": "CA03",
+    "SKILLS": "Swing\nEB Cross\nMic Release\nFoot Catch\nBackwards SC Double\nSO Double",
     "DATE": "2020-9-2"
   },
   {
-    "NAME": "Catch Combo 4",
-    "SKILLS": "Backwards SC Double\nLeeMan Catch\nCO Double\nSO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA04",
+    "NAME": "Catch Combo 4",
+    "ID": "CA04",
+    "SKILLS": "Backwards SC Double\nLeeMan Catch\nCO Double\nSO Double",
     "DATE": "2020-9-3"
   },
   {
-    "NAME": "Catch Combo 5",
-    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nCross Catch\nForwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA05",
+    "NAME": "Catch Combo 5",
+    "ID": "CA05",
+    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nCross Catch\nForwards Open",
     "DATE": "2020-9-4"
   },
   {
-    "NAME": "Catch Combo 6",
-    "SKILLS": "Swing\nBasic Cross\nSwing\nEB Cross\nMic Release\nCrossed Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA06",
+    "NAME": "Catch Combo 6",
+    "ID": "CA06",
+    "SKILLS": "Swing\nBasic Cross\nSwing\nEB Cross\nMic Release\nCrossed Foot Catch",
     "DATE": "2020-9-5"
   },
   {
-    "NAME": "Catch Combo 7",
-    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nBackwards Swing\nBackwards Step-Through Mic Release\nCrossed Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA07",
+    "NAME": "Catch Combo 7",
+    "ID": "CA07",
+    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nBackwards Swing\nBackwards Step-Through Mic Release\nCrossed Foot Catch",
     "DATE": "2020-9-6"
   },
   {
-    "NAME": "CL TUTORIAL",
-    "SKILLS": "",
     "LINK": "",
+    "NAME": "CL TUTORIAL",
+    "ID": "CLTUT",
+    "SKILLS": "",
     "DATE": ""
   },
   {
-    "NAME": "CL Combo 1",
-    "SKILLS": "Ground Stall\nCL Cross\nOpen\nCL Cross\nOpen",
     "LINK": "https://www.natekg.com/cl/#CL01",
+    "NAME": "CL Combo 1",
+    "ID": "CL01",
+    "SKILLS": "Ground Stall\nCL Cross\nOpen\nCL Cross\nOpen",
     "DATE": "2020-12-28"
   },
   {
-    "NAME": "CL Combo 2",
-    "SKILLS": "Inverse Toad Cross\nCL Cross",
     "LINK": "https://www.natekg.com/cl/#CL02",
+    "NAME": "CL Combo 2",
+    "ID": "CL02",
+    "SKILLS": "Inverse Toad Cross\nCL Cross",
     "DATE": "2020-12-29"
   },
   {
-    "NAME": "CL Combo 3",
-    "SKILLS": "Leg Over\nCL Cross\nToad Cross\nCL Cross",
     "LINK": "https://www.natekg.com/cl/#CL03",
+    "NAME": "CL Combo 3",
+    "ID": "CL03",
+    "SKILLS": "Leg Over\nCL Cross\nToad Cross\nCL Cross",
     "DATE": "2020-12-30"
   },
   {
-    "NAME": "CL Combo 4",
-    "SKILLS": "Swing\nEB Cross\nSwing\nCL Cross\nOpen",
     "LINK": "https://www.natekg.com/cl/#CL04",
+    "NAME": "CL Combo 4",
+    "ID": "CL04",
+    "SKILLS": "Swing\nEB Cross\nSwing\nCL Cross\nOpen",
     "DATE": "2020-12-31"
   },
   {
-    "NAME": "CL Combo 5",
-    "SKILLS": "AS Cross\nCL Cross",
     "LINK": "https://www.natekg.com/cl/#CL05",
+    "NAME": "CL Combo 5",
+    "ID": "CL05",
+    "SKILLS": "AS Cross\nCL Cross",
     "DATE": "2021-1-1"
   },
   {
-    "NAME": "CL Combo 6",
-    "SKILLS": "AS Cross Open double (land in CL)\nCL Cross",
     "LINK": "https://www.natekg.com/cl/#CL06",
+    "NAME": "CL Combo 6",
+    "ID": "CL06",
+    "SKILLS": "AS Cross Open double (land in CL)\nCL Cross",
     "DATE": "2021-1-2"
   },
   {
-    "NAME": "CL Combo 7",
-    "SKILLS": "CL Cross\n180 Swing Behind Back\nBackwards Toad Cross",
     "LINK": "https://www.natekg.com/cl/#CL07",
+    "NAME": "CL Combo 7",
+    "ID": "CL07",
+    "SKILLS": "CL Cross\n180 Swing Behind Back\nBackwards Toad Cross",
     "DATE": "2021-1-3"
   },
   {
-    "NAME": "CL Combo 8",
-    "SKILLS": "Toad Cross\n1.5 Down To Ground Stall\nCL Cross\nInverse Toad Cross\n1.5 Down To Ground Stall\nAS Cross",
     "LINK": "https://www.natekg.com/cl/#CL08",
+    "NAME": "CL Combo 8",
+    "ID": "CL08",
+    "SKILLS": "Toad Cross\n1.5 Down To Ground Stall\nCL Cross\nInverse Toad Cross\n1.5 Down To Ground Stall\nAS Cross",
     "DATE": "2021-10-25"
   },
   {
-    "NAME": "CL Combo 9",
-    "SKILLS": "Swing\nToad Cross\nCL Cross\nEB Wrap \nUnwrap 180",
     "LINK": "https://www.natekg.com/cl/#CL09",
+    "NAME": "CL Combo 9",
+    "ID": "CL09",
+    "SKILLS": "Swing\nToad Cross\nCL Cross\nEB Wrap \nUnwrap 180",
     "DATE": "2021-10-26"
   },
   {
-    "NAME": "CL Combo 10",
-    "SKILLS": "CL Cross\nEB Gogo Swing\nBehind The Back Swing\nLeg Hook 360",
     "LINK": "https://www.natekg.com/cl/#CL10",
+    "NAME": "CL Combo 10",
+    "ID": "CL10",
+    "SKILLS": "CL Cross\nEB Gogo Swing\nBehind The Back Swing\nLeg Hook 360",
     "DATE": "2021-10-27"
   },
   {
-    "NAME": "CL Combo 11",
-    "SKILLS": "CL Cross\nCL Leg Wrap\nUnwrap\nBehind The Back Swing\nSO Double",
     "LINK": "https://www.natekg.com/cl/#CL11",
+    "NAME": "CL Combo 11",
+    "ID": "CL11",
+    "SKILLS": "CL Cross\nCL Leg Wrap\nUnwrap\nBehind The Back Swing\nSO Double",
     "DATE": "2021-10-28"
   },
   {
-    "NAME": "CL Combo 12",
-    "SKILLS": "Mic Release\nOpen\nBehind The Back Swing\nCL Cross\nOpen",
     "LINK": "https://www.natekg.com/cl/#CL12",
+    "NAME": "CL Combo 12",
+    "ID": "CL12",
+    "SKILLS": "Mic Release\nOpen\nBehind The Back Swing\nCL Cross\nOpen",
     "DATE": "2021-10-29"
   },
   {
-    "NAME": "CL Combo 13",
-    "SKILLS": "CL Cross\nEB Inverse Toad\nInverse Toad Swing\nElephant",
     "LINK": "https://www.natekg.com/cl/#CL13",
+    "NAME": "CL Combo 13",
+    "ID": "CL13",
+    "SKILLS": "CL Cross\nEB Inverse Toad\nInverse Toad Swing\nElephant",
     "DATE": "2021-10-30"
   },
   {
-    "NAME": "CL Combo 14",
-    "SKILLS": "Elephant\nInverse Toad Gogo\nCL Cross",
     "LINK": "https://www.natekg.com/cl/#CL14",
+    "NAME": "CL Combo 14",
+    "ID": "CL14",
+    "SKILLS": "Elephant\nInverse Toad Gogo\nCL Cross",
     "DATE": "2021-10-31"
   },
   {
-    "NAME": "Cross Combo 1",
-    "SKILLS": "Basic Cross\nOO Double\nBasic Cross\nOC Double\nBasic Cross\nCO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CR01",
+    "NAME": "Cross Combo 1",
+    "ID": "CR01",
+    "SKILLS": "Basic Cross\nOO Double\nBasic Cross\nOC Double\nBasic Cross\nCO Double",
     "DATE": "2020-11-16"
   },
   {
-    "NAME": "Cross Combo 2",
-    "SKILLS": "Basic Cross\nSwing 180\nBackwards Basic Cross\nBackwards OO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CR02",
+    "NAME": "Cross Combo 2",
+    "ID": "CR02",
+    "SKILLS": "Basic Cross\nSwing 180\nBackwards Basic Cross\nBackwards OO Double",
     "DATE": "2020-11-17"
   },
   {
-    "NAME": "Cross Combo 3",
-    "SKILLS": "Swing\nBasic Cross\nOpen, Toad (double)\nAwesome Annie\nBasic Cross\nSwitch Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CR03",
+    "NAME": "Cross Combo 3",
+    "ID": "CR03",
+    "SKILLS": "Swing\nBasic Cross\nOpen, Toad (double)\nAwesome Annie\nBasic Cross\nSwitch Cross",
     "DATE": "2020-11-18"
   },
   {
-    "NAME": "Cross Combo 4",
-    "SKILLS": "Basic Cross\nToad Cross\nToad Stall\nBackwards Toad Cross\nBackwards Basic Cross\nCrossed Texan 180\nForwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CR04",
+    "NAME": "Cross Combo 4",
+    "ID": "CR04",
+    "SKILLS": "Basic Cross\nToad Cross\nToad Stall\nBackwards Toad Cross\nBackwards Basic Cross\nCrossed Texan 180\nForwards Open",
     "DATE": "2020-11-19"
   },
   {
-    "NAME": "Cross Combo 5",
-    "SKILLS": "Backwards Basic Cross\nBasic Cross Stall\nForwards Basic Cross\n180 to Backwards Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CR05",
+    "NAME": "Cross Combo 5",
+    "ID": "CR05",
+    "SKILLS": "Backwards Basic Cross\nBasic Cross Stall\nForwards Basic Cross\n180 to Backwards Toad Cross",
     "DATE": "2020-11-20"
   },
   {
-    "NAME": "Cross Combo 6",
-    "SKILLS": "Swing\nBasic Cross\nBasic Crossed Stall, Backwards Open (double)\nBackwards Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CR06",
+    "NAME": "Cross Combo 6",
+    "ID": "CR06",
+    "SKILLS": "Swing\nBasic Cross\nBasic Crossed Stall, Backwards Open (double)\nBackwards Basic Cross",
     "DATE": "2020-11-21"
   },
   {
-    "NAME": "Cross Combo 7",
-    "SKILLS": "Basic Cross\n180 (holding the Cross)\nBackwards Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CR07",
+    "NAME": "Cross Combo 7",
+    "ID": "CR07",
+    "SKILLS": "Basic Cross\n180 (holding the Cross)\nBackwards Basic Cross",
     "DATE": "2020-11-22"
   },
   {
+    "LINK": "",
     "NAME": "Creativity Combo 1",
+    "ID": "CT01",
     "SKILLS": "Swing\nBasic Cross\nSwing\nEB Cross\nSwing (same side)\nBasic Cross\nOC Double (switching top hand)",
-    "LINK": "",
     "DATE": "2021-5-25"
   },
   {
+    "LINK": "",
     "NAME": "Creativity Combo 2",
+    "ID": "CT02",
     "SKILLS": "Swing\nToad\nSwing\nEB Toad\nOpen\nSwing\nBasic Cross\nSwitch Cross",
-    "LINK": "",
     "DATE": "2021-5-25"
   },
   {
-    "NAME": "Creativity Combo 3",
-    "SKILLS": "Swing\nBasic Cross + High Knee\nFoot Cross\nHigh Knee + Swing\nEB Cross\nSwing\nBasic Cross\nSwitch Cross",
     "LINK": "",
+    "NAME": "Creativity Combo 3",
+    "ID": "CT03",
+    "SKILLS": "Swing\nBasic Cross + High Knee\nFoot Cross\nHigh Knee + Swing\nEB Cross\nSwing\nBasic Cross\nSwitch Cross",
     "DATE": "2021-5-26"
   },
   {
-    "NAME": "Creativity Combo 4",
-    "SKILLS": "Swing\nBasic Cross + High Knee\nSwing\nEB Swing + Side Tap\nSwing other side \nEB swing + Side Tap",
     "LINK": "",
+    "NAME": "Creativity Combo 4",
+    "ID": "CT04",
+    "SKILLS": "Swing\nBasic Cross + High Knee\nSwing\nEB Swing + Side Tap\nSwing other side \nEB swing + Side Tap",
     "DATE": "2021-5-27"
   },
   {
-    "NAME": "Creativity Combo 5",
-    "SKILLS": "SC\nSEB\nSC\nOC",
     "LINK": "",
+    "NAME": "Creativity Combo 5",
+    "ID": "CT05",
+    "SKILLS": "SC\nSEB\nSC\nOC",
     "DATE": "2021-5-28"
   },
   {
-    "NAME": "Creativity Combo 6",
-    "SKILLS": "Swing\nBasic Cross\nSwing same side\nEB Cross\nSwing\nBasic Cross\nSwitch Cross",
     "LINK": "",
+    "NAME": "Creativity Combo 6",
+    "ID": "CT06",
+    "SKILLS": "Swing\nBasic Cross\nSwing same side\nEB Cross\nSwing\nBasic Cross\nSwitch Cross",
     "DATE": "2021-5-29"
   },
   {
-    "NAME": "Creativity Combo 7",
-    "SKILLS": "Mic Release\nSwing\nBasic Cross\nMic Release\nSwing\nEB Cross",
     "LINK": "",
+    "NAME": "Creativity Combo 7",
+    "ID": "CT07",
+    "SKILLS": "Mic Release\nSwing\nBasic Cross\nMic Release\nSwing\nEB Cross",
     "DATE": "2021-5-30"
   },
   {
-    "NAME": "Doubles Combo 1",
-    "SKILLS": "OO Double\nOC Double\nCC Double\nCO Double\nSC Double (left)\nSC (right)",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DU01",
+    "NAME": "Doubles Combo 1",
+    "ID": "DU01",
+    "SKILLS": "OO Double\nOC Double\nCC Double\nCO Double\nSC Double (left)\nSC (right)",
     "DATE": "2020-11-23"
   },
   {
-    "NAME": "Doubles Combo 2",
-    "SKILLS": "SCDouble (left)\nSwitch Cross (C-C) Double\nSC Double (right)",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DU02",
+    "NAME": "Doubles Combo 2",
+    "ID": "DU02",
+    "SKILLS": "SCDouble (left)\nSwitch Cross (C-C) Double\nSC Double (right)",
     "DATE": "2020-11-24"
   },
   {
-    "NAME": "Doubles Combo 3",
-    "SKILLS": "SEB Double (left)\nSC Double (left)\nSEB Double (right)\nSC Double (right)",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DU03",
+    "NAME": "Doubles Combo 3",
+    "ID": "DU03",
+    "SKILLS": "SEB Double (left)\nSC Double (left)\nSEB Double (right)\nSC Double (right)",
     "DATE": "2020-11-25"
   },
   {
-    "NAME": "Doubles Combo 4",
-    "SKILLS": "Swing Toad Double (left)\nSwing EB Toad Double (left)\nSwing Toad Double (left)\nSEB Double (right)",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DU04",
+    "NAME": "Doubles Combo 4",
+    "ID": "DU04",
+    "SKILLS": "Swing Toad Double (left)\nSwing EB Toad Double (left)\nSwing Toad Double (left)\nSEB Double (right)",
     "DATE": "2020-11-26"
   },
   {
-    "NAME": "Doubles Combo 5",
-    "SKILLS": "SC Double\nCC Double\nSEB Double\nEBEB Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DU05",
+    "NAME": "Doubles Combo 5",
+    "ID": "DU05",
+    "SKILLS": "SC Double\nCC Double\nSEB Double\nEBEB Double",
     "DATE": "2020-11-27"
   },
   {
-    "NAME": "Doubles Combo 6",
-    "SKILLS": "SO Double (right)\nOS Double (left)\nMic Open Double (left)\nCO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DU06",
+    "NAME": "Doubles Combo 6",
+    "ID": "DU06",
+    "SKILLS": "SO Double (right)\nOS Double (left)\nMic Open Double (left)\nCO Double",
     "DATE": "2020-11-28"
   },
   {
-    "NAME": "Doubles Combo 7",
-    "SKILLS": "SO Double\nOpen EB Wrap Double\nUnwrap 180 to Backwards Open Double\nStall to Forwards Open Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DU07",
+    "NAME": "Doubles Combo 7",
+    "ID": "DU07",
+    "SKILLS": "SO Double\nOpen EB Wrap Double\nUnwrap 180 to Backwards Open Double\nStall to Forwards Open Double",
     "DATE": "2020-11-29"
   },
   {
-    "NAME": "EB Combo 1",
-    "SKILLS": "Swing\nEB Cross\nSwing\nBasic Cross\nSEB Double\nSC Double\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB01",
+    "NAME": "EB Combo 1",
+    "ID": "EB01",
+    "SKILLS": "Swing\nEB Cross\nSwing\nBasic Cross\nSEB Double\nSC Double\nOpen",
     "DATE": "2020-8-10"
   },
   {
-    "NAME": "EB Combo 2",
-    "SKILLS": "Swing\nEB Wrap\nUnwrap 180\nBackwards EB Swing (other side)\nBackwards Swing\nBackwards EB Swing\nBackwards Swing",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB02",
+    "NAME": "EB Combo 2",
+    "ID": "EB02",
+    "SKILLS": "Swing\nEB Wrap\nUnwrap 180\nBackwards EB Swing (other side)\nBackwards Swing\nBackwards EB Swing\nBackwards Swing",
     "DATE": "2020-8-11"
   },
   {
-    "NAME": "EB Combo 3",
-    "SKILLS": "Mic Release\nSwing\nEB Cross\n180 to Backwards EB",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB03",
+    "NAME": "EB Combo 3",
+    "ID": "EB03",
+    "SKILLS": "Mic Release\nSwing\nEB Cross\n180 to Backwards EB",
     "DATE": "2020-8-12"
   },
   {
-    "NAME": "EB Combo 4",
-    "SKILLS": "Swing\nEB Swing\nOO Double\nSwing\nEB Cross\nOO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB04",
+    "NAME": "EB Combo 4",
+    "ID": "EB04",
+    "SKILLS": "Swing\nEB Swing\nOO Double\nSwing\nEB Cross\nOO Double",
     "DATE": "2020-8-13"
   },
   {
-    "NAME": "EB Combo 5",
-    "SKILLS": "Backwards Swing\nBackwards EB Cross\nBackwards EB Swing\nBackwards Open\nBackwards EB Swing\nBackwards Swing",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB05",
+    "NAME": "EB Combo 5",
+    "ID": "EB05",
+    "SKILLS": "Backwards Swing\nBackwards EB Cross\nBackwards EB Swing\nBackwards Open\nBackwards EB Swing\nBackwards Swing",
     "DATE": "2020-8-14"
   },
   {
-    "NAME": "EB Combo 6",
-    "SKILLS": "Backwards Swing\nBackwards EB Cross\nBackwards EB Swing\nMic Release\n180 to Forwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB06",
+    "NAME": "EB Combo 6",
+    "ID": "EB06",
+    "SKILLS": "Backwards Swing\nBackwards EB Cross\nBackwards EB Swing\nMic Release\n180 to Forwards Open",
     "DATE": "2020-8-15"
   },
   {
-    "NAME": "EB Combo 7",
-    "SKILLS": "Backwards Swing\nBackwards EB Cross\nBackwards EB Swing\nMic Release (under leg)\nBackwards Swing\nBackwards Swing\nBackwards Swing\nBackwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB07",
+    "NAME": "EB Combo 7",
+    "ID": "EB07",
+    "SKILLS": "Backwards Swing\nBackwards EB Cross\nBackwards EB Swing\nMic Release (under leg)\nBackwards Swing\nBackwards Swing\nBackwards Swing\nBackwards Open",
     "DATE": "2020-8-16"
   },
   {
-    "NAME": "EB Combo 8",
-    "SKILLS": "Swing\nLeg Over\nSwing \nEB Cross\nSwing\nToad Cross\nSwing \nEB Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB08",
+    "NAME": "EB Combo 8",
+    "ID": "EB08",
+    "SKILLS": "Swing\nLeg Over\nSwing \nEB Cross\nSwing\nToad Cross\nSwing \nEB Cross",
     "DATE": "2021-4-5"
   },
   {
-    "NAME": "EB Combo 9",
-    "SKILLS": "Swing\nEB Floater\nOpen\nSwing\nEB Cross\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB09",
+    "NAME": "EB Combo 9",
+    "ID": "EB09",
+    "SKILLS": "Swing\nEB Floater\nOpen\nSwing\nEB Cross\nOpen",
     "DATE": "2021-4-6"
   },
   {
-    "NAME": "EB Combo 10",
-    "SKILLS": "EB Toad Floater\nEB Cross\nSwing\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB10",
+    "NAME": "EB Combo 10",
+    "ID": "EB10",
+    "SKILLS": "EB Toad Floater\nEB Cross\nSwing\nOpen",
     "DATE": "2021-4-7"
   },
   {
-    "NAME": "EB Combo 11",
-    "SKILLS": "Swing\nEB Cross\nEB Stall\nBackwards EB Cross\nBackwards Open\nBackwards Swing\nBackwards Basic Cross\nHeel catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB11",
+    "NAME": "EB Combo 11",
+    "ID": "EB11",
+    "SKILLS": "Swing\nEB Cross\nEB Stall\nBackwards EB Cross\nBackwards Open\nBackwards Swing\nBackwards Basic Cross\nHeel catch",
     "DATE": "2021-4-8"
   },
   {
-    "NAME": "EB Combo 12",
-    "SKILLS": "Backwards EB Cross\nStall to Forwards Double\nSwing\nEB Cross\nSwing \nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB12",
+    "NAME": "EB Combo 12",
+    "ID": "EB12",
+    "SKILLS": "Backwards EB Cross\nStall to Forwards Double\nSwing\nEB Cross\nSwing \nOpen",
     "DATE": "2021-4-9"
   },
   {
-    "NAME": "EB Combo 13",
-    "SKILLS": "Mic\nEB Cross\nMic \nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB13",
+    "NAME": "EB Combo 13",
+    "ID": "EB13",
+    "SKILLS": "Mic\nEB Cross\nMic \nOpen",
     "DATE": "2021-4-10"
   },
   {
-    "NAME": "EB Combo 14",
-    "SKILLS": "Swing\nEB Cross\nOpen\nLeg Hook 360\nDive EB\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB14",
+    "NAME": "EB Combo 14",
+    "ID": "EB14",
+    "SKILLS": "Swing\nEB Cross\nOpen\nLeg Hook 360\nDive EB\nOpen",
     "DATE": "2021-4-11"
   },
   {
-    "NAME": "Elephant Combo 1",
-    "SKILLS": "Swing\nBasic Cross\nElephant",
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL01",
+    "NAME": "Elephant Combo 1",
+    "ID": "EL01",
+    "SKILLS": "Swing\nBasic Cross\nElephant",
     "DATE": "2021-1-25"
   },
   {
-    "NAME": "Elephant Combo 2",
-    "SKILLS": "Leg Over\nToad (same leg)\nToad Swing\nElephant",
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL02",
+    "NAME": "Elephant Combo 2",
+    "ID": "EL02",
+    "SKILLS": "Leg Over\nToad (same leg)\nToad Swing\nElephant",
     "DATE": "2021-1-26"
   },
   {
-    "NAME": "Elephant Combo 3",
-    "SKILLS": "Elephant\nOO Double\nElephant",
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL03",
+    "NAME": "Elephant Combo 3",
+    "ID": "EL03",
+    "SKILLS": "Elephant\nOO Double\nElephant",
     "DATE": "2021-1-27"
   },
   {
-    "NAME": "Elephant Combo 4",
-    "SKILLS": "Elephant\nStep-Through Mic",
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL04",
+    "NAME": "Elephant Combo 4",
+    "ID": "EL04",
+    "SKILLS": "Elephant\nStep-Through Mic",
     "DATE": "2021-1-28"
   },
   {
-    "NAME": "Elephant Combo 5",
-    "SKILLS": "Elephant\nLeg Over\nBasic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL05",
+    "NAME": "Elephant Combo 5",
+    "ID": "EL05",
+    "SKILLS": "Elephant\nLeg Over\nBasic Cross",
     "DATE": "2021-1-29"
   },
   {
-    "NAME": "Elephant Combo 6",
-    "SKILLS": "Elephant\nStall\nBackwards Elephant",
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL06",
+    "NAME": "Elephant Combo 6",
+    "ID": "EL06",
+    "SKILLS": "Elephant\nStall\nBackwards Elephant",
     "DATE": "2021-1-30"
   },
   {
-    "NAME": "Elephant Combo 7",
-    "SKILLS": "Inverse Toad Cross\nSwitch Cross into Elephant\nInverse Toad Gogo",
     "LINK": "https://www.natekg.com/jump-rope-combos/elephant#EL07",
+    "NAME": "Elephant Combo 7",
+    "ID": "EL07",
+    "SKILLS": "Inverse Toad Cross\nSwitch Cross into Elephant\nInverse Toad Gogo",
     "DATE": "2021-1-31"
   },
   {
-    "NAME": "Floater Combo 1",
-    "SKILLS": "Toad Cross\nFloater\nBasic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters/#FL01",
+    "NAME": "Floater Combo 1",
+    "ID": "FL01",
+    "SKILLS": "Toad Cross\nFloater\nBasic Cross",
     "DATE": "2020-10-5"
   },
   {
-    "NAME": "Floater Combo 2",
-    "SKILLS": "Swing\nEB Toad\nFloater\nEB Cross\nEB Swing\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters/#FL02",
+    "NAME": "Floater Combo 2",
+    "ID": "FL02",
+    "SKILLS": "Swing\nEB Toad\nFloater\nEB Cross\nEB Swing\nOpen",
     "DATE": "2020-10-6"
   },
   {
-    "NAME": "Floater Combo 3",
-    "SKILLS": "Leg Over\nFloater\nOO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters/#FL03",
+    "NAME": "Floater Combo 3",
+    "ID": "FL03",
+    "SKILLS": "Leg Over\nFloater\nOO Double",
     "DATE": "2020-10-7"
   },
   {
-    "NAME": "Floater Combo 4",
-    "SKILLS": "Leg Over\nFloater\nLeg Over (over the top placement)\nSwing\nSwing",
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters/#FL04",
+    "NAME": "Floater Combo 4",
+    "ID": "FL04",
+    "SKILLS": "Leg Over\nFloater\nLeg Over (over the top placement)\nSwing\nSwing",
     "DATE": "2020-10-8"
   },
   {
-    "NAME": "Floater Combo 5",
-    "SKILLS": "Basic Cross\nFloater (double)\nCaboose",
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters/#FL05",
+    "NAME": "Floater Combo 5",
+    "ID": "FL05",
+    "SKILLS": "Basic Cross\nFloater (double)\nCaboose",
     "DATE": "2020-10-9"
   },
   {
-    "NAME": "Floater Combo 6",
-    "SKILLS": "Backwards Leg Hook\nFloater Stall\nForwards Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters/#FL06",
+    "NAME": "Floater Combo 6",
+    "ID": "FL06",
+    "SKILLS": "Backwards Leg Hook\nFloater Stall\nForwards Toad Cross",
     "DATE": "2020-10-10"
   },
   {
-    "NAME": "Floater Combo 7",
-    "SKILLS": "Basic Cross\nFloater Switch (double)\nBasic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/floaters/#FL07",
+    "NAME": "Floater Combo 7",
+    "ID": "FL07",
+    "SKILLS": "Basic Cross\nFloater Switch (double)\nBasic Cross",
     "DATE": "2020-10-11"
   },
   {
-    "NAME": "Footwork Combo 1",
-    "SKILLS": "Side Straddle\nHigh Knee (right)\nFront Straddle (right)\nHigh Knee (right)\nSide Straddle\nHigh Knee (left)\nFront Straddle (left)\nHigh Knee (left)\nSide Straddle\nSingle Under\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW01",
+    "NAME": "Footwork Combo 1",
+    "ID": "FW01",
+    "SKILLS": "Side Straddle\nHigh Knee (right)\nFront Straddle (right)\nHigh Knee (right)\nSide Straddle\nHigh Knee (left)\nFront Straddle (left)\nHigh Knee (left)\nSide Straddle\nSingle Under\nToe Catch",
     "DATE": "2021-3-29"
   },
   {
-    "NAME": "Footwork Combo 2",
-    "SKILLS": "Single Bounce\nHeel Tap (right)\nToe Tap (right)\nHeel Tap (left)\nToe Tap (left)\nSide Straddle\nCross Straddle\nFull Turn (no bounding)\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW02",
+    "NAME": "Footwork Combo 2",
+    "ID": "FW02",
+    "SKILLS": "Single Bounce\nHeel Tap (right)\nToe Tap (right)\nHeel Tap (left)\nToe Tap (left)\nSide Straddle\nCross Straddle\nFull Turn (no bounding)\nToe Catch",
     "DATE": "2021-3-30"
   },
   {
-    "NAME": "Footwork Combo 3",
-    "SKILLS": "Single Bounce\nSide Straddle\nCross Straddle\nHeel Straddle (right)\nSingle Bounce\nSide Straddle\nCross Straddle\nHeel Straddle (left)\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW03",
+    "NAME": "Footwork Combo 3",
+    "ID": "FW03",
+    "SKILLS": "Single Bounce\nSide Straddle\nCross Straddle\nHeel Straddle (right)\nSingle Bounce\nSide Straddle\nCross Straddle\nHeel Straddle (left)\nSingle Bounce\nToe Catch",
     "DATE": "2021-3-31"
   },
   {
-    "NAME": "Footwork Combo 4",
-    "SKILLS": "Single Bounce\nButt Kick (right)\nButt Kick (left)\nHigh Knee (right)\nHigh Knee (left)\nHeel Tap (right)\nHeel Tap (left)\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW04",
+    "NAME": "Footwork Combo 4",
+    "ID": "FW04",
+    "SKILLS": "Single Bounce\nButt Kick (right)\nButt Kick (left)\nHigh Knee (right)\nHigh Knee (left)\nHeel Tap (right)\nHeel Tap (left)\nSingle Bounce\nToe Catch",
     "DATE": "2021-4-1"
   },
   {
-    "NAME": "Footwork Combo 5",
-    "SKILLS": "Single Bounce\nHigh Knee (right)\nSingle Bounce\nLeg Kick (right)\nSingle Bounce\nHigh Knee (left)\nSingle Bounce\nLeg Kick (left)\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW05",
+    "NAME": "Footwork Combo 5",
+    "ID": "FW05",
+    "SKILLS": "Single Bounce\nHigh Knee (right)\nSingle Bounce\nLeg Kick (right)\nSingle Bounce\nHigh Knee (left)\nSingle Bounce\nLeg Kick (left)\nSingle Bounce\nToe Catch",
     "DATE": "2021-4-2"
   },
   {
-    "NAME": "Footwork Combo 6",
-    "SKILLS": "Backwards Single Bounce\nBackwards High Knee (right)\nBackwards Single Bounce\nBackwards High Knee (left)\nBackwards Double Bounce\nBackwards High Knee (right)\nBackwards High Knee (left)\nBackwards Side Straddle\nBackwards Single Bounce\nBackwards Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW06",
+    "NAME": "Footwork Combo 6",
+    "ID": "FW06",
+    "SKILLS": "Backwards Single Bounce\nBackwards High Knee (right)\nBackwards Single Bounce\nBackwards High Knee (left)\nBackwards Double Bounce\nBackwards High Knee (right)\nBackwards High Knee (left)\nBackwards Side Straddle\nBackwards Single Bounce\nBackwards Heel Catch",
     "DATE": "2021-4-3"
   },
   {
-    "NAME": "Footwork Combo 7",
-    "SKILLS": "Skier (left)\nSkier (right)\nSide Straddle\nHigh Knee (right)\nHigh Knee (right)\nSide Straddle\nHigh Knee (left)\nHigh Knee (left)\nSide Straddle\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW07",
+    "NAME": "Footwork Combo 7",
+    "ID": "FW07",
+    "SKILLS": "Skier (left)\nSkier (right)\nSide Straddle\nHigh Knee (right)\nHigh Knee (right)\nSide Straddle\nHigh Knee (left)\nHigh Knee (left)\nSide Straddle\nSingle Bounce\nToe Catch",
     "DATE": "2021-4-4"
   },
   {
-    "NAME": "Footwork Combo 8",
-    "SKILLS": "High Knee (right)\nSide Tap (right)\nHigh Knee (right)\nFront Straddle (right)\nHigh Knee (right)\nHigh Knee (left)\nSide Tap (left)\nHigh Knee (left)\nFront Straddle (left)\nHigh Knee (left)\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW08",
+    "NAME": "Footwork Combo 8",
+    "ID": "FW08",
+    "SKILLS": "High Knee (right)\nSide Tap (right)\nHigh Knee (right)\nFront Straddle (right)\nHigh Knee (right)\nHigh Knee (left)\nSide Tap (left)\nHigh Knee (left)\nFront Straddle (left)\nHigh Knee (left)\nSingle Bounce\nToe Catch",
     "DATE": "2021-4-26"
   },
   {
-    "NAME": "Footwork Combo 9",
-    "SKILLS": "High Knee\nFront Straddle\nHigh Knee\nFront Straddle\nHigh Knee\nCross Straddle\nHigh Knee\nSide Straddle\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW09",
+    "NAME": "Footwork Combo 9",
+    "ID": "FW09",
+    "SKILLS": "High Knee\nFront Straddle\nHigh Knee\nFront Straddle\nHigh Knee\nCross Straddle\nHigh Knee\nSide Straddle\nSingle Bounce\nToe Catch",
     "DATE": "2021-4-27"
   },
   {
-    "NAME": "Footwork Combo 10",
-    "SKILLS": "Swing + High Knee\nBasic Cross + Side Straddle\nSwing + High Knee\nEB + Single Bounce",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW10",
+    "NAME": "Footwork Combo 10",
+    "ID": "FW10",
+    "SKILLS": "Swing + High Knee\nBasic Cross + Side Straddle\nSwing + High Knee\nEB + Single Bounce",
     "DATE": "2021-4-29"
   },
   {
-    "NAME": "Footwork Combo 11",
-    "SKILLS": "High Knee (left)\nSwing\nMic + High Knee (right)\nFront Straddle\nStall On Ankles\nBackwards Swing + High Knee (right)\nBackwards Basic Cross\nBackwards Swing + High Knee (left)\nBackwards Open\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW11",
+    "NAME": "Footwork Combo 11",
+    "ID": "FW11",
+    "SKILLS": "High Knee (left)\nSwing\nMic + High Knee (right)\nFront Straddle\nStall On Ankles\nBackwards Swing + High Knee (right)\nBackwards Basic Cross\nBackwards Swing + High Knee (left)\nBackwards Open\nHeel Catch",
     "DATE": "2021-4-29"
   },
   {
-    "NAME": "Footwork Combo 12",
-    "SKILLS": "Heel Tap (right)\nToe Tap (right)\nHeel Tap (left)\nToe Tap (right)\nHeel Tap (left)\nToe Tap (right)\nSide Straddle\nOO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW12",
+    "NAME": "Footwork Combo 12",
+    "ID": "FW12",
+    "SKILLS": "Heel Tap (right)\nToe Tap (right)\nHeel Tap (left)\nToe Tap (right)\nHeel Tap (left)\nToe Tap (right)\nSide Straddle\nOO Double",
     "DATE": "2021-5-1"
   },
   {
-    "NAME": "Footwork Combo 13",
-    "SKILLS": "Heel Tap\nHigh Knee\nHeel Tap\nHigh Knee\nHigh Knee\nCross Straddle (main foot behind)\nHigh Knee\nCross Straddle (main foot in front)\nHigh Knee\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW13",
+    "NAME": "Footwork Combo 13",
+    "ID": "FW13",
+    "SKILLS": "Heel Tap\nHigh Knee\nHeel Tap\nHigh Knee\nHigh Knee\nCross Straddle (main foot behind)\nHigh Knee\nCross Straddle (main foot in front)\nHigh Knee\nSingle Bounce\nToe Catch",
     "DATE": "2021-5-1"
   },
   {
-    "NAME": "Footwork Combo 14",
-    "SKILLS": "Side Step Stall\nHigh Knee\nSingle Bounce\nKick\nSingle Under\nSide Step Stall\nHigh Knee\nSingle Bounce\nKick\nSingle Bounce\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW14",
+    "NAME": "Footwork Combo 14",
+    "ID": "FW14",
+    "SKILLS": "Side Step Stall\nHigh Knee\nSingle Bounce\nKick\nSingle Under\nSide Step Stall\nHigh Knee\nSingle Bounce\nKick\nSingle Bounce\nToe Catch",
     "DATE": "2021-5-2"
   },
   {
-    "NAME": "Footwork Combo 15",
-    "SKILLS": "Side Straddle \nHigh Knee\nFoot Cross\nHigh Knee \nHigh Knee \nFoot Cross\nHigh Knee\nSide Straddle\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW15",
+    "NAME": "Footwork Combo 15",
+    "ID": "FW15",
+    "SKILLS": "Side Straddle \nHigh Knee\nFoot Cross\nHigh Knee \nHigh Knee \nFoot Cross\nHigh Knee\nSide Straddle\nOpen",
     "DATE": "2021-11-22"
   },
   {
-    "NAME": "Footwork Combo 16",
-    "SKILLS": "High Knee \nFront Straddle \nSwitch Front Straddle \nHigh Knee \nFront Straddle",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW16",
+    "NAME": "Footwork Combo 16",
+    "ID": "FW16",
+    "SKILLS": "High Knee \nFront Straddle \nSwitch Front Straddle \nHigh Knee \nFront Straddle",
     "DATE": "2021-11-23"
   },
   {
-    "NAME": "Footwork Combo 17",
-    "SKILLS": "Back Leg Swing\nFront Leg Swing\nSide Leg Swing\nHigh Knee\nBack Leg Swing\nFront Leg Swing\nSide Leg Swing\nHigh Knee",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW17",
+    "NAME": "Footwork Combo 17",
+    "ID": "FW17",
+    "SKILLS": "Back Leg Swing\nFront Leg Swing\nSide Leg Swing\nHigh Knee\nBack Leg Swing\nFront Leg Swing\nSide Leg Swing\nHigh Knee",
     "DATE": "2021-11-24"
   },
   {
-    "NAME": "Footwork Combo 18",
-    "SKILLS": "Stall + Side Step\nBasic Cross + Right Leg Bound\nBasic Cross + Right Leg Bound\nBasic Cross + Left Leg Bound\nBasic Cross + Left Leg Bound\nBasic Cross + Side Straddle\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW18",
+    "NAME": "Footwork Combo 18",
+    "ID": "FW18",
+    "SKILLS": "Stall + Side Step\nBasic Cross + Right Leg Bound\nBasic Cross + Right Leg Bound\nBasic Cross + Left Leg Bound\nBasic Cross + Left Leg Bound\nBasic Cross + Side Straddle\nOpen",
     "DATE": "2021-11-25"
   },
   {
-    "NAME": "Footwork Combo 19",
-    "SKILLS": "Side Straddle\nFront Straddle\nSwitch Front Straddle\nSide Straddle \nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW19",
+    "NAME": "Footwork Combo 19",
+    "ID": "FW19",
+    "SKILLS": "Side Straddle\nFront Straddle\nSwitch Front Straddle\nSide Straddle \nOpen",
     "DATE": "2021-11-27"
   },
   {
-    "NAME": "Footwork Combo 20",
-    "SKILLS": "Right Leg Bound\nOpen + 4x Running In Place\nRight Leg Bound\nRight Leg Bound\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW20",
+    "NAME": "Footwork Combo 20",
+    "ID": "FW20",
+    "SKILLS": "Right Leg Bound\nOpen + 4x Running In Place\nRight Leg Bound\nRight Leg Bound\nOpen",
     "DATE": "2021-11-27"
   },
   {
-    "NAME": "Footwork Combo 21",
-    "SKILLS": "Basic Cross + 3x Running In Place\nBasic Cross + 3x Running In Place\nBasic Cross + 3x Running In Place\nBasic Cross + 3x Running In Place",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW21",
+    "NAME": "Footwork Combo 21",
+    "ID": "FW21",
+    "SKILLS": "Basic Cross + 3x Running In Place\nBasic Cross + 3x Running In Place\nBasic Cross + 3x Running In Place\nBasic Cross + 3x Running In Place",
     "DATE": "2021-11-28"
   },
   {
-    "NAME": "Handle Pass 1",
-    "SKILLS": "Swing (Handle Pass)\nToad Swing (Handle Grab)\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP01",
+    "NAME": "Handle Pass 1",
+    "ID": "HP01",
+    "SKILLS": "Swing (Handle Pass)\nToad Swing (Handle Grab)\nOpen",
     "DATE": "2021-2-8"
   },
   {
-    "NAME": "Handle Pass 2",
-    "SKILLS": "Toad Swing (Handle Pass)\nToad Swing (Handle Grab)\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP02",
+    "NAME": "Handle Pass 2",
+    "ID": "HP02",
+    "SKILLS": "Toad Swing (Handle Pass)\nToad Swing (Handle Grab)\nOpen",
     "DATE": "2021-2-9"
   },
   {
-    "NAME": "Handle Pass 3",
-    "SKILLS": "Dive EB (Handle Pass)\nMic Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP03",
+    "NAME": "Handle Pass 3",
+    "ID": "HP03",
+    "SKILLS": "Dive EB (Handle Pass)\nMic Release",
     "DATE": "2021-2-10"
   },
   {
-    "NAME": "Handle Pass 4",
-    "SKILLS": "Basic Cross \nSwing (Handle Pass)\nInverse Toad Swing (Handle Grab)",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP04",
+    "NAME": "Handle Pass 4",
+    "ID": "HP04",
+    "SKILLS": "Basic Cross \nSwing (Handle Pass)\nInverse Toad Swing (Handle Grab)",
     "DATE": "2021-2-11"
   },
   {
-    "NAME": "Handle Pass 5",
-    "SKILLS": "Open\nSwing (Handle Pass)\nStall Swing\nBackwards EB Cross\nBody Stall to Forward Open Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP05",
+    "NAME": "Handle Pass 5",
+    "ID": "HP05",
+    "SKILLS": "Open\nSwing (Handle Pass)\nStall Swing\nBackwards EB Cross\nBody Stall to Forward Open Double",
     "DATE": "2021-2-12"
   },
   {
-    "NAME": "Handle Pass 6",
-    "SKILLS": "Swing (Handle Pass)\nLeg Over Swing\nSwing (Handle Grab)\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP06",
+    "NAME": "Handle Pass 6",
+    "ID": "HP06",
+    "SKILLS": "Swing (Handle Pass)\nLeg Over Swing\nSwing (Handle Grab)\nOpen",
     "DATE": "2021-2-13"
   },
   {
-    "NAME": "Handle Pass 7",
-    "SKILLS": "OO Double\nSwing, Open, Swing (triple) (Handle Pass)\nToad Swing Open Double (Hand Grab)",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP07",
+    "NAME": "Handle Pass 7",
+    "ID": "HP07",
+    "SKILLS": "OO Double\nSwing, Open, Swing (triple) (Handle Pass)\nToad Swing Open Double (Hand Grab)",
     "DATE": "2021-2-14"
   },
   {
-    "NAME": "Handle Pass 8",
-    "SKILLS": "Basic Cross\nSwing Handle Pass\nToad Swing (single hand)\nSwing (single hand)\nBasic Cross (regrab)",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP08",
+    "NAME": "Handle Pass 8",
+    "ID": "HP08",
+    "SKILLS": "Basic Cross\nSwing Handle Pass\nToad Swing (single hand)\nSwing (single hand)\nBasic Cross (regrab)",
     "DATE": "2022-4-25"
   },
   {
-    "NAME": "Handle Pass 9",
-    "SKILLS": "Swing\nT-Toad\nSwing (handle pass)\nSwing (regrab)\nLeg Over\nBasic Cross\nSwing (handle pass)\nSO Double (regrab during swing)",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP09",
+    "NAME": "Handle Pass 9",
+    "ID": "HP09",
+    "SKILLS": "Swing\nT-Toad\nSwing (handle pass)\nSwing (regrab)\nLeg Over\nBasic Cross\nSwing (handle pass)\nSO Double (regrab during swing)",
     "DATE": "2022-4-26"
   },
   {
-    "NAME": "Handle Pass 10",
-    "SKILLS": "Toad (right)\nToad Swing (right)\nEB Toad (right)\nToad Swing Handle Pass\nEB Swing Grab\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP10",
+    "NAME": "Handle Pass 10",
+    "ID": "HP10",
+    "SKILLS": "Toad (right)\nToad Swing (right)\nEB Toad (right)\nToad Swing Handle Pass\nEB Swing Grab\nOpen",
     "DATE": "2022-4-27"
   },
   {
-    "NAME": "Handle Pass 11",
-    "SKILLS": "Swing\nLeg Over (right)\nOpen Dive (narrow Timing)\nEB Handle Pass\nSwing (regrab)\nDive 180\nBackwards Open\nTexan BTF 180",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP11",
+    "NAME": "Handle Pass 11",
+    "ID": "HP11",
+    "SKILLS": "Swing\nLeg Over (right)\nOpen Dive (narrow Timing)\nEB Handle Pass\nSwing (regrab)\nDive 180\nBackwards Open\nTexan BTF 180",
     "DATE": "2022-4-28"
   },
   {
-    "NAME": "Handle Pass 12",
-    "SKILLS": "Inverse Toad\nIo_o\nHandle Pass (between legs during exit)\nToad Swing\nCrossed Step Through Wrap",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP12",
+    "NAME": "Handle Pass 12",
+    "ID": "HP12",
+    "SKILLS": "Inverse Toad\nIo_o\nHandle Pass (between legs during exit)\nToad Swing\nCrossed Step Through Wrap",
     "DATE": "2022-4-29"
   },
   {
-    "NAME": "Handle Pass 13",
-    "SKILLS": "Cross\nFTB 180 (left)\nBackwards Single\nBackwards Behind Back Swing (pass)\n180 Swing\nInverse Toad Swing (regrab)\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP13",
+    "NAME": "Handle Pass 13",
+    "ID": "HP13",
+    "SKILLS": "Cross\nFTB 180 (left)\nBackwards Single\nBackwards Behind Back Swing (pass)\n180 Swing\nInverse Toad Swing (regrab)\nOpen",
     "DATE": "2022-4-30"
   },
   {
-    "NAME": "Handle Pass 14",
-    "SKILLS": "Swing\nCross\nWrist Mic\nCatch (with turning hand)\nSwing (with single hand)\nToad Swing (regrab)\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP14",
+    "NAME": "Handle Pass 14",
+    "ID": "HP14",
+    "SKILLS": "Swing\nCross\nWrist Mic\nCatch (with turning hand)\nSwing (with single hand)\nToad Swing (regrab)\nOpen",
     "DATE": "2022-5-1"
   },
   {
-    "NAME": "Inverse Toad Combo 1",
-    "SKILLS": "Inverse Toad Cross\nGround Leg Over\nAwesome Annie Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT01",
+    "NAME": "Inverse Toad Combo 1",
+    "ID": "IT01",
+    "SKILLS": "Inverse Toad Cross\nGround Leg Over\nAwesome Annie Double",
     "DATE": "2020-9-7"
   },
   {
-    "NAME": "Inverse Toad Combo 2",
-    "SKILLS": "Leg Hook 360\nInverse Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT02",
+    "NAME": "Inverse Toad Combo 2",
+    "ID": "IT02",
+    "SKILLS": "Leg Hook 360\nInverse Toad Cross",
     "DATE": "2020-9-8"
   },
   {
-    "NAME": "Inverse Toad Combo 3",
-    "SKILLS": "Inverse Toad Cross 360 (holding the placement)",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT03",
+    "NAME": "Inverse Toad Combo 3",
+    "ID": "IT03",
+    "SKILLS": "Inverse Toad Cross 360 (holding the placement)",
     "DATE": "2020-9-9"
   },
   {
-    "NAME": "Inverse Toad Combo 4",
-    "SKILLS": "Side Swing\nInverse Toad Cross\nCL Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT04",
+    "NAME": "Inverse Toad Combo 4",
+    "ID": "IT04",
+    "SKILLS": "Side Swing\nInverse Toad Cross\nCL Cross",
     "DATE": "2020-9-10"
   },
   {
-    "NAME": "Inverse Toad Combo 5",
-    "SKILLS": "Inverse Toad Cross\nInverse Toad Gogo\nElephant",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT05",
+    "NAME": "Inverse Toad Combo 5",
+    "ID": "IT05",
+    "SKILLS": "Inverse Toad Cross\nInverse Toad Gogo\nElephant",
     "DATE": "2020-9-11"
   },
   {
-    "NAME": "Inverse Toad Combo 6",
-    "SKILLS": "Inverse Toad Cross\nInverse Toad Swing\nElephant\nInverse Toad Swing\nInverse Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT06",
+    "NAME": "Inverse Toad Combo 6",
+    "ID": "IT06",
+    "SKILLS": "Inverse Toad Cross\nInverse Toad Swing\nElephant\nInverse Toad Swing\nInverse Toad Cross",
     "DATE": "2020-9-12"
   },
   {
-    "NAME": "Inverse Toad Combo 7",
-    "SKILLS": "Inverse Toad Cross\nInverse Toad Mic",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT07",
+    "NAME": "Inverse Toad Combo 7",
+    "ID": "IT07",
+    "SKILLS": "Inverse Toad Cross\nInverse Toad Mic",
     "DATE": "2020-9-13"
   },
   {
+    "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT02",
     "NAME": "K-Toad Combo 1",
+    "ID": "KT01",
     "SKILLS": "Basic Cross\nK-Toad\nAwesome Annie to Leg Over\nBasic Cross",
-    "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT02",
     "DATE": "2021-7-6"
   },
   {
+    "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT02",
     "NAME": "K-Toad Combo 2",
+    "ID": "KT02",
     "SKILLS": "Toad Cross\nSwing\nToad Cross\nSwing \nK-Toad",
-    "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT02",
     "DATE": "2021-7-6"
   },
   {
-    "NAME": "K-Toad Combo 3",
-    "SKILLS": "K-Toad\nOpen\nDive EB Gogo Swing Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT03",
+    "NAME": "K-Toad Combo 3",
+    "ID": "KT03",
+    "SKILLS": "K-Toad\nOpen\nDive EB Gogo Swing Release",
     "DATE": "2021-7-7"
   },
   {
-    "NAME": "K-Toad Combo 4",
-    "SKILLS": "Neck Swing\nK-Toad\nToad Swing\nToad Cross\nAwesome Annie to Leg Over\nLeg Over Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT04",
+    "NAME": "K-Toad Combo 4",
+    "ID": "KT04",
+    "SKILLS": "Neck Swing\nK-Toad\nToad Swing\nToad Cross\nAwesome Annie to Leg Over\nLeg Over Release",
     "DATE": "2021-7-8"
   },
   {
-    "NAME": "K-Toad Combo 5",
-    "SKILLS": "K-Toad\nAwesome Annie to Leg Over\nLeg Over Wrap\nUnwrap Swing\nStep-Through Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT05",
+    "NAME": "K-Toad Combo 5",
+    "ID": "KT05",
+    "SKILLS": "K-Toad\nAwesome Annie to Leg Over\nLeg Over Wrap\nUnwrap Swing\nStep-Through Release",
     "DATE": "2021-7-9"
   },
   {
-    "NAME": "K-Toad Combo 6",
-    "SKILLS": "K-Toad\nToad Cross\nOO Double\nK-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT06",
+    "NAME": "K-Toad Combo 6",
+    "ID": "KT06",
+    "SKILLS": "K-Toad\nToad Cross\nOO Double\nK-Toad",
     "DATE": "2021-7-10"
   },
   {
-    "NAME": "K-Toad Combo 7",
-    "SKILLS": "Swing\nK-Toad\nToad Gogo Mic Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT07",
+    "NAME": "K-Toad Combo 7",
+    "ID": "KT07",
+    "SKILLS": "Swing\nK-Toad\nToad Gogo Mic Release",
     "DATE": "2021-7-11"
   },
   {
-    "NAME": "K-Toad Combo 8",
-    "SKILLS": "Inverse Toad Cross\nToad Swing\nK-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT08",
+    "NAME": "K-Toad Combo 8",
+    "ID": "KT08",
+    "SKILLS": "Inverse Toad Cross\nToad Swing\nK-Toad",
     "DATE": "2021-10-4"
   },
   {
-    "NAME": "K-Toad Combo 9",
-    "SKILLS": "Swing\nEB Cross\nSwing\nK-Toad\nSwing \nEB Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT09",
+    "NAME": "K-Toad Combo 9",
+    "ID": "KT09",
+    "SKILLS": "Swing\nEB Cross\nSwing\nK-Toad\nSwing \nEB Cross",
     "DATE": "2021-10-5"
   },
   {
-    "NAME": "K-Toad Combo 10",
-    "SKILLS": "FTB 180\nBackward Neck Wrap \nUnwrap BTF 180\nUnwrap Swing\nK-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT10",
+    "NAME": "K-Toad Combo 10",
+    "ID": "KT10",
+    "SKILLS": "FTB 180\nBackward Neck Wrap \nUnwrap BTF 180\nUnwrap Swing\nK-Toad",
     "DATE": "2021-10-6"
   },
   {
-    "NAME": "K-Toad Combo 11",
-    "SKILLS": "Swing\nEB Cross\nMic\nLeg OVer\nLeg Over Neck Swing\nAwesome Annie\nK-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT11",
+    "NAME": "K-Toad Combo 11",
+    "ID": "KT11",
+    "SKILLS": "Swing\nEB Cross\nMic\nLeg OVer\nLeg Over Neck Swing\nAwesome Annie\nK-Toad",
     "DATE": "2021-10-7"
   },
   {
-    "NAME": "K-Toad Combo 12",
-    "SKILLS": "K-Toad\nUnderleg Swing\nOpen Caboose\nBasic Open Stall\nBackwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT12",
+    "NAME": "K-Toad Combo 12",
+    "ID": "KT12",
+    "SKILLS": "K-Toad\nUnderleg Swing\nOpen Caboose\nBasic Open Stall\nBackwards Open",
     "DATE": "2021-10-8"
   },
   {
-    "NAME": "K-Toad Combo 13",
-    "SKILLS": "Leg Over Mic Release\nOO Double\nK-Toad\nAwesome Annie \nLeg Over Mic Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT13",
+    "NAME": "K-Toad Combo 13",
+    "ID": "KT13",
+    "SKILLS": "Leg Over Mic Release\nOO Double\nK-Toad\nAwesome Annie \nLeg Over Mic Release",
     "DATE": "2021-10-9"
   },
   {
-    "NAME": "K-Toad Combo 14",
-    "SKILLS": "K-Toad\nFTB Open Stall\nBackwards Toad Cross \nBTF Open Stall\nK-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KT14",
+    "NAME": "K-Toad Combo 14",
+    "ID": "KT14",
+    "SKILLS": "K-Toad\nFTB Open Stall\nBackwards Toad Cross \nBTF Open Stall\nK-Toad",
     "DATE": "2021-10-10"
   },
   {
-    "NAME": "Leg Hook Combo 1",
-    "SKILLS": "Leg Hook 360\nEB Wrap 180\nLeg Hook 180\n360",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LH01",
+    "NAME": "Leg Hook Combo 1",
+    "ID": "LH01",
+    "SKILLS": "Leg Hook 360\nEB Wrap 180\nLeg Hook 180\n360",
     "DATE": "2021-6-2"
   },
   {
-    "NAME": "Leg Hook Combo 2",
-    "SKILLS": "Swing\nEB Cross\nLeg Hook 360\nDive EB",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LH02",
+    "NAME": "Leg Hook Combo 2",
+    "ID": "LH02",
+    "SKILLS": "Swing\nEB Cross\nLeg Hook 360\nDive EB",
     "DATE": "2021-6-2"
   },
   {
-    "NAME": "Leg Hook Combo 3",
-    "SKILLS": "Mic\nLeg Hook 360\nToad Swing\nToad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LH03",
+    "NAME": "Leg Hook Combo 3",
+    "ID": "LH03",
+    "SKILLS": "Mic\nLeg Hook 360\nToad Swing\nToad Cross",
     "DATE": "2021-6-2"
   },
   {
-    "NAME": "Leg Hook Combo 4",
-    "SKILLS": "Swing \nBasic Cross\nMic Release\nDive Leg Hook 360",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LH04",
+    "NAME": "Leg Hook Combo 4",
+    "ID": "LH04",
+    "SKILLS": "Swing \nBasic Cross\nMic Release\nDive Leg Hook 360",
     "DATE": "2021-6-3"
   },
   {
-    "NAME": "Leg Hook Combo 5",
-    "SKILLS": "SC Double \nSO Double\nSwing 180 Leg Hook (double)\n180 Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LH05",
+    "NAME": "Leg Hook Combo 5",
+    "ID": "LH05",
+    "SKILLS": "SC Double \nSO Double\nSwing 180 Leg Hook (double)\n180 Open",
     "DATE": "2021-6-4"
   },
   {
-    "NAME": "Leg Hook Combo 6",
-    "SKILLS": "Leg Hook 360 \nAwesome Annie to Leg Over\nAwesome Annie to Toad\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LH06",
+    "NAME": "Leg Hook Combo 6",
+    "ID": "LH06",
+    "SKILLS": "Leg Hook 360 \nAwesome Annie to Leg Over\nAwesome Annie to Toad\nOpen",
     "DATE": "2021-6-5"
   },
   {
-    "NAME": "Leg Hook Combo 7",
-    "SKILLS": "Leg Hook 360\nGround Awesome Annie Double\nSC Double \nSO Double \nSwing, Swing, Open (triple)",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LH07",
+    "NAME": "Leg Hook Combo 7",
+    "ID": "LH07",
+    "SKILLS": "Leg Hook 360\nGround Awesome Annie Double\nSC Double \nSO Double \nSwing, Swing, Open (triple)",
     "DATE": "2021-6-6"
   },
   {
-    "NAME": "Leg Over Combo 1",
-    "SKILLS": "Swing\nLeg Over\nSwing\nLeg Over\nCross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO01",
+    "NAME": "Leg Over Combo 1",
+    "ID": "LO01",
+    "SKILLS": "Swing\nLeg Over\nSwing\nLeg Over\nCross",
     "DATE": "2020-7-20"
   },
   {
-    "NAME": "Leg Over Combo 2",
-    "SKILLS": "Leg Over\nStall\nBackwards Leg Over\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO02",
+    "NAME": "Leg Over Combo 2",
+    "ID": "LO02",
+    "SKILLS": "Leg Over\nStall\nBackwards Leg Over\nOpen",
     "DATE": "2020-7-21"
   },
   {
-    "NAME": "Leg Over Combo 3",
-    "SKILLS": "Cross\nLeg Over\nCross\nLeg Over (other leg)\nCross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO03",
+    "NAME": "Leg Over Combo 3",
+    "ID": "LO03",
+    "SKILLS": "Cross\nLeg Over\nCross\nLeg Over (other leg)\nCross",
     "DATE": "2020-7-22"
   },
   {
-    "NAME": "Leg Over Combo 4",
-    "SKILLS": "Leg Over\nLeg Over\nSwing\nSwing\nLeg Over\nLeg Over\nSwing\nSwing",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO04",
+    "NAME": "Leg Over Combo 4",
+    "ID": "LO04",
+    "SKILLS": "Leg Over\nLeg Over\nSwing\nSwing\nLeg Over\nLeg Over\nSwing\nSwing",
     "DATE": "2020-7-23"
   },
   {
-    "NAME": "Leg Over Combo 5",
-    "SKILLS": "Awesome Annie\nGround Awesome Annie (double)",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO05",
+    "NAME": "Leg Over Combo 5",
+    "ID": "LO05",
+    "SKILLS": "Awesome Annie\nGround Awesome Annie (double)",
     "DATE": "2020-7-24"
   },
   {
-    "NAME": "Leg Over Combo 6",
-    "SKILLS": "Leg Over\nLeg Over Wrap\nUnwrap Swing\nToad Cross\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO06",
+    "NAME": "Leg Over Combo 6",
+    "ID": "LO06",
+    "SKILLS": "Leg Over\nLeg Over Wrap\nUnwrap Swing\nToad Cross\nOpen",
     "DATE": "2020-7-25"
   },
   {
-    "NAME": "Leg Over Combo 7",
-    "SKILLS": "Leg Over\nLeg Over Wrap\nUnwrap Swing\nToad Cross\nGround Awesome Annie (double)\nOO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO07",
+    "NAME": "Leg Over Combo 7",
+    "ID": "LO07",
+    "SKILLS": "Leg Over\nLeg Over Wrap\nUnwrap Swing\nToad Cross\nGround Awesome Annie (double)\nOO Double",
     "DATE": "2020-7-26"
   },
   {
-    "NAME": "Leg Over Combo 8",
-    "SKILLS": "Leg Over\nUnderleg Swing\nLeg Over\nBasic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO08",
+    "NAME": "Leg Over Combo 8",
+    "ID": "LO08",
+    "SKILLS": "Leg Over\nUnderleg Swing\nLeg Over\nBasic Cross",
     "DATE": "2021-3-22"
   },
   {
-    "NAME": "Leg Over Combo 9",
-    "SKILLS": "Mic\nLeg Over\nMic\nLeg Over\nBasic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO09",
+    "NAME": "Leg Over Combo 9",
+    "ID": "LO09",
+    "SKILLS": "Mic\nLeg Over\nMic\nLeg Over\nBasic Cross",
     "DATE": "2021-3-23"
   },
   {
-    "NAME": "Leg Over Combo 10",
-    "SKILLS": "Leg Over\nBasic Cross\nInverse Leg Over Cross\nBasic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO10",
+    "NAME": "Leg Over Combo 10",
+    "ID": "LO10",
+    "SKILLS": "Leg Over\nBasic Cross\nInverse Leg Over Cross\nBasic Cross",
     "DATE": "2021-3-24"
   },
   {
-    "NAME": "Leg Over Combo 11",
-    "SKILLS": "Leg Over\nOpen\nLeg Over\nBasic Cross\nOO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO11",
+    "NAME": "Leg Over Combo 11",
+    "ID": "LO11",
+    "SKILLS": "Leg Over\nOpen\nLeg Over\nBasic Cross\nOO Double",
     "DATE": "2021-3-25"
   },
   {
-    "NAME": "Leg Over Combo 12",
-    "SKILLS": "Swing\nLeg Over\nSwing\nEB Cross\nLeg Over\nSwing\nBasic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO12",
+    "NAME": "Leg Over Combo 12",
+    "ID": "LO12",
+    "SKILLS": "Swing\nLeg Over\nSwing\nEB Cross\nLeg Over\nSwing\nBasic Cross",
     "DATE": "2021-3-26"
   },
   {
-    "NAME": "Leg Over Combo 13",
-    "SKILLS": "Leg Over\nToad (same leg)\nLeg Over\nAwesome Annie\nLeg Over\nAwesome Annie\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO13",
+    "NAME": "Leg Over Combo 13",
+    "ID": "LO13",
+    "SKILLS": "Leg Over\nToad (same leg)\nLeg Over\nAwesome Annie\nLeg Over\nAwesome Annie\nOpen",
     "DATE": "2021-3-27"
   },
   {
-    "NAME": "Leg Over Combo 14",
-    "SKILLS": "Elephant\nAwesome Annie\nLeg Over\nBasic Cross\nOpen Leg Over Double\nCross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO14",
+    "NAME": "Leg Over Combo 14",
+    "ID": "LO14",
+    "SKILLS": "Elephant\nAwesome Annie\nLeg Over\nBasic Cross\nOpen Leg Over Double\nCross",
     "DATE": "2021-3-28"
   },
   {
-    "NAME": "Mic Combo 1",
-    "SKILLS": "Mic Release\nOC Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR01",
+    "NAME": "Mic Combo 1",
+    "ID": "MR01",
+    "SKILLS": "Mic Release\nOC Double",
     "DATE": "2020-7-13"
   },
   {
-    "NAME": "Mic Combo 2",
-    "SKILLS": "Mic Release\nToad Swing\nEB Toad\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR02",
+    "NAME": "Mic Combo 2",
+    "ID": "MR02",
+    "SKILLS": "Mic Release\nToad Swing\nEB Toad\nOpen",
     "DATE": "2020-7-14"
   },
   {
-    "NAME": "Mic Combo 3",
-    "SKILLS": "Leg Over\nMic Release (in the Leg Over placement)\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR03",
+    "NAME": "Mic Combo 3",
+    "ID": "MR03",
+    "SKILLS": "Leg Over\nMic Release (in the Leg Over placement)\nOpen",
     "DATE": "2020-7-15"
   },
   {
-    "NAME": "Mic Combo 4",
-    "SKILLS": "Mic Release (same side)\n180 to Backwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR04",
+    "NAME": "Mic Combo 4",
+    "ID": "MR04",
+    "SKILLS": "Mic Release (same side)\n180 to Backwards Open",
     "DATE": "2020-7-16"
   },
   {
-    "NAME": "Mic Combo 5",
-    "SKILLS": "Mic Release\nLeg Over (over the top placement)\nSwing\nToad Cross\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR05",
+    "NAME": "Mic Combo 5",
+    "ID": "MR05",
+    "SKILLS": "Mic Release\nLeg Over (over the top placement)\nSwing\nToad Cross\nOpen",
     "DATE": "2020-7-17"
   },
   {
-    "NAME": "Mic Combo 6",
-    "SKILLS": "Mic Release\nMic Release (without a Swing)",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR06",
+    "NAME": "Mic Combo 6",
+    "ID": "MR06",
+    "SKILLS": "Mic Release\nMic Release (without a Swing)",
     "DATE": "2020-7-18"
   },
   {
-    "NAME": "Mic Combo 7",
-    "SKILLS": "Mic Release\n180 to Backwards Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR07",
+    "NAME": "Mic Combo 7",
+    "ID": "MR07",
+    "SKILLS": "Mic Release\n180 to Backwards Basic Cross",
     "DATE": "2020-7-19"
   },
   {
-    "NAME": "Mic Combo 8",
-    "SKILLS": "Mic Release\nBasic Cross (catch)\nSwitch Cross\nOC Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR08",
+    "NAME": "Mic Combo 8",
+    "ID": "MR08",
+    "SKILLS": "Mic Release\nBasic Cross (catch)\nSwitch Cross\nOC Double",
     "DATE": "2020-10-19"
   },
   {
-    "NAME": "Mic Combo 9",
-    "SKILLS": "Swing\nEB Cross\nEB Wrap\nUnwrap Swing\nMic Release\nSwing\nEB Cross\nSC Double\nSwing, EB (double)",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR09",
+    "NAME": "Mic Combo 9",
+    "ID": "MR09",
+    "SKILLS": "Swing\nEB Cross\nEB Wrap\nUnwrap Swing\nMic Release\nSwing\nEB Cross\nSC Double\nSwing, EB (double)",
     "DATE": "2020-10-20"
   },
   {
-    "NAME": "Mic Combo 10",
-    "SKILLS": "Mic Release\nLeg Over (catch)\nOpen Caboose\nBackwards Leg Over",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR10",
+    "NAME": "Mic Combo 10",
+    "ID": "MR10",
+    "SKILLS": "Mic Release\nLeg Over (catch)\nOpen Caboose\nBackwards Leg Over",
     "DATE": "2020-10-21"
   },
   {
-    "NAME": "Mic Combo 11",
-    "SKILLS": "Inverse Leg Over\nMic Release (holding I-Leg Over placement)\nLeg Over (catch)\nToad Cross (same leg)\nStep-Through Mic Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR11",
+    "NAME": "Mic Combo 11",
+    "ID": "MR11",
+    "SKILLS": "Inverse Leg Over\nMic Release (holding I-Leg Over placement)\nLeg Over (catch)\nToad Cross (same leg)\nStep-Through Mic Release",
     "DATE": "2020-10-22"
   },
   {
-    "NAME": "Mic Combo 12",
-    "SKILLS": "Mic Release\nStall (under the leg)\nBackwards Leg Hook\nBackwards Inverse Toad Gogo\nStall\nForwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR12",
+    "NAME": "Mic Combo 12",
+    "ID": "MR12",
+    "SKILLS": "Mic Release\nStall (under the leg)\nBackwards Leg Hook\nBackwards Inverse Toad Gogo\nStall\nForwards Open",
     "DATE": "2020-10-23"
   },
   {
-    "NAME": "Mic Combo 13",
-    "SKILLS": "Same-Side Release (behind the back)\nMamba\nLeg Over (catch)\nAwesome Annie",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR13",
+    "NAME": "Mic Combo 13",
+    "ID": "MR13",
+    "SKILLS": "Same-Side Release (behind the back)\nMamba\nLeg Over (catch)\nAwesome Annie",
     "DATE": "2020-10-24"
   },
   {
-    "NAME": "Mic Combo 14",
-    "SKILLS": "Backwards Mic Release\nBackwards Leg Hook\nStall\nForwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR14",
+    "NAME": "Mic Combo 14",
+    "ID": "MR14",
+    "SKILLS": "Backwards Mic Release\nBackwards Leg Hook\nStall\nForwards Open",
     "DATE": "2020-10-25"
   },
   {
-    "NAME": "Mic Combo 15",
-    "SKILLS": "Swing 180\nBackwards Mic Release\nBackwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR15",
+    "NAME": "Mic Combo 15",
+    "ID": "MR15",
+    "SKILLS": "Swing 180\nBackwards Mic Release\nBackwards Open",
     "DATE": "2021-3-1"
   },
   {
-    "NAME": "Mic Combo 16",
-    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nBackwards Standard Mic",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR16",
+    "NAME": "Mic Combo 16",
+    "ID": "MR16",
+    "SKILLS": "Backwards Swing\nBackwards Basic Cross\nBackwards Standard Mic",
     "DATE": "2021-3-2"
   },
   {
-    "NAME": "Mic Combo 17",
-    "SKILLS": "Swing 180\nBackwards Leg Hook Release\n180 to Forwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR17",
+    "NAME": "Mic Combo 17",
+    "ID": "MR17",
+    "SKILLS": "Swing 180\nBackwards Leg Hook Release\n180 to Forwards Open",
     "DATE": "2021-3-3"
   },
   {
-    "NAME": "Mic Combo 18",
-    "SKILLS": "Backwards Open\nBackwards Leg Hook Release\nBackwards EB Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR18",
+    "NAME": "Mic Combo 18",
+    "ID": "MR18",
+    "SKILLS": "Backwards Open\nBackwards Leg Hook Release\nBackwards EB Cross",
     "DATE": "2021-3-4"
   },
   {
-    "NAME": "Mic Combo 19",
-    "SKILLS": "Swing 180\nBackwards Leg Hook Release\nBackwards Swing\nBackwards Basic Cross\nBackwards SO Double (other side)",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR19",
+    "NAME": "Mic Combo 19",
+    "ID": "MR19",
+    "SKILLS": "Swing 180\nBackwards Leg Hook Release\nBackwards Swing\nBackwards Basic Cross\nBackwards SO Double (other side)",
     "DATE": "2021-3-5"
   },
   {
-    "NAME": "Mic Combo 20",
-    "SKILLS": "Backwards EB Same Side Mic 180\nDive EB 180\nBackwards Mic",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR20",
+    "NAME": "Mic Combo 20",
+    "ID": "MR20",
+    "SKILLS": "Backwards EB Same Side Mic 180\nDive EB 180\nBackwards Mic",
     "DATE": "2021-3-6"
   },
   {
-    "NAME": "Mic Combo 21",
-    "SKILLS": "Back Same Side Mic Release\nBackwards Swing\nBackwards Arm Wrap\nBackwards Unwrap Swing\nBackwards SO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR21",
+    "NAME": "Mic Combo 21",
+    "ID": "MR21",
+    "SKILLS": "Back Same Side Mic Release\nBackwards Swing\nBackwards Arm Wrap\nBackwards Unwrap Swing\nBackwards SO Double",
     "DATE": "2021-3-7"
   },
   {
-    "NAME": "No Swing Mic Combo 1",
-    "SKILLS": "Mic\nSwing \nEB\nEB Gogo Swing\nMic",
     "LINK": "",
+    "NAME": "No Swing Mic Combo 1",
+    "ID": "NM01",
+    "SKILLS": "Mic\nSwing \nEB\nEB Gogo Swing\nMic",
     "DATE": "2022-4-18"
   },
   {
-    "NAME": "No Swing Mic Combo 2",
-    "SKILLS": "Mic\nToad Swing\nEB Toad\nToad Swing\nToad\nToad Wrap\nUnwrap\nOpen\nMic",
     "LINK": "",
+    "NAME": "No Swing Mic Combo 2",
+    "ID": "NM02",
+    "SKILLS": "Mic\nToad Swing\nEB Toad\nToad Swing\nToad\nToad Wrap\nUnwrap\nOpen\nMic",
     "DATE": "2022-4-19"
   },
   {
-    "NAME": "No Swing Mic Combo 3",
-    "SKILLS": "SO Double\nSO Double\nMO Double\nSwitch Cross\nElephant Cross\nInverse Toad Open Gogo\nMic",
     "LINK": "",
+    "NAME": "No Swing Mic Combo 3",
+    "ID": "NM03",
+    "SKILLS": "SO Double\nSO Double\nMO Double\nSwitch Cross\nElephant Cross\nInverse Toad Open Gogo\nMic",
     "DATE": "2022-4-20"
   },
   {
-    "NAME": "No Swing Mic Combo 4",
-    "SKILLS": "No Swing Mic\nOpen Stall (no contact)\nBackwards Leg Hook\nBackwards Io_o\nStall\nStep Through Mic\nCO Double",
     "LINK": "",
+    "NAME": "No Swing Mic Combo 4",
+    "ID": "NM04",
+    "SKILLS": "No Swing Mic\nOpen Stall (no contact)\nBackwards Leg Hook\nBackwards Io_o\nStall\nStep Through Mic\nCO Double",
     "DATE": "2022-4-21"
   },
   {
-    "NAME": "No Swing Mic Combo 5",
-    "SKILLS": "SO Double\nStall\nBackwards No Swing Mic\nBackwards Leg Over\nOpen",
     "LINK": "",
+    "NAME": "No Swing Mic Combo 5",
+    "ID": "NM05",
+    "SKILLS": "SO Double\nStall\nBackwards No Swing Mic\nBackwards Leg Over\nOpen",
     "DATE": "2022-4-22"
   },
   {
-    "NAME": "No Swing Mic Combo 6",
-    "SKILLS": "Leg Over Mic Release\nOpen (catch)\nMic\nLeg Over \nMic (Leg Over Hand Turns)",
     "LINK": "",
+    "NAME": "No Swing Mic Combo 6",
+    "ID": "NM06",
+    "SKILLS": "Leg Over Mic Release\nOpen (catch)\nMic\nLeg Over \nMic (Leg Over Hand Turns)",
     "DATE": "2022-4-23"
   },
   {
-    "NAME": "No Swing Mic Combo 7",
-    "SKILLS": "No Swing Mic\nToad Swing\nTo_e Swing\nOpen\nInverse Toad Swing (Standing)\nIo_r Swing (standing)\nNo Swing Mic",
     "LINK": "",
+    "NAME": "No Swing Mic Combo 7",
+    "ID": "NM07",
+    "SKILLS": "No Swing Mic\nToad Swing\nTo_e Swing\nOpen\nInverse Toad Swing (Standing)\nIo_r Swing (standing)\nNo Swing Mic",
     "DATE": "2022-4-24"
   },
   {
-    "NAME": "Nate K-G Combo 1",
-    "SKILLS": "TS\nEB Wrap\nUnwrap 180\nTexan 180, Open (double)",
     "LINK": "https://www.natekg.com/jump-rope-combos/ts/#TSA1",
+    "NAME": "Nate K-G Combo 1",
+    "ID": "TSA1",
+    "SKILLS": "TS\nEB Wrap\nUnwrap 180\nTexan 180, Open (double)",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 11",
+    "ID": "WRA2",
     "SKILLS": "Swing\nArm Wrap\nUnwrap Swing\nToad Cross\nOpen\nSwing\nArm Wrap\nUnwrap Swing\nT-Toad\nSwing\nBasic Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 12",
+    "ID": "DUA2",
     "SKILLS": "5 x OO Double (slow & high)\n5 x OO Double (fast & low)\n2 x OO Double (slow & high)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 13",
+    "ID": "MRA1",
     "SKILLS": "Stall to Backwards Open\nStall (between the leg)\nOC Double\nStep-Through Mic Release",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 14",
+    "ID": "CBA2",
     "SKILLS": "Caboose\nCaboose (Open)\nCaboose\nBackwards Cross, Open (double)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 15",
+    "ID": "LOA3",
     "SKILLS": "Leg Over (over the top placement)\nSwing\nBasic Cross\nCrossed Stall (between the legs)\nBackwards Basic Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 16",
+    "ID": "ITA2",
     "SKILLS": "Inverse Toad Cross\nOpen\nLeg Over\nBasic Cross\nOpen\nToad Cross\nOpen\nInverse Leg Over\nBasic Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 17",
+    "ID": "LOA5",
     "SKILLS": "Swing\nLeg Over\nSwing\nLeg Over\nBasic Cross\nOpen\nLeg Over\nBasic Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 18",
+    "ID": "EBA2",
     "SKILLS": "EB Cross\nEB Cross (on right foot)\nEB Cross (on left foot)\nEB Cross (alternating feet)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 19",
+    "ID": "EBA3",
     "SKILLS": "Swing\nEB Cross\nEB Toad\nEB Cross\nEB Swing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 2",
+    "ID": "DUA1",
     "SKILLS": "Swing, Toad (double)\nSwing, EB (double)\nSC Double\nSO Double\nOpen, EB Wrap (double)\nEB Unwrap 180, Open (double)\nTexan 180, Open (double)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 20",
+    "ID": "MMA2",
     "SKILLS": "Swing\nBasic Cross\nStep-Through Stall\nEB Dive 180\nBackwards Open\nSwing 180\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 21",
+    "ID": "KRA6",
     "SKILLS": "Open, Toad (double)\nStall (under the leg)\nBackwards Leg Over\nBackwards Texan Swing\nBackwards Swing",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 22",
+    "ID": "EBA4",
     "SKILLS": "Swing\nBasic Cross\nSwing\nEB Cross\nSC Double\nSwing, EB (double)\nFront Toe Tap\nSide Toe Tap\nBack Toe Tap\nLeg Kick + Toad",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 23",
+    "ID": "CAA1",
     "SKILLS": "OO Double\nToe Catch Mid-Air",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 24",
+    "ID": "RAA1",
     "SKILLS": "Swing\nSwing\nOpen\nSwing\nEB Swing\nOpen\nSwing (above head)\nSwing (above head)\nOpen\nSwing\nTexan Swing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 25",
+    "ID": "STA1",
     "SKILLS": "Basic Cross\nToad Cross\nStall (holding Toad placement)\nBackwards Toad Cross\nBackwards Basic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 26",
+    "ID": "MMA3",
     "SKILLS": "Swing 180\nBackwards Basic Cross\nBackwards Cross Stall (between the legs)\nForwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 27",
+    "ID": "ITA3",
     "SKILLS": "SAME AS INVERSE TOAD COMBO 5",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 28",
+    "ID": "WRA3",
     "SKILLS": "Swing\nArm Wrap\nUnwrap Swing\nBasic Cross\nToad Cross\nToad Arm Wrap\nUnwrap Toad Swing\nToad Cross\nOpen\nSwing\nEB Arm Wrap\nEB Unwrap Swing\nEB Cross\nEB Swing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 29",
+    "ID": "MRA2",
     "SKILLS": "SO Double\nStall to Backwards Open\nBackwards Swing\nBackwards Swing\nBackwards Open\nMic Release 180\nForwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 3",
+    "ID": "LOA1",
     "SKILLS": "Awesome Annie\nMic Release (in the Leg Over placement)\nLeg Over (catch)\nAwesome Annie",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 30",
+    "ID": "PUA1",
     "SKILLS": "Basic Push Up\nOpen to Stall\nBackwards Toad Cross\nBackwards Toad Cross\nBackwards Open\nBackwards Toad Cross (other side)\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 31",
+    "ID": "CBA3",
     "SKILLS": "Leg Over\nCaboose (Open)\nBackwards Leg Over\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 32",
+    "ID": "CRA1",
     "SKILLS": "Basic Cross\nToad Cross\nBasic Cross\nT-Toad\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 33",
+    "ID": "WRA4",
     "SKILLS": "Step-Through Wrap\nUnwrap Swing\nToad Swing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 34",
+    "ID": "PUA2",
     "SKILLS": "One-Handed Basic Push Up\nBasic Cross\nOne-Hand Basic Push Up (other side)\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 35",
+    "ID": "MMA4",
     "SKILLS": "Full Turn 360\nTexan 360\nSwing 180\nBackwards Open\n180 to Forwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 36",
+    "ID": "MMA5",
     "SKILLS": "Swing\nEB Cross\nSwing 180\nBackwards Basic Cross\nSwing 180\nForwards Basic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 37",
+    "ID": "WRA5",
     "SKILLS": "Leg Over\nLeg Over Wrap\nUnwrap (No Swing)\nBasic Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 38",
+    "ID": "MMA6",
     "SKILLS": "Texan 360\nSwing\nBasic Cross\nTexan 360\nSwing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 39",
+    "ID": "FWA1",
     "SKILLS": "Swing (right foot)\nBasic Cross (left foot)\nSwing (right foot)\nOpen (left foot)\nToad Cross (same leg)\nLeg Over (same leg)\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 4",
+    "ID": "WRA1",
     "SKILLS": "Toad Cross\nToad Wrap\nUnwrap Swing\nToad Swing\nEB Toad\nEB Swing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 40",
+    "ID": "HPA1",
     "SKILLS": "Swing (Handle Pass)\nToad Swing (Handle Grab)\nOpen\nStall (under the leg)\nBackwards Leg Over Gogo\nStall to Forwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 41",
+    "ID": "STA2",
     "SKILLS": "Backwards Texan Stall (The Nutcracker)\nForwards Body Stall (on ankles)\nBackwards Stall (hands by waist)\nForwards Stall (between the legs)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 42",
+    "ID": "HPA2",
     "SKILLS": "Swing\nOpen\nSwing (Handle Pass)\nEB Swing\nSwing (Handle Grab)\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 43",
+    "ID": "HPA3",
     "SKILLS": "Inverse Toad Cross\nSwing (Handle Pass)\nSwing (Handle Grab)\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 44",
+    "ID": "DUA3",
     "SKILLS": "OC Double\nCrossed Stall (between the legs)\nBackwards Basic Cross\nBackwards OC Double\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 45",
+    "ID": "MMA7",
     "SKILLS": "Backwards Rope Kick to Forwards\n180 Stall to Forwards Open\n180 Stall to Forwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 46",
+    "ID": "MRA3",
     "SKILLS": "Mic Release\nBasic Cross\nToad Cross\nOO Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 47",
+    "ID": "DUA4",
     "SKILLS": "SO Double\nSO Double\nOO Double\nSC Double\nSC Double\nCross, Cross (double)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 48",
+    "ID": "FWA2",
     "SKILLS": "Straddle\nBasic Cross\nStraddle\nBasic Cross (with a Body Cross)\nOpen\nHigh Knee (with a Swing)\nSide Tap (with a Texan Swing)\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 49",
+    "ID": "FWA3",
     "SKILLS": "4 x Alternating Step\nToad Cross\nOpen\nToad (other side)\nOpen\nStep-Through Stall\nToe Catch",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 5",
+    "ID": "CBA1",
     "SKILLS": "Backwards SC Double\nBackwards OO Double\nStall, Open (double)\nCaboose\nBackwards Open\nToe Catch",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 50",
+    "ID": "TSA2",
     "SKILLS": "TS\nEB Wrap\nEB Unwrap 180",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 51",
+    "ID": "ITA4",
     "SKILLS": "SAME AS NATE K-G COMBO 7",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 52",
+    "ID": "TSA3",
     "SKILLS": "TS\nEB Wrap\nEB Unwrap 180\nBackwards Leg Hook\nStall\nForwards Inverse Toad Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 53",
+    "ID": "SWA1",
     "SKILLS": "Basic Cross\nSwitch Cross\nSwitch Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 54",
+    "ID": "DUA5",
     "SKILLS": "Swing\nToad Cross\nOpen\nSwing, Toad (double)\nOpen\nSwing, Toad (double)\nOO Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 55",
+    "ID": "STA4",
     "SKILLS": "Basic Cross\nStall (holding Cross placement)\nBackwards Cross\nStall (holding Cross placement)\nForwards Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 56",
+    "ID": "—",
     "SKILLS": "—",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 57",
+    "ID": "CRA2",
     "SKILLS": "Basic Cross\nStep-Through\nSwing\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 58",
+    "ID": "AAA1",
     "SKILLS": "Toad Cross\nToad Cross\nLeg Over\nLeg Over\nBasic Cross\nBasic Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 59",
+    "ID": "WRA6",
     "SKILLS": "Horizontal Body Wrap\nUnwrap\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 6",
+    "ID": "MMA1",
     "SKILLS": "Swing\nToad Cross\nEB Wrap\nEB Unwrap 180\nBackwards Texan 360\n180 to OO Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 60",
+    "ID": "FWA4",
     "SKILLS": "(All holding a Cross)\nRight leg jump\nRight leg jump\nLeft leg jump\nLeft jump\nStraddle\nSingle bounce (Open)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 61",
+    "ID": "DUA6",
     "SKILLS": "OO Double\nStall\nBackwards OO Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 62",
+    "ID": "TSA4",
     "SKILLS": "Swing\nBasic Cross\nOpen\nTS\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 63",
+    "ID": "STA5",
     "SKILLS": "Step-Through Wrap\nStall\nUnwrap Step-Through",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 64",
+    "ID": "EBA5",
     "SKILLS": "Swing\nEB Cross\n180 to Backwards EB\n180 EB Swing\nSwing\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 65",
+    "ID": "WRA7",
     "SKILLS": "Backwards Step-Through\nArm Wrap\n180 to Unwrap",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 66",
+    "ID": "PUA3",
     "SKILLS": "Inverse Leg Over\nBasic Cross\nPush Up Pull Through",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 67",
+    "ID": "ASA1",
     "SKILLS": "Elephant\nAS-Toad (AS + Elephant)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 68",
+    "ID": "PUA4",
     "SKILLS": "Push Up Pull Through\nButt Jump\nThumbs Up 👍🏻",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 69",
+    "ID": "MMA8",
     "SKILLS": "Leg Hook 360\nOpen\nInverse Leg Over\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 7",
+    "ID": "ITA1",
     "SKILLS": "Backwards Leg Hook\nStall\nForwards Inverse Toad Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 70",
+    "ID": "",
     "SKILLS": "SAME AS SWITCH CROSS COMBO 2",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 71",
+    "ID": "SWA2",
     "SKILLS": "Basic Cross\nSwitch Cross\nInverse Leg Over\nBasic Cross\nSwitch Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 72",
+    "ID": "SWA3",
     "SKILLS": "Swing\nBasic Cross\nSwitch Cross\nSwing\nEB Cross\nSwing\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 73",
+    "ID": "SWA4",
     "SKILLS": "Toad Cross\nSwitch Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 74",
+    "ID": "SWA5",
     "SKILLS": "Basic Cross\nSwitch Cross\nCross Texan 360\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 75",
+    "ID": "SWA6",
     "SKILLS": "Swing\nT-Toad\nSwitch Toad Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 8",
+    "ID": "EBA1",
     "SKILLS": "Any Basic Cross (single)\nAny Cross, Any Cross (double)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Nate K-G Combo 9",
+    "ID": "LOA2",
     "SKILLS": "Open (single leg)\nOO Double (single leg)\nToad Cross\nLeg Over (same leg)\nT-Toad\nCaboose\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Push Up Combo 1",
+    "ID": "PU01",
     "SKILLS": "Push Up\nStall Between Legs\nBackwards Basic Cross\nBackwards To Forwards Texan 180\nPush Up",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Push Up Combo 2",
+    "ID": "PU02",
     "SKILLS": "Swing\nBasic Cross\nCaboose\nBackwards Open\nStall \nPush Up",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Push Up Combo 3",
+    "ID": "PU03",
     "SKILLS": "Mic To Jump Rope Squat\nPush Up\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Push Up Combo 4",
+    "ID": "PU04",
     "SKILLS": "Push Up\n360 Turn\nPush Up",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Push Up Combo 5",
+    "ID": "PU05",
     "SKILLS": "Push Up\nSO Double\nSO Double\nOO Double\nPush Up\nBasic Cross\nOO Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Push Up Combo 6",
+    "ID": "PU06",
     "SKILLS": "Basic Swing\nToad Cross\nOpen To Jump Rope Squat\nPush Up\nBasic Swing\nLeg Over \nBasic Cross To Jump Rope Squat\nPush Up",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Push Up Combo 7",
+    "ID": "PU07",
     "SKILLS": "Push Up Pull Through\nSCO Triple\nDouble Down To Push Up\nPush Up Pull Through To Toad",
-    "LINK": "",
     "DATE": ""
   },
   {
-    "NAME": "Rest Day 1",
-    "SKILLS": "Swing Left\nSwing Left\nSwing Right\nSwing Right\nRight Stall\nBackwards Swing Right\nBackwards Swing Left\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD01",
+    "NAME": "Rest Day 1",
+    "ID": "RD01",
+    "SKILLS": "Swing Left\nSwing Left\nSwing Right\nSwing Right\nRight Stall\nBackwards Swing Right\nBackwards Swing Left\nHeel Catch",
     "DATE": "2021-2-15"
   },
   {
-    "NAME": "Rest Day 2",
-    "SKILLS": "Mic Release\nStall\nBackwards Mic Release\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD02",
+    "NAME": "Rest Day 2",
+    "ID": "RD02",
+    "SKILLS": "Mic Release\nStall\nBackwards Mic Release\nHeel Catch",
     "DATE": "2021-2-16"
   },
   {
-    "NAME": "Rest Day 3",
-    "SKILLS": "EB Swing Left\nEB Swing Left\nEB Swing Right\nEB Swing Right\nMic Release\nEB Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD03",
+    "NAME": "Rest Day 3",
+    "ID": "RD03",
+    "SKILLS": "EB Swing Left\nEB Swing Left\nEB Swing Right\nEB Swing Right\nMic Release\nEB Toe Catch",
     "DATE": "2021-2-17"
   },
   {
-    "NAME": "Rest Day 4",
-    "SKILLS": "Inverse Toad Swing\nInverse Toad Gogo Swing\nToad Swing\nToad Gogo Swing\nEB Toad Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD04",
+    "NAME": "Rest Day 4",
+    "ID": "RD04",
+    "SKILLS": "Inverse Toad Swing\nInverse Toad Gogo Swing\nToad Swing\nToad Gogo Swing\nEB Toad Swing\nToe Catch",
     "DATE": "2021-2-18"
   },
   {
-    "NAME": "Rest Day 5",
-    "SKILLS": "Backwards EB Swing\nBackwards Leg Over Swing\nCrossed Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD05",
+    "NAME": "Rest Day 5",
+    "ID": "RD05",
+    "SKILLS": "Backwards EB Swing\nBackwards Leg Over Swing\nCrossed Heel Catch",
     "DATE": "2021-2-19"
   },
   {
-    "NAME": "Rest Day 6",
-    "SKILLS": "Mic Release\nToad Swing\nArm Wrap\nStall\nBackwards Arm Unwrap\nBackwards Toad Swing\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD06",
+    "NAME": "Rest Day 6",
+    "ID": "RD06",
+    "SKILLS": "Mic Release\nToad Swing\nArm Wrap\nStall\nBackwards Arm Unwrap\nBackwards Toad Swing\nHeel Catch",
     "DATE": "2021-2-20"
   },
   {
-    "NAME": "Rest Day 7",
-    "SKILLS": "Backwards Swing Right\nBackwards Swing Left\nBackwards EB Swing Right\nBackwards EB Swing Left\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD07",
+    "NAME": "Rest Day 7",
+    "ID": "RD07",
+    "SKILLS": "Backwards Swing Right\nBackwards Swing Left\nBackwards EB Swing Right\nBackwards EB Swing Left\nHeel Catch",
     "DATE": "2021-2-21"
   },
   {
-    "NAME": "Rest Day 8",
-    "SKILLS": "Mic Release Right \nEB Swing Right\nMic Release left\nEB Swing Left\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD08",
+    "NAME": "Rest Day 8",
+    "ID": "RD08",
+    "SKILLS": "Mic Release Right \nEB Swing Right\nMic Release left\nEB Swing Left\nToe Catch",
     "DATE": "2021-3-15"
   },
   {
-    "NAME": "Rest Day 9",
-    "SKILLS": "Backwards Swing Right\nBackwards Swing Left\nBackwards Swing Left\nBackwards Swing Right\nBackwards Swing Right\nBackwards Swing Left \nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD09",
+    "NAME": "Rest Day 9",
+    "ID": "RD09",
+    "SKILLS": "Backwards Swing Right\nBackwards Swing Left\nBackwards Swing Left\nBackwards Swing Right\nBackwards Swing Right\nBackwards Swing Left \nHeel Catch",
     "DATE": "2021-3-16"
   },
   {
-    "NAME": "Rest Day 10",
-    "SKILLS": "Toad Swing\nArm Wrap\nStall\nArm Unwrap Backwards\nBackwards Inverse Leg Over\nStall On Leg\nToad Swing\nSwing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD10",
+    "NAME": "Rest Day 10",
+    "ID": "RD10",
+    "SKILLS": "Toad Swing\nArm Wrap\nStall\nArm Unwrap Backwards\nBackwards Inverse Leg Over\nStall On Leg\nToad Swing\nSwing\nToe Catch",
     "DATE": "2021-3-17"
   },
   {
-    "NAME": "Rest Day 11",
-    "SKILLS": "Swing Left \nSwing Right \nStall Between Legs\nBackwards Swing Right\nBackwards Swing Left\nBackwards Stall Between Legs\nSwing Left\nSwing Left\nSwing Right\nSwing Right\nSwing Left \nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD11",
+    "NAME": "Rest Day 11",
+    "ID": "RD11",
+    "SKILLS": "Swing Left \nSwing Right \nStall Between Legs\nBackwards Swing Right\nBackwards Swing Left\nBackwards Stall Between Legs\nSwing Left\nSwing Left\nSwing Right\nSwing Right\nSwing Left \nToe Catch",
     "DATE": "2021-3-18"
   },
   {
-    "NAME": "Rest Day 12",
-    "SKILLS": "Backwards Behind The Back Swing Left\nBackwards Behind The Back Swing Right\nBackwards Behind The Back Swing Left\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD12",
+    "NAME": "Rest Day 12",
+    "ID": "RD12",
+    "SKILLS": "Backwards Behind The Back Swing Left\nBackwards Behind The Back Swing Right\nBackwards Behind The Back Swing Left\nHeel Catch",
     "DATE": "2021-3-19"
   },
   {
-    "NAME": "Rest Day 13",
-    "SKILLS": "Backwards Swing\nBackwards Crossed Texan Swing\nBackwards Mic\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD13",
+    "NAME": "Rest Day 13",
+    "ID": "RD13",
+    "SKILLS": "Backwards Swing\nBackwards Crossed Texan Swing\nBackwards Mic\nHeel Catch",
     "DATE": "2021-3-20"
   },
   {
-    "NAME": "Rest Day 14",
-    "SKILLS": "180 Swing Left\nBackwards Behind The Back Swing\n180 Swing Left\nBehind The Back Swing Right\nEB Gogo Swing Left\nBehind The Back Swing Right\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD14",
+    "NAME": "Rest Day 14",
+    "ID": "RD14",
+    "SKILLS": "180 Swing Left\nBackwards Behind The Back Swing\n180 Swing Left\nBehind The Back Swing Right\nEB Gogo Swing Left\nBehind The Back Swing Right\nToe Catch",
     "DATE": "2021-3-21"
   },
   {
-    "NAME": "Rest Day 15",
-    "SKILLS": "Mic  (left)\nSwing (left)\nSwing Stall (right)\nBackwards Crossed Texan Swing (right)\nBackwards Mic (left)\nBackwards swing (left)\nBackwards Swing (right)\nBackwards EB Swing (right)\nBackwards EB Swing (left)\nHeel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD15",
+    "NAME": "Rest Day 15",
+    "ID": "RD15",
+    "SKILLS": "Mic  (left)\nSwing (left)\nSwing Stall (right)\nBackwards Crossed Texan Swing (right)\nBackwards Mic (left)\nBackwards swing (left)\nBackwards Swing (right)\nBackwards EB Swing (right)\nBackwards EB Swing (left)\nHeel Catch",
     "DATE": "2021-5-4"
   },
   {
-    "NAME": "Rest Day 16",
-    "SKILLS": "Basic Arm Wrap\nEB Wrap\nEB Unwrap 180\nBehind the Back Swing\nBackwards EB Wrap (left)\nEB Unwrap 180\nSwing \nEB Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD16",
+    "NAME": "Rest Day 16",
+    "ID": "RD16",
+    "SKILLS": "Basic Arm Wrap\nEB Wrap\nEB Unwrap 180\nBehind the Back Swing\nBackwards EB Wrap (left)\nEB Unwrap 180\nSwing \nEB Toe Catch",
     "DATE": "2021-5-4"
   },
   {
-    "NAME": "Rest Day 17",
-    "SKILLS": "EB Wrap (right)\nEB Unwrap\nEB Wrap (left)\nEB Unwrap\nBehind The Back Swing\nEB Gogo Swing\nSwing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD17",
+    "NAME": "Rest Day 17",
+    "ID": "RD17",
+    "SKILLS": "EB Wrap (right)\nEB Unwrap\nEB Wrap (left)\nEB Unwrap\nBehind The Back Swing\nEB Gogo Swing\nSwing\nToe Catch",
     "DATE": "2021-5-5"
   },
   {
-    "NAME": "Rest Day 18",
-    "SKILLS": "Arm Wrap\nUnwrap 180\nTexan 180\nArm Wrap\nUnwrap\nCross Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD18",
+    "NAME": "Rest Day 18",
+    "ID": "RD18",
+    "SKILLS": "Arm Wrap\nUnwrap 180\nTexan 180\nArm Wrap\nUnwrap\nCross Toe Catch",
     "DATE": "2021-5-6"
   },
   {
-    "NAME": "Rest Day 19",
-    "SKILLS": "Standing Leg Over Wrap\nUnwrap\nSwing 180\nLeg Hook 180\nInverse Toad Swing\nInverse Toad Gogo Swing\nStanding Leg Over Wrap\nUnwrap\nToad Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD19",
+    "NAME": "Rest Day 19",
+    "ID": "RD19",
+    "SKILLS": "Standing Leg Over Wrap\nUnwrap\nSwing 180\nLeg Hook 180\nInverse Toad Swing\nInverse Toad Gogo Swing\nStanding Leg Over Wrap\nUnwrap\nToad Toe Catch",
     "DATE": "2021-5-7"
   },
   {
-    "NAME": "Rest Day 20",
-    "SKILLS": "Standing Toad Arm Wrap\nUnwrap\nInverse Toad Swing\nInverse Toad Gogo Swing\nStanding Toad Wrap\nLeg Over Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD20",
+    "NAME": "Rest Day 20",
+    "ID": "RD20",
+    "SKILLS": "Standing Toad Arm Wrap\nUnwrap\nInverse Toad Swing\nInverse Toad Gogo Swing\nStanding Toad Wrap\nLeg Over Toe Catch",
     "DATE": "2021-5-8"
   },
   {
-    "NAME": "Rest Day 21",
-    "SKILLS": "Toad Swing\nToad Gogo Swing\nInverse Toad Swing\nInverse Toad Gogo Swing\nToad Swing\nSwing\nEB Swing\nEB Gogo Swing\nEB Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/rest-day/#RD21",
+    "NAME": "Rest Day 21",
+    "ID": "RD21",
+    "SKILLS": "Toad Swing\nToad Gogo Swing\nInverse Toad Swing\nInverse Toad Gogo Swing\nToad Swing\nSwing\nEB Swing\nEB Gogo Swing\nEB Swing\nToe Catch",
     "DATE": "2021-5-9"
   },
   {
-    "NAME": "Stall Combo 1",
-    "SKILLS": "OO Double\nStall, Backwards Open (double)\nBackwards OC Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/stalls/#ST01",
+    "NAME": "Stall Combo 1",
+    "ID": "ST01",
+    "SKILLS": "OO Double\nStall, Backwards Open (double)\nBackwards OC Double",
     "DATE": "2020-11-2"
   },
   {
-    "NAME": "Stall Combo 2",
-    "SKILLS": "Backwards OO Double\nStall, Forwards Open (double)\nOC Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/stall/#ST02",
+    "NAME": "Stall Combo 2",
+    "ID": "ST02",
+    "SKILLS": "Backwards OO Double\nStall, Forwards Open (double)\nOC Double",
     "DATE": "2020-11-3"
   },
   {
-    "NAME": "Stall Combo 3",
-    "SKILLS": "Mic Release\nStall (between the legs)\nBackwards Cross, Open (double)",
     "LINK": "https://www.natekg.com/jump-rope-combos/stall/#ST03",
+    "NAME": "Stall Combo 3",
+    "ID": "ST03",
+    "SKILLS": "Mic Release\nStall (between the legs)\nBackwards Cross, Open (double)",
     "DATE": "2020-11-4"
   },
   {
-    "NAME": "Stall Combo 4",
-    "SKILLS": "Leg Over\nLeg Over Wrap Stall\nBackwards Leg Over",
     "LINK": "https://www.natekg.com/jump-rope-combos/stall/#ST04",
+    "NAME": "Stall Combo 4",
+    "ID": "ST04",
+    "SKILLS": "Leg Over\nLeg Over Wrap Stall\nBackwards Leg Over",
     "DATE": "2020-11-5"
   },
   {
-    "NAME": "Stall Combo 5",
-    "SKILLS": "Toad Cross\nStall\nBackwards Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/stall/#ST05",
+    "NAME": "Stall Combo 5",
+    "ID": "ST05",
+    "SKILLS": "Toad Cross\nStall\nBackwards Toad",
     "DATE": "2020-11-6"
   },
   {
-    "NAME": "Stall Combo 6",
-    "SKILLS": "Mic Release\nSwing\nEB Stall\nBackwards EB Cross\nBackwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/stall/#ST06",
+    "NAME": "Stall Combo 6",
+    "ID": "ST06",
+    "SKILLS": "Mic Release\nSwing\nEB Stall\nBackwards EB Cross\nBackwards Open",
     "DATE": "2020-11-7"
   },
   {
-    "NAME": "Stall Combo 7",
-    "SKILLS": "Mic Release\nStall\nBackwards Leg Hook\nStall\nForwards Dive EB\nEB Swing\nOpen",
     "LINK": "https://www.natekg.com/jump-rope-combos/stall/#ST07",
+    "NAME": "Stall Combo 7",
+    "ID": "ST07",
+    "SKILLS": "Mic Release\nStall\nBackwards Leg Hook\nStall\nForwards Dive EB\nEB Swing\nOpen",
     "DATE": "2020-11-8"
   },
   {
+    "LINK": "",
     "NAME": "Step-Through Combo 1",
+    "ID": "SP01",
     "SKILLS": "Toad Step-Through\nSwing\nEB Cross\nSwing Toad Double\nSwing\nEB Cross\nMic Release",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Step-Through Combo 2",
+    "ID": "SP02",
     "SKILLS": "Step-Through Mic\nLeg Over Step-Through\nSwing\nBasic Cross\nDive EB",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Step-Through Combo 3",
+    "ID": "SP03",
     "SKILLS": "Inverse Toad Step-Through \nInverse Toad Gogo Swing\nDive EB \nEB Wrap\nEB Unwrap 180 Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Step-Through Combo 4",
+    "ID": "SP04",
     "SKILLS": "Inverse Leg Over Step-Through\nBasic Cross\nToad Cross\nStep-Through Mic Release\nOC Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Step-Through Combo 5",
+    "ID": "SP05",
     "SKILLS": "Backwards Swing\nBackwards Leg Over Step-Through\nBackwards Inverse Toad Mic Release \nBackwards EB",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Step-Through Combo 6",
+    "ID": "SP06",
     "SKILLS": "Leg Over Step-Through\nEB Swing\nStall to Backwards\nBackwards Toad Step-Through\nBackwards Swing\nHeel Catch",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Step-Through Combo 7",
+    "ID": "SP07",
     "SKILLS": "Leg Over Step-Through\nToad Step-Through\nMic\nEB Wrap\nEB Unwrap 180\nBehind The Back Swing 180\nToe Catch",
-    "LINK": "",
     "DATE": ""
   },
   {
-    "NAME": "Swings Combo 1",
-    "SKILLS": "Side Swing\nSide Swing\nLeg Over Swing\nSide Swing\nSide Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS01",
+    "NAME": "Swings Combo 1",
+    "ID": "SS01",
+    "SKILLS": "Side Swing\nSide Swing\nLeg Over Swing\nSide Swing\nSide Swing\nToe Catch",
     "DATE": "2020-7-27"
   },
   {
-    "NAME": "Swings Combo 2",
-    "SKILLS": "Side Swing\nLeg Over Swing\nSide Swing\nToad Swing\nSide Swing\nInverse Toad Swing\nSide Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS02",
+    "NAME": "Swings Combo 2",
+    "ID": "SS02",
+    "SKILLS": "Side Swing\nLeg Over Swing\nSide Swing\nToad Swing\nSide Swing\nInverse Toad Swing\nSide Swing\nToe Catch",
     "DATE": "2020-7-28"
   },
   {
-    "NAME": "Swings Combo 3",
-    "SKILLS": "Toad Swing\nEB Swing\nInverse Toad Swing\nSide Swing\nEB Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS03",
+    "NAME": "Swings Combo 3",
+    "ID": "SS03",
+    "SKILLS": "Toad Swing\nEB Swing\nInverse Toad Swing\nSide Swing\nEB Swing\nToe Catch",
     "DATE": "2020-7-29"
   },
   {
-    "NAME": "Swings Combo 4",
-    "SKILLS": "Backwards EB Swing\nEB Swing\nSide Swing\nEB Swing (other side)\nSide Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS04",
+    "NAME": "Swings Combo 4",
+    "ID": "SS04",
+    "SKILLS": "Backwards EB Swing\nEB Swing\nSide Swing\nEB Swing (other side)\nSide Swing\nToe Catch",
     "DATE": "2020-7-30"
   },
   {
-    "NAME": "Swings Combo 5",
-    "SKILLS": "Inverse Toad Swing\nInverse Toad Gogo Swing\nToad Swing\nSide Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS05",
+    "NAME": "Swings Combo 5",
+    "ID": "SS05",
+    "SKILLS": "Inverse Toad Swing\nInverse Toad Gogo Swing\nToad Swing\nSide Swing\nToe Catch",
     "DATE": "2020-7-31"
   },
   {
-    "NAME": "Swings Combo 6",
-    "SKILLS": "Toad Swing (left)\nSide Swing(right)\nToad Swing (right)\nSide Swing(left)\nToad Swing (left)\nSide Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS06",
+    "NAME": "Swings Combo 6",
+    "ID": "SS06",
+    "SKILLS": "Toad Swing (left)\nSide Swing(right)\nToad Swing (right)\nSide Swing(left)\nToad Swing (left)\nSide Swing\nToe Catch",
     "DATE": "2020-8-1"
   },
   {
-    "NAME": "Swings Combo 7",
-    "SKILLS": "Double Side Swing(with opposing leg extension)\nDouble Side Swing(with opposing leg extension)\nSide Swing\nSide Swing\nSingle-Foot Toe Catch\nDramatic Handle Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS07",
+    "NAME": "Swings Combo 7",
+    "ID": "SS07",
+    "SKILLS": "Double Side Swing(with opposing leg extension)\nDouble Side Swing(with opposing leg extension)\nSide Swing\nSide Swing\nSingle-Foot Toe Catch\nDramatic Handle Release",
     "DATE": "2020-8-2"
   },
   {
-    "NAME": "Swings Combo 8",
-    "SKILLS": "Side Swing\nEB Wrap\nEB Unwrap\nEB Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS08",
+    "NAME": "Swings Combo 8",
+    "ID": "SS08",
+    "SKILLS": "Side Swing\nEB Wrap\nEB Unwrap\nEB Toe Catch",
     "DATE": "2020-9-14"
   },
   {
-    "NAME": "Swings Combo 9",
-    "SKILLS": "Side Swing(left)\nSide Swing(right)\nSide Swingright)\nStall\nBackwards Swing (right)\nSwing (left)",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS09",
+    "NAME": "Swings Combo 9",
+    "ID": "SS09",
+    "SKILLS": "Side Swing(left)\nSide Swing(right)\nSide Swingright)\nStall\nBackwards Swing (right)\nSwing (left)",
     "DATE": "2020-9-15"
   },
   {
-    "NAME": "Swings Combo 10",
-    "SKILLS": "Side Swing\nToad Swing (left)\nToad Gogo Swing (right)\nToad Swing (left)\nEB Swing (right)\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS10",
+    "NAME": "Swings Combo 10",
+    "ID": "SS10",
+    "SKILLS": "Side Swing\nToad Swing (left)\nToad Gogo Swing (right)\nToad Swing (left)\nEB Swing (right)\nToe Catch",
     "DATE": "2020-9-16"
   },
   {
-    "NAME": "Swings Combo 11",
-    "SKILLS": "Toad Swing (right)\nStall (under the leg)\nBackwards Toad Swing (right)\nBackwards EB Awesome Annie Swing\nBackwards Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS11",
+    "NAME": "Swings Combo 11",
+    "ID": "SS11",
+    "SKILLS": "Toad Swing (right)\nStall (under the leg)\nBackwards Toad Swing (right)\nBackwards EB Awesome Annie Swing\nBackwards Toe Catch",
     "DATE": "2020-9-17"
   },
   {
-    "NAME": "Swings Combo 12",
-    "SKILLS": "Side Swing(right) + Left Foot Catch\nUnwrap Swing (right)\nLeg Over Swing\nSide Swing\nSide Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS12",
+    "NAME": "Swings Combo 12",
+    "ID": "SS12",
+    "SKILLS": "Side Swing(right) + Left Foot Catch\nUnwrap Swing (right)\nLeg Over Swing\nSide Swing\nSide Swing\nToe Catch",
     "DATE": "2020-9-18"
   },
   {
-    "NAME": "Swings Combo 13",
-    "SKILLS": "Side Swing(left)\nLeg Over Swing (right)\nLeg Over Gogo Swing (left)\nLeg Over Swing (right)\nSide Swing(left)\nToad Swing (right)\nToad Gogo Swing (left)\nToad Swing (right)\nSide Swing\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS13",
+    "NAME": "Swings Combo 13",
+    "ID": "SS13",
+    "SKILLS": "Side Swing(left)\nLeg Over Swing (right)\nLeg Over Gogo Swing (left)\nLeg Over Swing (right)\nSide Swing(left)\nToad Swing (right)\nToad Gogo Swing (left)\nToad Swing (right)\nSide Swing\nToe Catch",
     "DATE": "2020-9-19"
   },
   {
-    "NAME": "Swings Combo 14",
-    "SKILLS": "Backwards Texan Swing (right)\nBackwards Swing (left)\nBackwards Arm Wrap (right)\nUnwrap Swing (left)\nBackwards Texan Swing (right)\nBackwards Swing (left)\nToe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS14",
+    "NAME": "Swings Combo 14",
+    "ID": "SS14",
+    "SKILLS": "Backwards Texan Swing (right)\nBackwards Swing (left)\nBackwards Arm Wrap (right)\nUnwrap Swing (left)\nBackwards Texan Swing (right)\nBackwards Swing (left)\nToe Catch",
     "DATE": "2020-9-20"
   },
   {
-    "NAME": "Switch Cross Combo 1",
-    "SKILLS": "Basic Cross\nSwitch Cross\nCross, Switch Cross (double)\nOpen",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW01",
+    "NAME": "Switch Cross Combo 1",
+    "ID": "SW01",
+    "SKILLS": "Basic Cross\nSwitch Cross\nCross, Switch Cross (double)\nOpen",
     "DATE": "2020-10-26"
   },
   {
-    "NAME": "Switch Cross Combo 2",
-    "SKILLS": "Toad Cross\nSwitch Toad\nOpen",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW02",
+    "NAME": "Switch Cross Combo 2",
+    "ID": "SW02",
+    "SKILLS": "Toad Cross\nSwitch Toad\nOpen",
     "DATE": "2020-10-27"
   },
   {
-    "NAME": "Switch Cross Combo 3",
-    "SKILLS": "Basic Cross\nSwitch Toad Cross\nSwing, EB (double)",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW03",
+    "NAME": "Switch Cross Combo 3",
+    "ID": "SW03",
+    "SKILLS": "Basic Cross\nSwitch Toad Cross\nSwing, EB (double)",
     "DATE": "2020-10-28"
   },
   {
-    "NAME": "Switch Cross Combo 4",
-    "SKILLS": "Basic Cross\nSwitch Cross\n180 to Backwards Cross\nBackwards Switch Cross\nBackwards Open",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW04",
+    "NAME": "Switch Cross Combo 4",
+    "ID": "SW04",
+    "SKILLS": "Basic Cross\nSwitch Cross\n180 to Backwards Cross\nBackwards Switch Cross\nBackwards Open",
     "DATE": "2020-10-29"
   },
   {
-    "NAME": "Switch Cross Combo 5",
-    "SKILLS": "Backwards Toad Cross\nBackwards Switch Cross",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW05",
+    "NAME": "Switch Cross Combo 5",
+    "ID": "SW05",
+    "SKILLS": "Backwards Toad Cross\nBackwards Switch Cross",
     "DATE": "2020-10-30"
   },
   {
-    "NAME": "Switch Cross Combo 6",
-    "SKILLS": "Basic Cross\nSwitch Cross\nToad Cross\nAwesome Annie to Leg Over\nBasic Cross\nSwitch Cross",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW06",
+    "NAME": "Switch Cross Combo 6",
+    "ID": "SW06",
+    "SKILLS": "Basic Cross\nSwitch Cross\nToad Cross\nAwesome Annie to Leg Over\nBasic Cross\nSwitch Cross",
     "DATE": "2020-10-31"
   },
   {
-    "NAME": "Switch Cross Combo 7",
-    "SKILLS": "Swing, Cross, Switch Cross (triple)\nSwing, Open, Open (triple)\nCross, Switch Cross (double)",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW07",
+    "NAME": "Switch Cross Combo 7",
+    "ID": "SW07",
+    "SKILLS": "Swing, Cross, Switch Cross (triple)\nSwing, Open, Open (triple)\nCross, Switch Cross (double)",
     "DATE": "2020-11-01"
   },
   {
-    "NAME": "Switch Cross Combo 8",
-    "SKILLS": "Side Swing\nBasic Cross\nSwitch Cross\nSide Swing\nBasic Cross\nSwitch Cross",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW08",
+    "NAME": "Switch Cross Combo 8",
+    "ID": "SW08",
+    "SKILLS": "Side Swing\nBasic Cross\nSwitch Cross\nSide Swing\nBasic Cross\nSwitch Cross",
     "DATE": "2021-11-8"
   },
   {
-    "NAME": "Switch Cross Combo 9",
-    "SKILLS": "Side Swing\nBasic Cross\nSwitch Cross To Toad Cross",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW09",
+    "NAME": "Switch Cross Combo 9",
+    "ID": "SW09",
+    "SKILLS": "Side Swing\nBasic Cross\nSwitch Cross To Toad Cross",
     "DATE": "2021-11-9"
   },
   {
-    "NAME": "Switch Cross Combo 10",
-    "SKILLS": "Basic Cross\nSwitch Cross\nOC Double\nSwitch CO Double",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW10",
+    "NAME": "Switch Cross Combo 10",
+    "ID": "SW10",
+    "SKILLS": "Basic Cross\nSwitch Cross\nOC Double\nSwitch CO Double",
     "DATE": "2021-11-10"
   },
   {
-    "NAME": "Switch Cross Combo 11",
-    "SKILLS": "Basic Cross\nSwitch Cross\nSwitch Cross Double",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW11",
+    "NAME": "Switch Cross Combo 11",
+    "ID": "SW11",
+    "SKILLS": "Basic Cross\nSwitch Cross\nSwitch Cross Double",
     "DATE": "2021-11-11"
   },
   {
-    "NAME": "Switch Cross Combo 12",
-    "SKILLS": "Backwards Side Swing\nBackwards Basic Cross\nBackwards To Forwards Stall\nBasic Cross (switched)\nSwitch Cross Into Switch Cross Double",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW12",
+    "NAME": "Switch Cross Combo 12",
+    "ID": "SW12",
+    "SKILLS": "Backwards Side Swing\nBackwards Basic Cross\nBackwards To Forwards Stall\nBasic Cross (switched)\nSwitch Cross Into Switch Cross Double",
     "DATE": "2021-11-12"
   },
   {
-    "NAME": "Switch Cross Combo 13",
-    "SKILLS": "SC Double\nToad Cross\nSwitch Toad",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW13",
+    "NAME": "Switch Cross Combo 13",
+    "ID": "SW13",
+    "SKILLS": "SC Double\nToad Cross\nSwitch Toad",
     "DATE": "2021-11-13"
   },
   {
-    "NAME": "Switch Cross Combo 14",
-    "SKILLS": "SC Double\nSwitch Cross Double\nSC Double\nSwitch Cross Double",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW14",
+    "NAME": "Switch Cross Combo 14",
+    "ID": "SW14",
+    "SKILLS": "SC Double\nSwitch Cross Double\nSC Double\nSwitch Cross Double",
     "DATE": "2021-11-14"
   },
   {
+    "LINK": "",
     "NAME": "Triples Combo 1",
+    "ID": "TU01",
     "SKILLS": "Swing, Cross, Cross\nSwing, Cross, Open\nSwing, Open, Cross\nSwing, Open, Open\n(all same side)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Triples Combo 2",
+    "ID": "TU02",
     "SKILLS": "Swing, Swing, Open (left)\nSwing, Swing, Open (right)\nSwing, Swing, Cross (left)\nSwing, Swing, Cross (right)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Triples Combo 3",
+    "ID": "TU03",
     "SKILLS": "Swing, Swing, Open\nOpen, Swing, Open\nSwing, Swing, Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Triples Combo 4",
+    "ID": "TU04",
     "SKILLS": "Swing, EB, Open\nSwing, Toad, Open (TJ)\nSwing, Cross, Open (other side)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Triples Combo 5",
+    "ID": "TU05",
     "SKILLS": "Swing, EB, Open\nSwing, Swing, Open\nSwing, Toad, Open (TJ)\nSwing, Swing, Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Triples Combo 6",
+    "ID": "TU06",
     "SKILLS": "Swing, Cross, Cross\nSwing, Open, Open\nSwing, Toad, Open (TJ)\nSwing, Mic, Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Triples Combo 7",
+    "ID": "TU07",
     "SKILLS": "Open, Cross, Open (left)\nOpen, Cross, Open (right)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "TS Combo 1",
+    "ID": "TS01",
     "SKILLS": "Swing\nEB Swing\nTS\nBasic Cross\nToad Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "TS Combo 2",
+    "ID": "TS02",
     "SKILLS": "TS\nTS 180\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "TS Combo 3",
+    "ID": "TS03",
     "SKILLS": "Dive EB\nEB Gogo Swing\nEB Swing\nTS",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "TS Combo 4",
+    "ID": "TS04",
     "SKILLS": "Swing\nEB Toad\nEB Swing\nTS",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "TS Combo 5",
+    "ID": "TS05",
     "SKILLS": "TS\nEB Cross\nSwing\nBasic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "TS Combo 6",
+    "ID": "TS06",
     "SKILLS": "Dive EB\nEB Swing\nTS",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "TS Combo 7",
+    "ID": "TS07",
     "SKILLS": "Open\nTS, Open (double)\nTS\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 1",
+    "ID": "MM01",
     "SKILLS": "180 Swing\nBackwards Toad Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 2",
+    "ID": "MM02",
     "SKILLS": "180 Swing\nBackwards Toad Cross\nCrossed Texan 180\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 3",
+    "ID": "MM03",
     "SKILLS": "Swing 180\nBackwards Open\n180 to Forwards Open\nFull Turn 360",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 4",
+    "ID": "MM04",
     "SKILLS": "SO Double\nSwing 180, Backwards Open (double)\nTexan 180, Open (double)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 5",
+    "ID": "MM05",
     "SKILLS": "Side Swing\nEB Wrap\nUnwrap 180\nBackwards Inverse Toad Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 6",
+    "ID": "MM06",
     "SKILLS": "Leg Hook 360\nAS Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 7",
+    "ID": "MM07",
     "SKILLS": "Swing 360\nStraddle Stall\nBackwards Texan 180\nForwards OC Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 8",
+    "ID": "MM08",
     "SKILLS": "Dive EB 180\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 9",
+    "ID": "MM09",
     "SKILLS": "Swing 180\nStall (between the legs)\nForwards Dive EB 180\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 10",
+    "ID": "MM10",
     "SKILLS": "Swing 180\nStall\nForwards Caboose",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 11",
+    "ID": "MM11",
     "SKILLS": "Swing\nEB Cross\n180 to Backwards EB\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 12",
+    "ID": "MM12",
     "SKILLS": "Swing\nEB Cross 180\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 13",
+    "ID": "MM13",
     "SKILLS": "Swing 180\nBackwards Mic Release\n180 to Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Turn Combo 14",
+    "ID": "MM14",
     "SKILLS": "Marley (360 Turn)\nGround Awesome Annie (double)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 1",
+    "ID": "WR01",
     "SKILLS": "Leg Over Step-Through Wrap\nUnwrap Swing\nToad Cross\nStall\nBackwards Open\nBackwards Arm Wrap\nUnwrap Swing\nBackwards Basic Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 2",
+    "ID": "WR02",
     "SKILLS": "Swing\nArm Wrap\nUnwrap Swing\nBasic Cross\nArm Wrap\nUnwrap Swing 180\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 3",
+    "ID": "WR03",
     "SKILLS": "Backwards EB Swing\nBackwards EB Wrap\n180 to EB Unwrap\nForwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 4",
+    "ID": "WR04",
     "SKILLS": "Arm Wrap\nOpen (over the small section)\nSwing Stall\nUnwrap Swing\nBackwards Open",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 5",
+    "ID": "WR05",
     "SKILLS": "Swing\nArm Wrap\nUnwrap Swing\nCrossed Step-Through\nSwing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 6",
+    "ID": "WR06",
     "SKILLS": "Swing, EB Toad (double)\nToad Swing, Toad Wrap (double)\nUnwrap Swing\nStep-Through\nSwing\nSwing\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 7",
+    "ID": "WR07",
     "SKILLS": "Leg Over\nMic Release (in the Leg Over placement)\nLeg Over (other side)\nLeg Over Wrap\nUnwrap Swing\nToad Cross\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 8",
+    "ID": "WR08",
     "SKILLS": "Swing\nEB Wrap\nEB Unwrap 180\nBackwards EB Release\nBackwards Mic Release\nBackwards EB Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 9",
+    "ID": "WR09",
     "SKILLS": "Swing\nEB Wrap\nUnwrap Swing\nSwing\nCL Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 10",
+    "ID": "WR10",
     "SKILLS": "Swing\nEB Cross\nEB Wrap\nUnwrap Swing\nMic Release\nCL Cross",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 11",
+    "ID": "WR11",
     "SKILLS": "Swing\nEB Wrap\nEB Stall (with Straddle)\nBackwards Unwrap to Open\nBackwards Basic Cross\nHeel Catch",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 12",
+    "ID": "WR12",
     "SKILLS": "Swing\nEB Cross\nEB Wrap\nEB Unwrap 180\nBackwards EB Swing\nBackwards EB\nBackwards EB",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 13",
+    "ID": "WR13",
     "SKILLS": "Mic\nDive EB\nEB Wrap\nEB Unwrap 180\nBackwards Leg Hook 180",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 14",
+    "ID": "WR14",
     "SKILLS": "Dive EB\nEB Wrap\nEB Unwrap Swing\nEB Swing Open Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 15",
+    "ID": "WR15",
     "SKILLS": "Leg Over Swing\nLeg Over Step-Through Wrap\nUnwrap Swing\nAwesome Annie to Toad\nMic Release (Reisig Style)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 16",
+    "ID": "WR16",
     "SKILLS": "Swing\nEB Toad\nEB Toad Wrap\nUnwrap Swing\nAwesome Annie to Leg Over\nLeg Over Wrap\nUnwrap Swing\nAwesome Annie to Toad\nOpen",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 17",
+    "ID": "WR17",
     "SKILLS": "Swing\nEB Wrap \nEB Unwrap Swing\nEB Toad\nEB Toad Wrap\nUnwrap Swing\nAwesome Annie to Leg Over\nToad Cross (same leg)",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 18",
+    "ID": "WR18",
     "SKILLS": "Swing\nEB Toad\nEB Toad Wrap\nUnwrap Swing\nStep-Through Release",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 19",
+    "ID": "WR19",
     "SKILLS": "Swing\nEB Toad\nEB Toad Wrap\nUnwrap Swing\nGround Awesome Annie (double)\nOC Double",
-    "LINK": "",
     "DATE": ""
   },
   {
+    "LINK": "",
     "NAME": "Wrap Combo 20",
+    "ID": "WR20",
     "SKILLS": "Mic Release\nToad Swing\nEB Toad Wrap\nUnwrap Swing\nAwesome Annie to Leg Over Release",
-    "LINK": "",
     "DATE": ""
   },
   {
-    "NAME": "Wrap Combo 21",
-    "SKILLS": "Toad Cross\nToad Swing\nEB Toad\nEB Toad Wrap\nUnwrap Swing\nAwesome Annie to Leg Over\nToad Cross\nToad Swing\nEB Toad Wrap\nUnwrap Swing\nAwesome Annie to Leg Over\nToad Cross (same leg)",
     "LINK": "",
+    "NAME": "Wrap Combo 21",
+    "ID": "WR21",
+    "SKILLS": "Toad Cross\nToad Swing\nEB Toad\nEB Toad Wrap\nUnwrap Swing\nAwesome Annie to Leg Over\nToad Cross\nToad Swing\nEB Toad Wrap\nUnwrap Swing\nAwesome Annie to Leg Over\nToad Cross (same leg)",
     "DATE": ""
   }
 ]
