@@ -1,5 +1,45 @@
 [
   {
+    "ID": "MATUT01",
+    "NAME": "💻 Mamba Release Tutorial",
+    "SKILLS": "Complete Tutorial for the Mamba Release/Side-to-Side Mic",
+    "LINK": "https://youtu.be/jDJSZbxwxp8",
+    "DATE": "",
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//jDJSZbxwxp8' frameborder='0' allowfullscreen></iframe></div>"
+  },
+  {
+    "ID": "MRTUT01",
+    "NAME": "💻 Mic Release Tutorial",
+    "SKILLS": "Complete Tutorial for the Mic Release",
+    "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MRTUT01",
+    "DATE": "",
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//rg1BA59uizE' frameborder='0' allowfullscreen></iframe></div>"
+  },
+  {
+    "ID": "EB06",
+    "NAME": "EB Combo 6",
+    "SKILLS": "Backwards Swing / Backwards EB Cross / Backwards EB Swing / Mic Release / 180 to Forwards Open",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB06",
+    "DATE": "2020-8-15",
+    "IMAGE": ""
+  },
+  {
+    "ID": "WR21",
+    "NAME": "Wrap Combo 21",
+    "SKILLS": "Toad Cross / Toad Swing / EB Toad / EB Toad Wrap / Unwrap Swing / Awesome Annie to Leg Over / Toad Cross / Toad Swing / EB Toad Wrap / Unwrap Swing / Awesome Annie to Leg Over / Toad Cross (same leg)",
+    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR21",
+    "DATE": "2021-3-14",
+    "IMAGE": ""
+  },
+  {
+    "ID": "EBTUT01",
+    "NAME": "💻 EB Cross Tutorial",
+    "SKILLS": "Complete Tutorial for the EB Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBTUT01",
+    "DATE": "",
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//GUHKoov3zf0' frameborder='0' allowfullscreen></iframe></div>"
+  },
+  {
     "ID": "AS01",
     "NAME": "AS Combo 1",
     "SKILLS": "Swing / Basic Cross / AS Cross / Caboose / Backwards Open",
@@ -117,7 +157,7 @@
     "SKILLS": "Complete Tutorial for the Awesome Annie",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AATUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//SV4xe4NgHIQ' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "AA01",
@@ -181,7 +221,7 @@
     "SKILLS": "Complete Tutorial for the Backwards Basic Cross",
     "LINK": "",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//wQGqhVi9vew' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "BB01",
@@ -525,7 +565,7 @@
     "SKILLS": "Complete Tutorial for the CL Cross",
     "LINK": "https://www.natekg.com/cl/#CLTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//RJB-neNnwrs' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "CL01",
@@ -645,7 +685,7 @@
     "SKILLS": "Complete Tutorial for the Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CRTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//hLF77ykM7rQ' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "CR01",
@@ -765,7 +805,7 @@
     "SKILLS": "Complete Tutorial for the OC, CO, and CC Double Under Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DUTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//pqgXbeIsfqU' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "DU01",
@@ -824,14 +864,6 @@
     "IMAGE": ""
   },
   {
-    "ID": "EBTUT01",
-    "NAME": "💻 EB Cross Tutorial",
-    "SKILLS": "Complete Tutorial for the EB Cross",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBTUT01",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
     "ID": "EB01",
     "NAME": "EB Combo 1",
     "SKILLS": "Swing / EB Cross / Swing / Basic Cross / SEB Double / SC Double / Open",
@@ -869,14 +901,6 @@
     "SKILLS": "Backwards Swing / Backwards EB Cross / Backwards EB Swing / Backwards Open / Backwards EB Swing / Backwards Swing",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB05",
     "DATE": "2020-8-14",
-    "IMAGE": ""
-  },
-  {
-    "ID": "EB06",
-    "NAME": "EB Combo 6",
-    "SKILLS": "Backwards Swing / Backwards EB Cross / Backwards EB Swing / Mic Release / 180 to Forwards Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB06",
-    "DATE": "2020-8-15",
     "IMAGE": ""
   },
   {
@@ -1057,11 +1081,11 @@
   },
   {
     "ID": "FWTUT01",
-    "NAME": "💻 Boxer Step Footwork Tutorial",
+    "NAME": "Boxer Step Footwork Tutorial💻",
     "SKILLS": "Complete Tutorial for the Boxer Step Footwork Skill",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//1XCE4QlGzxI' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "FWTUT02",
@@ -1069,7 +1093,7 @@
     "SKILLS": "Complete Tutorial for the 5 Best Jump Rope Footwork Skills for Beginners, Including the Side Straddle, Foot Cross, Running In Place, Front Straddle, and the Heel Tap",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWTUT02",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//PDS8XpoYiPs' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "FW01",
@@ -1357,7 +1381,7 @@
     "SKILLS": "Complete Tutorial for the Inverse Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#ITTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//mf5wdJ2tONA' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "ITTUT02",
@@ -1365,7 +1389,7 @@
     "SKILLS": "Complete Tutorial for the Inverse Toad Open Gogo Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#ITTUT02",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//BstVWkoub7I' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "IT01",
@@ -1429,7 +1453,7 @@
     "SKILLS": "Complete Tutorial for the K-Toad/Neck Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KTTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//BavqD2zcN1w' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "KT01",
@@ -1549,7 +1573,7 @@
     "SKILLS": "Complete Tutorial for the Leg Hook 360 Turn",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LHTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//rmS5o3lu1DA' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "LH01",
@@ -1613,7 +1637,7 @@
     "SKILLS": "Complete Tutorial for the Leg Over Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LOTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//Y_Kd6WlkI4s' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "LO01",
@@ -1725,22 +1749,6 @@
     "SKILLS": "Elephant / Awesome Annie / Leg Over / Basic Cross / Open Leg Over Double / Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LO14",
     "DATE": "2021-3-28",
-    "IMAGE": ""
-  },
-  {
-    "ID": "MATUT01",
-    "NAME": "💻 Mamba Release Tutorial",
-    "SKILLS": "Complete Tutorial for the Mamba Release/Side-to-Side Mic",
-    "LINK": "https://youtu.be/jDJSZbxwxp8",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "MRTUT01",
-    "NAME": "💻 Mic Release Tutorial",
-    "SKILLS": "Complete Tutorial for the Mic Release",
-    "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MRTUT01",
-    "DATE": "",
     "IMAGE": ""
   },
   {
@@ -2629,7 +2637,7 @@
     "SKILLS": "Complete Tutorial for the SCSEB Quadruple Under (Swing Cross Swing EB)",
     "LINK": "https://youtu.be/lJchBQ4xyDE",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//lJchBQ4xyDE' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "RD01",
@@ -3141,7 +3149,7 @@
     "SKILLS": "Complete Tutorial for the Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos-all/toad/#TCTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//xvMOKkZBsu8' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "TUTUT01",
@@ -3149,7 +3157,7 @@
     "SKILLS": "Complete Tutorial for the TJ Triple Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/triples/#TUTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//dxRxtQ-ewkY' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "TUTUT02",
@@ -3157,7 +3165,7 @@
     "SKILLS": "Complete Tutorial for the Mic Release Triple Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/triples/#TUTUT02",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//VTRwzjjMJpc' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "TU01",
@@ -3221,7 +3229,7 @@
     "SKILLS": "Complete Tutorial for the TS Cross/Behind the Back Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/ts/#TSTUT01",
     "DATE": "",
-    "IMAGE": ""
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//PZ3ztmqQrpo' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "TS01",
@@ -3549,14 +3557,6 @@
     "SKILLS": "Mic Release / Toad Swing / EB Toad Wrap / Unwrap Swing / Awesome Annie to Leg Over Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR20",
     "DATE": "2021-3-13",
-    "IMAGE": ""
-  },
-  {
-    "ID": "WR21",
-    "NAME": "Wrap Combo 21",
-    "SKILLS": "Toad Cross / Toad Swing / EB Toad / EB Toad Wrap / Unwrap Swing / Awesome Annie to Leg Over / Toad Cross / Toad Swing / EB Toad Wrap / Unwrap Swing / Awesome Annie to Leg Over / Toad Cross (same leg)",
-    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR21",
-    "DATE": "2021-3-14",
     "IMAGE": ""
   }
 ]
