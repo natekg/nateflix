@@ -1985,9 +1985,73 @@
   },
   {
     "ID": "TSA1",
-    "NAME": "Nate K-G Combo 1",
+    "NAME": "Nate K-G Combo 01",
     "SKILLS": "TS / EB Wrap / Unwrap 180 / Texan 180, Open (double)",
     "LINK": "https://www.natekg.com/jump-rope-combos/ts/#TSA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "DUA1",
+    "NAME": "Nate K-G Combo 02",
+    "SKILLS": "Swing, Toad (double) / Swing, EB (double) / SC Double / SO Double / Open, EB Wrap (double) / EB Unwrap 180, Open (double) / Texan 180, Open (double)",
+    "LINK": "https://www.natekg.com/jump-rope-combos/doubles/#DUA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "LOA1",
+    "NAME": "Nate K-G Combo 03",
+    "SKILLS": "Awesome Annie / Mic Release (in the Leg Over placement) / Leg Over (catch) / Awesome Annie",
+    "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LOA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "WRA1",
+    "NAME": "Nate K-G Combo 04",
+    "SKILLS": "Toad Cross / Toad Wrap / Unwrap Swing / Toad Swing / EB Toad / EB Swing / Open",
+    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WRA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "CBA1",
+    "NAME": "Nate K-G Combo 05",
+    "SKILLS": "Backwards SC Double / Backwards OO Double / Stall, Open (double) / Caboose / Backwards Open / Toe Catch",
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CBA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "MMA1",
+    "NAME": "Nate K-G Combo 06",
+    "SKILLS": "Swing / Toad Cross / EB Wrap / EB Unwrap 180 / Backwards Texan 360 / 180 to OO Double",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "ITA1",
+    "NAME": "Nate K-G Combo 07",
+    "SKILLS": "Backwards Leg Hook / Stall / Forwards Inverse Toad Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#ITA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "EBA1",
+    "NAME": "Nate K-G Combo 08",
+    "SKILLS": "Any Basic Cross (single) / Any Cross, Any Cross (double)",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBA1",
+    "DATE": "",
+    "IMAGE": ""
+  },
+  {
+    "ID": "LOA2",
+    "NAME": "Nate K-G Combo 09",
+    "SKILLS": "Open (single leg) / OO Double (single leg) / Toad Cross / Leg Over (same leg) / T-Toad / Caboose / Backwards Open",
+    "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LOA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -1995,7 +2059,7 @@
     "ID": "WRA2",
     "NAME": "Nate K-G Combo 11",
     "SKILLS": "Swing / Arm Wrap / Unwrap Swing / Toad Cross / Open / Swing / Arm Wrap / Unwrap Swing / T-Toad / Swing / Basic Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WRA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2003,7 +2067,7 @@
     "ID": "DUA2",
     "NAME": "Nate K-G Combo 12",
     "SKILLS": "5 x OO Double (slow & high) / 5 x OO Double (fast & low) / 2 x OO Double (slow & high)",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/doubles/#DUA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2011,7 +2075,7 @@
     "ID": "MRA1",
     "NAME": "Nate K-G Combo 13",
     "SKILLS": "Stall to Backwards Open / Stall (between the leg) / OC Double / Step Through Mic Release",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MRA1",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2019,7 +2083,7 @@
     "ID": "CBA2",
     "NAME": "Nate K-G Combo 14",
     "SKILLS": "Caboose / Caboose (Open) / Caboose / Backwards Cross, Open (double)",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CBA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2027,7 +2091,7 @@
     "ID": "LOA3",
     "NAME": "Nate K-G Combo 15",
     "SKILLS": "Leg Over (over the top placement) / Swing / Basic Cross / Crossed Stall (between the legs) / Backwards Basic Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LOA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2035,7 +2099,7 @@
     "ID": "ITA2",
     "NAME": "Nate K-G Combo 16",
     "SKILLS": "Inverse Toad Cross / Open / Leg Over / Basic Cross / Open / Toad Cross / Open / Inverse Leg Over / Basic Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#ITA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2043,7 +2107,7 @@
     "ID": "LOA5",
     "NAME": "Nate K-G Combo 17",
     "SKILLS": "Swing / Leg Over / Swing / Leg Over / Basic Cross / Open / Leg Over / Basic Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LOA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2051,7 +2115,7 @@
     "ID": "EBA2",
     "NAME": "Nate K-G Combo 18",
     "SKILLS": "EB Cross / EB Cross (on right foot) / EB Cross (on left foot) / EB Cross (alternating feet)",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2059,15 +2123,7 @@
     "ID": "EBA3",
     "NAME": "Nate K-G Combo 19",
     "SKILLS": "Swing / EB Cross / EB Toad / EB Cross / EB Swing / Open",
-    "LINK": "",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "DUA1",
-    "NAME": "Nate K-G Combo 2",
-    "SKILLS": "Swing, Toad (double) / Swing, EB (double) / SC Double / SO Double / Open, EB Wrap (double) / EB Unwrap 180, Open (double) / Texan 180, Open (double)",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2075,7 +2131,7 @@
     "ID": "MMA2",
     "NAME": "Nate K-G Combo 20",
     "SKILLS": "Swing / Basic Cross / Step Through Stall / EB Dive 180 / Backwards Open / Swing 180 / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2083,7 +2139,7 @@
     "ID": "KRA6",
     "NAME": "Nate K-G Combo 21",
     "SKILLS": "Open, Toad (double) / Stall (under the leg) / Backwards Leg Over / Backwards Texan Swing / Backwards Swing",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LOA6",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2091,7 +2147,7 @@
     "ID": "EBA4",
     "NAME": "Nate K-G Combo 22",
     "SKILLS": "Swing / Basic Cross / Swing / EB Cross / SC Double / Swing, EB (double) / Front Toe Tap / Side Toe Tap / Back Toe Tap / Leg Kick + Toad",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBA4",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2099,7 +2155,7 @@
     "ID": "CAA1",
     "NAME": "Nate K-G Combo 23",
     "SKILLS": "OO Double / Toe Catch Mid-Air",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CAA1",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2107,7 +2163,7 @@
     "ID": "RAA1",
     "NAME": "Nate K-G Combo 24",
     "SKILLS": "Swing / Swing / Open / Swing / EB Swing / Open / Swing (above head) / Swing (above head) / Open / Swing / Texan Swing / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SSA1",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2115,7 +2171,7 @@
     "ID": "STA1",
     "NAME": "Nate K-G Combo 25",
     "SKILLS": "Basic Cross / Toad Cross / Stall (holding Toad placement) / Backwards Toad Cross / Backwards Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/stalls/#STA1",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2123,7 +2179,7 @@
     "ID": "MMA3",
     "NAME": "Nate K-G Combo 26",
     "SKILLS": "Swing 180 / Backwards Basic Cross / Backwards Cross Stall (between the legs) / Forwards Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2131,7 +2187,7 @@
     "ID": "ITA3",
     "NAME": "Nate K-G Combo 27",
     "SKILLS": "SAME AS INVERSE TOAD COMBO 5",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/B_YyUR7lcPf/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2139,7 +2195,7 @@
     "ID": "WRA3",
     "NAME": "Nate K-G Combo 28",
     "SKILLS": "Swing / Arm Wrap / Unwrap Swing / Basic Cross / Toad Cross / Toad Arm Wrap / Unwrap Toad Swing / Toad Cross / Open / Swing / EB Arm Wrap / EB Unwrap Swing / EB Cross / EB Swing / Open",
-    "LINK": "",
+    "LINK": "https://www.thejumpropecoachchris.com/combos-wraps/#WRA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2147,15 +2203,7 @@
     "ID": "MRA2",
     "NAME": "Nate K-G Combo 29",
     "SKILLS": "SO Double / Stall to Backwards Open / Backwards Swing / Backwards Swing / Backwards Open / Mic Release 180 / Forwards Open",
-    "LINK": "",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "LOA1",
-    "NAME": "Nate K-G Combo 3",
-    "SKILLS": "Awesome Annie / Mic Release (in the Leg Over placement) / Leg Over (catch) / Awesome Annie",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MRA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2163,7 +2211,7 @@
     "ID": "PUA1",
     "NAME": "Nate K-G Combo 30",
     "SKILLS": "Basic Push Up / Open to Stall / Backwards Toad Cross / Backwards Toad Cross / Backwards Open / Backwards Toad Cross (other side) / Backwards Open",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/B_fW_F1lqj4/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2171,7 +2219,7 @@
     "ID": "CBA3",
     "NAME": "Nate K-G Combo 31",
     "SKILLS": "Leg Over / Caboose (Open) / Backwards Leg Over / Backwards Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#CBA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2179,7 +2227,7 @@
     "ID": "CRA1",
     "NAME": "Nate K-G Combo 32",
     "SKILLS": "Basic Cross / Toad Cross / Basic Cross / T-Toad / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/B_ltdeVFb0t/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2187,7 +2235,7 @@
     "ID": "WRA4",
     "NAME": "Nate K-G Combo 33",
     "SKILLS": "Step Through Wrap / Unwrap Swing / Toad Swing / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WRA4",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2195,7 +2243,7 @@
     "ID": "PUA2",
     "NAME": "Nate K-G Combo 34",
     "SKILLS": "One-Handed Basic Push Up / Basic Cross / One-Hand Basic Push Up (other side) / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/B_rFfBEFZq5/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2203,7 +2251,7 @@
     "ID": "MMA4",
     "NAME": "Nate K-G Combo 35",
     "SKILLS": "Full Turn 360 / Texan 360 / Swing 180 / Backwards Open / 180 to Forwards Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA4",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2211,7 +2259,7 @@
     "ID": "MMA5",
     "NAME": "Nate K-G Combo 36",
     "SKILLS": "Swing / EB Cross / Swing 180 / Backwards Basic Cross / Swing 180 / Forwards Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2219,7 +2267,7 @@
     "ID": "WRA5",
     "NAME": "Nate K-G Combo 37",
     "SKILLS": "Leg Over / Leg Over Wrap / Unwrap (No Swing) / Basic Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WRA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2227,7 +2275,7 @@
     "ID": "MMA6",
     "NAME": "Nate K-G Combo 38",
     "SKILLS": "Texan 360 / Swing / Basic Cross / Texan 360 / Swing / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA6",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2235,15 +2283,7 @@
     "ID": "FWA1",
     "NAME": "Nate K-G Combo 39",
     "SKILLS": "Swing (right foot) / Basic Cross (left foot) / Swing (right foot) / Open (left foot) / Toad Cross (same leg) / Leg Over (same leg) / Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA1",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "WRA1",
-    "NAME": "Nate K-G Combo 4",
-    "SKILLS": "Toad Cross / Toad Wrap / Unwrap Swing / Toad Swing / EB Toad / EB Swing / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2251,7 +2291,7 @@
     "ID": "HPA1",
     "NAME": "Nate K-G Combo 40",
     "SKILLS": "Swing (Handle Pass) / Toad Swing (Handle Grab) / Open / Stall (under the leg) / Backwards Leg Over Gogo / Stall to Forwards Open",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/B_6BCeJl_Cu/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2259,7 +2299,7 @@
     "ID": "STA2",
     "NAME": "Nate K-G Combo 41",
     "SKILLS": "Backwards Texan Stall (The Nutcracker) / Forwards Body Stall (on ankles) / Backwards Stall (hands by waist) / Forwards Stall (between the legs)",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/stalls/#STA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2267,7 +2307,7 @@
     "ID": "HPA2",
     "NAME": "Nate K-G Combo 42",
     "SKILLS": "Swing / Open / Swing (Handle Pass) / EB Swing / Swing (Handle Grab) / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/B__dvqJlpG6/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2275,7 +2315,7 @@
     "ID": "HPA3",
     "NAME": "Nate K-G Combo 43",
     "SKILLS": "Inverse Toad Cross / Swing (Handle Pass) / Swing (Handle Grab) / Open",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/CAB_3N2Fcud/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2283,7 +2323,7 @@
     "ID": "DUA3",
     "NAME": "Nate K-G Combo 44",
     "SKILLS": "OC Double / Crossed Stall (between the legs) / Backwards Basic Cross / Backwards OC Double / Backwards Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/stalls/#STA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2291,7 +2331,7 @@
     "ID": "MMA7",
     "NAME": "Nate K-G Combo 45",
     "SKILLS": "Backwards Rope Kick to Forwards / 180 Stall to Forwards Open / 180 Stall to Forwards Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA7",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2299,7 +2339,7 @@
     "ID": "MRA3",
     "NAME": "Nate K-G Combo 46",
     "SKILLS": "Mic Release / Basic Cross / Toad Cross / OO Double",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MRA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2307,7 +2347,7 @@
     "ID": "DUA4",
     "NAME": "Nate K-G Combo 47",
     "SKILLS": "SO Double / SO Double / OO Double / SC Double / SC Double / Cross, Cross (double)",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DUA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2315,7 +2355,7 @@
     "ID": "FWA2",
     "NAME": "Nate K-G Combo 48",
     "SKILLS": "Straddle / Basic Cross / Straddle / Basic Cross (with a Body Cross) / Open / High Knee (with a Swing) / Side Tap (with a Texan Swing) / Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA2",
+    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2323,15 +2363,7 @@
     "ID": "FWA3",
     "NAME": "Nate K-G Combo 49",
     "SKILLS": "4 x Alternating Step / Toad Cross / Open / Toad (other side) / Open / Step Through Stall / Toe Catch",
-    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA3",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "CBA1",
-    "NAME": "Nate K-G Combo 5",
-    "SKILLS": "Backwards SC Double / Backwards OO Double / Stall, Open (double) / Caboose / Backwards Open / Toe Catch",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA4",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2339,7 +2371,7 @@
     "ID": "TSA2",
     "NAME": "Nate K-G Combo 50",
     "SKILLS": "TS / EB Wrap / EB Unwrap 180",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/ts/#TSA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2347,7 +2379,7 @@
     "ID": "ITA4",
     "NAME": "Nate K-G Combo 51",
     "SKILLS": "SAME AS NATE K-G COMBO 7",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/CAVWPrglP1A/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2355,7 +2387,7 @@
     "ID": "TSA3",
     "NAME": "Nate K-G Combo 52",
     "SKILLS": "TS / EB Wrap / EB Unwrap 180 / Backwards Leg Hook / Stall / Forwards Inverse Toad Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/ts/#TSA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2363,7 +2395,7 @@
     "ID": "SWA1",
     "NAME": "Nate K-G Combo 53",
     "SKILLS": "Basic Cross / Switch Cross / Switch Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/switch-cross/#SWA1",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2371,7 +2403,7 @@
     "ID": "DUA5",
     "NAME": "Nate K-G Combo 54",
     "SKILLS": "Swing / Toad Cross / Open / Swing, Toad (double) / Open / Swing, Toad (double) / OO Double",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/CAeZ1xzlfqi/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2379,15 +2411,15 @@
     "ID": "STA4",
     "NAME": "Nate K-G Combo 55",
     "SKILLS": "Basic Cross / Stall (holding Cross placement) / Backwards Cross / Stall (holding Cross placement) / Forwards Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/stalls/#STA4",
     "DATE": "",
     "IMAGE": ""
   },
   {
     "ID": "—",
-    "NAME": "Nate K-G Combo 56",
-    "SKILLS": "—",
-    "LINK": "",
+    "NAME": "Nate K-G Combo 56 (55.2)",
+    "SKILLS": "Cross / 180 (in cross placement) / Backwards Cross / 180 (in cross placement) / Forwards Cross",
+    "LINK": "https://www.instagram.com/p/CAjcmZmFTjl/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2395,7 +2427,7 @@
     "ID": "CRA2",
     "NAME": "Nate K-G Combo 57",
     "SKILLS": "Basic Cross / Step Through / Swing / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/CAk45XfFkmW/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2403,7 +2435,7 @@
     "ID": "AAA1",
     "NAME": "Nate K-G Combo 58",
     "SKILLS": "Toad Cross / Toad Cross / Leg Over / Leg Over / Basic Cross / Basic Cross / Open",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/CAopdabFbcE/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2411,15 +2443,7 @@
     "ID": "WRA6",
     "NAME": "Nate K-G Combo 59",
     "SKILLS": "Horizontal Body Wrap / Unwrap / Open",
-    "LINK": "",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "MMA1",
-    "NAME": "Nate K-G Combo 6",
-    "SKILLS": "Swing / Toad Cross / EB Wrap / EB Unwrap 180 / Backwards Texan 360 / 180 to OO Double",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WRA6",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2427,7 +2451,7 @@
     "ID": "FWA4",
     "NAME": "Nate K-G Combo 60",
     "SKILLS": "(All holding a Cross) / Right leg jump / Right leg jump / Left leg jump / Left jump / Straddle / Single bounce (Open)",
-    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA4",
+    "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2435,7 +2459,7 @@
     "ID": "DUA6",
     "NAME": "Nate K-G Combo 61",
     "SKILLS": "OO Double / Stall / Backwards OO Double",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DUA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2443,7 +2467,7 @@
     "ID": "TSA4",
     "NAME": "Nate K-G Combo 62",
     "SKILLS": "Swing / Basic Cross / Open / TS / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/ts/#TSA4",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2451,7 +2475,7 @@
     "ID": "STA5",
     "NAME": "Nate K-G Combo 63",
     "SKILLS": "Step Through Wrap / Stall / Unwrap Step Through",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/stalls/#STA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2459,7 +2483,7 @@
     "ID": "EBA5",
     "NAME": "Nate K-G Combo 64",
     "SKILLS": "Swing / EB Cross / 180 to Backwards EB / 180 EB Swing / Swing / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#STA5#EBA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2467,7 +2491,7 @@
     "ID": "WRA7",
     "NAME": "Nate K-G Combo 65",
     "SKILLS": "Backwards Step Through / Arm Wrap / 180 to Unwrap",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#STA5#WRA7",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2475,7 +2499,7 @@
     "ID": "PUA3",
     "NAME": "Nate K-G Combo 66",
     "SKILLS": "Inverse Leg Over / Basic Cross / Push Up Pull Through",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/CBgnHcClDym/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2483,7 +2507,7 @@
     "ID": "ASA1",
     "NAME": "Nate K-G Combo 67",
     "SKILLS": "Elephant / AS-Toad (AS + Elephant)",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/as/#ASA1",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2491,7 +2515,7 @@
     "ID": "PUA4",
     "NAME": "Nate K-G Combo 68",
     "SKILLS": "Push Up Pull Through / Butt Jump / Thumbs Up 👍🏻",
-    "LINK": "",
+    "LINK": "https://www.instagram.com/p/CBmW_bElvoA/?utm_source=ig_web_copy_link",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2499,15 +2523,7 @@
     "ID": "MMA8",
     "NAME": "Nate K-G Combo 69",
     "SKILLS": "Leg Hook 360 / Open / Inverse Leg Over / Basic Cross",
-    "LINK": "",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "ITA1",
-    "NAME": "Nate K-G Combo 7",
-    "SKILLS": "Backwards Leg Hook / Stall / Forwards Inverse Toad Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MMA8",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2515,7 +2531,7 @@
     "ID": "",
     "NAME": "Nate K-G Combo 70",
     "SKILLS": "SAME AS SWITCH CROSS COMBO 2",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/switch-cross/#SW02",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2523,7 +2539,7 @@
     "ID": "SWA2",
     "NAME": "Nate K-G Combo 71",
     "SKILLS": "Basic Cross / Switch Cross / Inverse Leg Over / Basic Cross / Switch Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/switch-cross/#SWA2",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2531,7 +2547,7 @@
     "ID": "SWA3",
     "NAME": "Nate K-G Combo 72",
     "SKILLS": "Swing / Basic Cross / Switch Cross / Swing / EB Cross / Swing / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/switch-cross/#SWA3",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2539,7 +2555,7 @@
     "ID": "SWA4",
     "NAME": "Nate K-G Combo 73",
     "SKILLS": "Toad Cross / Switch Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/switch-cross/#SWA4",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2547,7 +2563,7 @@
     "ID": "SWA5",
     "NAME": "Nate K-G Combo 74",
     "SKILLS": "Basic Cross / Switch Cross / Cross Texan 360 / Basic Cross",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/switch-cross/#SWA5",
     "DATE": "",
     "IMAGE": ""
   },
@@ -2555,23 +2571,7 @@
     "ID": "SWA6",
     "NAME": "Nate K-G Combo 75",
     "SKILLS": "Swing / T-Toad / Switch Toad Cross / Open",
-    "LINK": "",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "EBA1",
-    "NAME": "Nate K-G Combo 8",
-    "SKILLS": "Any Basic Cross (single) / Any Cross, Any Cross (double)",
-    "LINK": "",
-    "DATE": "",
-    "IMAGE": ""
-  },
-  {
-    "ID": "LOA2",
-    "NAME": "Nate K-G Combo 9",
-    "SKILLS": "Open (single leg) / OO Double (single leg) / Toad Cross / Leg Over (same leg) / T-Toad / Caboose / Backwards Open",
-    "LINK": "",
+    "LINK": "https://www.natekg.com/jump-rope-combos/switch-cross/#SWA6",
     "DATE": "",
     "IMAGE": ""
   },
@@ -3560,6 +3560,14 @@
     "IMAGE": ""
   },
   {
+    "ID": "NZ0263",
+    "NAME": "NateStyle 263",
+    "SKILLS": "Backwards TS Cross / Backwards EB Swing / Backwards EB Leg Over Swing / Backwards Basic Cross / Backwards Wrist Mic (“Lee Mic”) / Backwards Leg Over / Backwards Regular Double (OO) / Backwards Double Frog (Full Bound Handstand) / Double Frog (Full Bound Handstand) / Double Frog (Full Bound Handstand)",
+    "LINK": "https://www.instagram.com/reel/CeL1g6Hly1b/?utm_source=ig_web_copy_link",
+    "DATE": "22-05-30",
+    "IMAGE": ""
+  },
+  {
     "ID": "NZ0262",
     "NAME": "NateStyle 262",
     "SKILLS": "Mic Release / Swing Toad Double  / Toad Swing EB Toad Double  / Swing Toad Double / Swing EB Double (SEB) / EB Swing Leg Over Double  / Leg Over Wrap / Unwrap / Awesome Annie / Open Cross Double (OC) / (singles) / Toad Cross / OC Double  / Double Under Frog",
@@ -3570,7 +3578,7 @@
   {
     "ID": "NZ0261",
     "NAME": "NateStyle 261",
-    "SKILLS": "Mic / Inverse Toad Swing / Inverse Toad Open Gogo Step Through Mic / Single Under / Double Down to Push Up / Push Up Pull Through",
+    "SKILLS": "Mic Release / Inverse Toad Swing / Inverse Toad Open Gogo Step Through Mic / Single Under / Double Down to Push Up / Push Up Pull Through",
     "LINK": "https://www.instagram.com/reel/Cb8OCuIFWBV/?utm_source=ig_web_copy_link",
     "DATE": "22-04-04",
     "IMAGE": ""
@@ -3594,7 +3602,7 @@
   {
     "ID": "NZ0258",
     "NAME": "NateStyle 258",
-    "SKILLS": "Switch Cross / Side Swing / EB Swing / TS Cross / Switch Cross / Toad Cross / Open / EB Wrap / Mic Release / 180 / Backwards Crossed Leg Wrap 180 / Unwrap / Basic Cross / Inverse Leg Over Swing / Mic",
+    "SKILLS": "Switch Cross / Side Swing / EB Swing / TS Cross / Switch Cross / Toad Cross / Open / EB Wrap / Mic Release / 180 / Backwards Crossed Leg Wrap 180 / Unwrap / Basic Cross / Inverse Leg Over Swing / Mic Release",
     "LINK": "https://www.instagram.com/tv/CXg51QtvVhx/?utm_source=ig_web_copy_link",
     "DATE": "21-12-15",
     "IMAGE": ""
@@ -3610,7 +3618,7 @@
   {
     "ID": "NZ0256",
     "NAME": "NateStyle 256",
-    "SKILLS": "Step Through Mic / Stall / Backwards Single / Backwards Mic / Backwards Mic / Backwards Side Swing / Backwards Toad Cross / Backwards Side Swing / Backwards Mic / Backwards Mic / Backwards Leg Over / Backwards Single / Backwards Mic / Backwards Mic 180 / Dive 270 Turn / Open / Stall / Backwards Leg Hook 180 / Dive 180 / Texan 90 Turn",
+    "SKILLS": "Step Through Mic / Stall / Backwards Single / Backwards Mic Release / Backwards Mic Release / Backwards Side Swing / Backwards Toad Cross / Backwards Side Swing / Backwards Mic Release / Backwards Mic Release / Backwards Leg Over / Backwards Single / Backwards Mic Release / Backwards Mic 180 / Dive 270 Turn / Open / Stall / Backwards Leg Hook 180 / Dive 180 / Texan 90 Turn",
     "LINK": "https://www.instagram.com/p/CLDJLijjqNd/",
     "DATE": "21-2-8",
     "IMAGE": ""
@@ -3618,7 +3626,7 @@
   {
     "ID": "NZ0255",
     "NAME": "NateStyle 255",
-    "SKILLS": "Mic / Dive 180 / Backwards EB Swing 180 / EB Wrap / Unwrap / EB Toad / Open / Leg Over Wrap / Unwrap / Awesome Annie / TJ Triple / Ground Leg Over Stall / Backwards Inverse Toad Arm Wrap / Unwrap 180 / Dive 180 / Backwards SC Double / Backwards Side Swing / Backwards Leg Over",
+    "SKILLS": "Mic Release / Dive 180 / Backwards EB Swing 180 / EB Wrap / Unwrap / EB Toad Cross / Open / Leg Over Wrap / Unwrap / Awesome Annie / TJ Triple / Ground Leg Over Stall / Backwards Inverse Toad Arm Wrap / Unwrap 180 / Dive 180 / Backwards SC Double / Backwards Side Swing / Backwards Leg Over",
     "LINK": "https://www.instagram.com/p/CKobLQ3IXNh/",
     "DATE": "21-1-29",
     "IMAGE": ""
@@ -3626,7 +3634,7 @@
   {
     "ID": "NZ0254",
     "NAME": "NateStyle 254",
-    "SKILLS": "Side Swing / Mic / Open / Side Swing  / Mic / Open / Step Through Mic / Dive 180 / Backwards EB Swing 180 / EB Wrap / EB Unwrap / EB Swing / Step Through Mic / Side Swing / Mic  / Open / Mic Triple",
+    "SKILLS": "Side Swing / Mic Release / Single Under / Side Swing  / Mic Release / Single Under / Step Through Mic / Dive 180 / Backwards EB Swing 180 / EB Wrap / EB Unwrap / EB Swing / Step Through Mic / Side Swing / Mic Release / Single Under / Mic Triple",
     "LINK": "https://www.instagram.com/p/CKSUGA4oO4e/",
     "DATE": "21-1-20",
     "IMAGE": ""
@@ -3634,7 +3642,7 @@
   {
     "ID": "NZ0253",
     "NAME": "NateStyle 253",
-    "SKILLS": "Stall to Backwards Double / Backwards Open / Backwards Inverse Toad Hook Release / Backwards Same-Side Mic / Backwards Mamba (Side-to-Side Mic) / Backwards Mic / Backwards Open / Backwards Swing Cross Open Triple (SCO) / Backwards Stall to Forwards Double / Open / EB Wrap / Unwrap / EB Swing Open Double / Open / Toad Wrap / Unwrap / Awesome Annie / Side Swing / Swing Open Double (SO) / Leg Over / Mic / Open / EB Wrap / Unwrap 180 / Backwards Open / Texan 180",
+    "SKILLS": "Stall to Backwards Double / Backwards Open / Backwards Inverse Toad Hook Release / Backwards Same-Side Mic / Backwards Mamba (Side-to-Side Mic) / Backwards Mic Release / Backwards Open / Backwards Swing Cross Open Triple (SCO) / Backwards Stall to Forwards Double / Open / EB Wrap / Unwrap / EB Swing Open Double / Open / Toad Wrap / Unwrap / Awesome Annie / Side Swing / Swing Open Double (SO) / Leg Over / Mic Release / Open / EB Wrap / Unwrap 180 / Backwards Open / Texan 180",
     "LINK": "https://www.instagram.com/p/CKNZCMPofTV/",
     "DATE": "21-1-18",
     "IMAGE": ""
@@ -3650,7 +3658,7 @@
   {
     "ID": "NZ0251",
     "NAME": "NateStyle 251",
-    "SKILLS": "Open Cross Open Triple (OCO) / Single Under / Leg Over / Leg Over Wrap / Unwrap / Awesome Annie / Toad Wrap / Unwrap / Awesome Annie / Swing / Swing Open Double (SO) / Step Through Release / Mic / Single Under / Stall Between Legs / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Stall Between Legs / Single Under / Basic Cross",
+    "SKILLS": "Open Cross Open Triple (OCO) / Single Under / Leg Over / Leg Over Wrap / Unwrap / Awesome Annie / Toad Wrap / Unwrap / Awesome Annie / Side Swing / Swing Open Double (SO) / Step Through Release / Mic Release / Single Under / Stall Between Legs / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Stall Between Legs / Single Under / Basic Cross",
     "LINK": "https://www.instagram.com/p/CJ7PwnkoPJB/",
     "DATE": "21-1-11",
     "IMAGE": ""
@@ -3658,7 +3666,7 @@
   {
     "ID": "NZ0250",
     "NAME": "NateStyle 250",
-    "SKILLS": "Backwards Swing / Backwards Cross / Backwards Swing / Backwards Open / (repeat x5) / Backwards EB  / Backwards Open / (repeat x7) / Backwards Inverse Toad / Backwards 360 Turn / Stall Between Legs / OO Double to Stall / Backwards Single / Backwards Swing / Backwards Leg Over / Backwards EB Awesome Annie / (repeat x3) / Backwards Step Through Mic || Step Through Mic / Toad 360 Turn / Inverse Toad 360 Turn / EB 360 Turn || Toad Wrap / Leg Over Wrap / (repeat x3)",
+    "SKILLS": "Backwards Side Swing / Backwards Cross / Backwards Side Swing / Backwards Open / (repeat x5) / Backwards EB  / Backwards Open / (repeat x7) / Backwards Inverse Toad / Backwards 360 Turn / Stall Between Legs / OO Double to Stall / Backwards Single / Backwards Swing / Backwards Leg Over / Backwards EB Awesome Annie / (repeat x3) / Backwards Step Through Mic || Step Through Mic / Toad 360 Turn / Inverse Toad 360 Turn / EB 360 Turn || Toad Wrap / Leg Over Wrap / (repeat x3)",
     "LINK": "https://www.instagram.com/p/CI8ZSPosU4r/",
     "DATE": "20-12-18",
     "IMAGE": ""
@@ -3714,7 +3722,7 @@
   {
     "ID": "NZ0243",
     "NAME": "NateStyle 243",
-    "SKILLS": "Leg Over / Leg Over Wrap / Unwrap Swing / Awesome Annie / Toad Wrap / Unwrap Swing / Awesome Annie / Toad Cross / Step Through / Mic / Single Under / OCO Triple",
+    "SKILLS": "Leg Over / Leg Over Wrap / Unwrap Swing / Awesome Annie / Toad Wrap / Unwrap Swing / Awesome Annie / Toad Cross / Step Through / Mic Release / Single Under / OCO Triple",
     "LINK": "https://www.instagram.com/p/CFk1Ov5Hu-K/",
     "DATE": "20-9-25",
     "IMAGE": ""
@@ -3722,7 +3730,7 @@
   {
     "ID": "NZ0242",
     "NAME": "NateStyle 242",
-    "SKILLS": "Body Stall / Backwards EB Cross / Backwards Leg Hook Release / Mic / Backwards Leg Over / Backwards Step Through Release / Mic Mic Open 180 Triple / SSO Triple / TJ to EB Wrap Triple (3.5) / EB Unwrap 180 Triple (2.5) / Stall to Forwards Double / Dive 270 Turn",
+    "SKILLS": "Body Stall / Backwards EB Cross / Backwards Leg Hook Release / Mic Release / Backwards Leg Over / Backwards Step Through Release / Mic Mic Open 180 Triple / SSO Triple / TJ to EB Wrap Triple (3.5) / EB Unwrap 180 Triple (2.5) / Stall to Forwards Double / Dive 270 Turn",
     "LINK": "https://www.instagram.com/p/CFLFSFwnkNq/",
     "DATE": "20-9-15",
     "IMAGE": ""
@@ -3778,7 +3786,7 @@
   {
     "ID": "NZ0235",
     "NAME": "NateStyle 235",
-    "SKILLS": "Split Bound Handstand / Handstand Pull Through to Stall (1.5) / Backwards Double Frog  / Handstand Pull Through || Side Swing / Mic  / Mic / Inverse Leg Over / Side Swing / Leg Over Swing / Mic / Mic / Ground Leg Over / Ground Awesome Annie Triple",
+    "SKILLS": "Split Bound Handstand / Handstand Pull Through to Stall (1.5) / Backwards Double Frog  / Handstand Pull Through || Side Swing / Mic Release / Mic Release / Inverse Leg Over / Side Swing / Leg Over Swing / Mic Release / Mic Release / Ground Leg Over / Ground Awesome Annie Triple",
     "LINK": "https://www.instagram.com/p/CCTpVWPsuOq/",
     "DATE": "20-7-6",
     "IMAGE": ""
@@ -3802,7 +3810,7 @@
   {
     "ID": "NZ0232",
     "NAME": "NateStyle 232",
-    "SKILLS": "",
+    "SKILLS": "Swing T-Toad Double / T-Toad Gogo Swing / Caboose Cross / Backwards Single / Backwards Swing Cross Double (SC) / 180 Swing Open Double / EB Wrap Double / EB Unwrap 180 Double / Stall to Forwards Double / Side Swing / Side Swing / Single / Step Through Mic / Mic Open Double (MO)",
     "LINK": "https://www.instagram.com/p/B7y59nNlRIu/",
     "DATE": "20-1-26",
     "IMAGE": ""
@@ -3810,7 +3818,7 @@
   {
     "ID": "NZ0231",
     "NAME": "NateStyle 231",
-    "SKILLS": "",
+    "SKILLS": "Leg Over (stylized) / Side Swing / Basic Cross / Step Through Mic",
     "LINK": "https://www.instagram.com/p/B7wlv56ld58/",
     "DATE": "20-1-25",
     "IMAGE": ""
@@ -3818,7 +3826,7 @@
   {
     "ID": "NZ0230",
     "NAME": "NateStyle 230",
-    "SKILLS": "",
+    "SKILLS": "Foot Catch Reverse Direction / Backwards Single  / 180 (to forwards) / Ground Toad Swing 180 / Backwards Step Through Release / 180 Mic / Basic Cross / Single Under / EB Wrap / EB Unwrap 180 || Swing EB Inverse Toad Double / EB Wrap / EB Unwrap 180 Double / 180 / Single Unders / Step Through Mic / Single Unders / Stall to Backwards Double / Backwards Singles / Backwards Mic Release 180 / Dive 180 / Texan Swing to Forwards",
     "LINK": "https://www.instagram.com/p/B7bM1b7l4KQ/",
     "DATE": "20-1-17",
     "IMAGE": ""
@@ -3826,7 +3834,7 @@
   {
     "ID": "NZ0229",
     "NAME": "NateStyle 229",
-    "SKILLS": "",
+    "SKILLS": "Side Swing / EB Toad / Floater (release front hand) / EB Cross / EB Swing Open Double / Stall to Backwards Double / Backwards Mic  / Backwards Leg Over / Backwards Step Through Release / Backwards Mic Open Double (MO) / Stall to Forwards Double || Mamba Release",
     "LINK": "https://www.instagram.com/p/B7EEp2qFtVA/",
     "DATE": "20-1-8",
     "IMAGE": ""
@@ -3834,7 +3842,7 @@
   {
     "ID": "NZ0228",
     "NAME": "NateStyle 228",
-    "SKILLS": "",
+    "SKILLS": "(SLOW MO) / Side Swing / Step Through Release / Side Swing / EB + Toad Gogo Swing Release / Mic Release / Mic Open Double / Inverse Leg Over / Side Swing / Swing Open Double (SO)",
     "LINK": "https://www.instagram.com/p/B68j56Ulat-/",
     "DATE": "20-1-5",
     "IMAGE": ""
@@ -3842,7 +3850,7 @@
   {
     "ID": "NZ0227",
     "NAME": "NateStyle 227",
-    "SKILLS": "",
+    "SKILLS": "Side Swing / Step Through Release / Side Swing / EB + Toad Gogo Swing Release / Mic Release / Mic Open Double / Inverse Leg Over / Swing / Swing Open Double (SO) || Step Through Mic / 180 / Backwards Swing / Backwards Cross / 180 / Swing / [repeated x4] / Stall to Backwards / Stall to Forwards Open Caboose Triple / Caboose Cross / Backwards Open / [repeated x3]",
     "LINK": "https://www.instagram.com/p/B652fzSlbOa/",
     "DATE": "20-1-4",
     "IMAGE": ""
@@ -3850,7 +3858,7 @@
   {
     "ID": "NZ0226",
     "NAME": "NateStyle 226",
-    "SKILLS": "",
+    "SKILLS": "Backwards Single Under / Cross Catch / Open EB Wrap Double / EB Unwrap 180 Double / Texan 180 Double / Single Unders / Step Through Mic || Swing Open Double (SO) / EB Wrap / EB Unwrap 180 / Backwards Between Leg Full Release / Single Under",
     "LINK": "https://www.instagram.com/p/B571Z82gJkK/",
     "DATE": "19-12-11",
     "IMAGE": ""
@@ -3858,7 +3866,7 @@
   {
     "ID": "NZ0225",
     "NAME": "NateStyle 225",
-    "SKILLS": "",
+    "SKILLS": "Backwards Leg Hook Release / Backwards Mic 180 / Leg Over / Leg Over Wrap / Unwrap / Awesome Annie / Single Under / Double Under Frog (Full Bound Handstand) || Backwards Kamikaze Push Up / Push Up Double Up || Swing EB Swing EB Quad (SEBSEB) / Swing Toad Swing EB Quad (TJ EB Quad)",
     "LINK": "https://www.instagram.com/p/B52zfuZFL8o/",
     "DATE": "19-12-9",
     "IMAGE": ""
@@ -3866,7 +3874,7 @@
   {
     "ID": "NZ0224",
     "NAME": "NateStyle 224",
-    "SKILLS": "",
+    "SKILLS": "TJ Triple / Muscle Up / Mic Triple  / Muscle Up / Inverse TJ / Muscle Up / EK Triple / Muscle Up / Backwards TJ / 180 Double",
     "LINK": "https://www.instagram.com/p/B50giR1lWGR/",
     "DATE": "19-12-8",
     "IMAGE": ""
@@ -3874,7 +3882,7 @@
   {
     "ID": "NZ0223",
     "NAME": "NateStyle 223",
-    "SKILLS": "",
+    "SKILLS": "Backwards Push Up / Backwards Double Down to Push Up / Push Up Double Up || Push Up Double Up / Push Up Double Down / Push Up Double Up || Leg Hook 360 (Toad, Opposite Side) / Leg Hook 360 (Inverse Toad, Same Side) / Leg Hook 360 (Inverse Toad, Opposite Side) / Swing Leg Hook 180 Double (Toad, Same Side) / Single Under / Step Through Release / [assorted release mistakes] / Regular Double Under (OO) || Leg Hook 360 (Inverse Toad, Same Side) / Leg Hook 360 (Toad, Opposite Side) / Swing Leg Hook 180 Double (Toad, Same Side) / Single Under / Swing Leg Hook 180 Double (Inverse Toad, Opposite Side) / Single Under / 180 Double / Stall to Forwards Double || Sunny D (Backwards Handstand Pull Through)",
     "LINK": "https://www.instagram.com/p/B5xugF6FUNW/",
     "DATE": "19-12-7",
     "IMAGE": ""
@@ -3882,7 +3890,7 @@
   {
     "ID": "NZ0222",
     "NAME": "NateStyle 222",
-    "SKILLS": "",
+    "SKILLS": "Swing Ground Leg Over Double / Mic Release / Mamba / Single Under / Stall to Backwards Double || Mic Release / Handle Switch / Toad Cross || Mic Release / Toad Cross (Handle Switch) || Step Through Release / Toad Cross / Single Under / Behind Back Release / Mamba / Toad Cross / Single Under  / Swing Open Open Triple (SOO)",
     "LINK": "https://www.instagram.com/p/B5pu1yBFThF/",
     "DATE": "19-12-4",
     "IMAGE": ""
@@ -3890,7 +3898,7 @@
   {
     "ID": "NZ0221",
     "NAME": "NateStyle 221",
-    "SKILLS": "",
+    "SKILLS": "Swing T-Toad Triple WHIP",
     "LINK": "https://www.instagram.com/p/B5oE5IwlcrP/",
     "DATE": "19-12-3",
     "IMAGE": ""
@@ -3898,7 +3906,7 @@
   {
     "ID": "NZ0220",
     "NAME": "NateStyle 220",
-    "SKILLS": "",
+    "SKILLS": "Swing Cross Open Open Quad (SCOO) / Swing Open EB Open Quad (SOEBO) / Swing Swing Open Open Quad (SSOO) / SSOO / Swing Toad Open Open Quad (TJ Quad) || Swing Open EB Open Quad (SOEBO) || Swing Open Open Triple (SOO) / Swing Leg Over Mic Open Quad || SOO / Swing Leg Over Mic Open Quad  / SSOO / SSOO",
     "LINK": "https://www.instagram.com/p/B5nRL7mFKY7/",
     "DATE": "19-12-3",
     "IMAGE": ""
@@ -4234,7 +4242,7 @@
   {
     "ID": "NZ0178",
     "NAME": "NateStyle 178",
-    "SKILLS": "",
+    "SKILLS": "Chicken Full Release || Swing EB Toad Double / Swing Toad Wrap Double / Unwrap / Awesome Annie / Step Through Release / Leg Over  / Leg Over Wrap / Unwrap / Awesome Annie / Regular Double Under (OO) || Single Leg Foot Catch Thread / Reverse Direction / Stall / Inverse Leg Over Step Through Wrap / Unwrap / Mic Release",
     "LINK": "https://www.instagram.com/p/B1WrDTpFCsF/",
     "DATE": "19-8-19",
     "IMAGE": ""
@@ -5578,7 +5586,7 @@
   {
     "ID": "NZ0010",
     "NAME": "NateStyle 10",
-    "SKILLS": "Swing Swing Open Triple (SSO) / Swing Toad Toad Open Quad (STcTcO) / Swing Toad Swing Open Quad (STcSO) / TJ Triple / TJ AS Quad (STcON) ||  / Inverse TJ Backflip (Back Tuck)",
+    "SKILLS": "Swing Swing Open Triple (SSO) / Swing Toad Toad Open Quad (STcTcO) / Swing Toad Swing Open Quad (STcSO) / TJ Triple / TJ AS Quad (STcON) ||  Inverse TJ Backflip (Back Tuck)",
     "LINK": "https://www.instagram.com/p/9FkDTiRKZR/",
     "DATE": "15-10-20",
     "IMAGE": ""
@@ -5594,7 +5602,7 @@
   {
     "ID": "NZ0008",
     "NAME": "NateStyle 8",
-    "SKILLS": "Double Unders (unbroken) || Frog (Full Bound Handstand) / Double Under / Frog (Full Bound Handstand) / Triple Under / Frog (Full Bound Handstand) || Side Swing / Step Through Release / Open / AS Double Down to Push Up / Push Up Pull Through 1.5 to Stall / Backwards Inverse TJ",
+    "SKILLS": "Double Unders (unbroken) || Frog (Full Bound Handstand) / Double Under / Frog (Full Bound Handstand) / Triple Under / Frog (Full Bound Handstand) ||  Side Swing / Step Through Release / Open / AS Double Down to Push Up / Push Up Pull Through 1.5 to Stall / Backwards Inverse TJ",
     "LINK": "https://www.instagram.com/p/7O6XgexKVy/",
     "DATE": "15-9-4",
     "IMAGE": ""
@@ -5610,7 +5618,7 @@
   {
     "ID": "NZ0006",
     "NAME": "NateStyle 6",
-    "SKILLS": "Backflip Burpees (Back Tuck) || Quadruple Unders (unbroken)",
+    "SKILLS": "Backflip Burpees (Back Tuck) ||  Quadruple Unders (unbroken)",
     "LINK": "https://www.instagram.com/p/6TZ1UCRKUN/",
     "DATE": "15-8-12",
     "IMAGE": ""
@@ -5618,7 +5626,7 @@
   {
     "ID": "NZ0005",
     "NAME": "NateStyle 5",
-    "SKILLS": "Frog (Full Bound Handstand) / Back Extension Roll / Dive Roll / Frontflip (Webster) || Triple Mic / Frog (Full Bound Handstand) / Double Frog (Double Under Full Bound Handstand) / Frontflip (Webster) / Double Down to Push Up / Push Up Pull Through",
+    "SKILLS": "Frog (Full Bound Handstand) / Back Extension Roll / Dive Roll / Frontflip (Webster) ||  Triple Mic / Frog (Full Bound Handstand) / Double Frog (Double Under Full Bound Handstand) / Frontflip (Webster) / Double Down to Push Up / Push Up Pull Through",
     "LINK": "https://www.instagram.com/p/4xSEraRKdK/",
     "DATE": "15-7-5",
     "IMAGE": ""
@@ -5634,7 +5642,7 @@
   {
     "ID": "NZ0003",
     "NAME": "NateStyle 3",
-    "SKILLS": "EB Full Release 360 || Fire Double Dutch Ropes 🔥",
+    "SKILLS": "EB Full Release 360 ||  Fire Double Dutch Ropes 🔥",
     "LINK": "https://www.instagram.com/p/jiyTMgRKed/",
     "DATE": "14-1-23",
     "IMAGE": ""
