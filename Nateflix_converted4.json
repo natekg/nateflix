@@ -2866,7 +2866,7 @@
   {
     "ID": "SP01",
     "NAME": "Step Through Combo 1",
-    "SKILLS": "Toad Step Through / Swing / EB Cross / Swing Toad Double / Swing / EB Cross / Mic Release",
+    "SKILLS": "Side Swing / EB Swing / Side Swing / EB Swing / Step Through / Arm Wrap / Unwrap / Basic Cross / Side Swing / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP01",
     "DATE": "2021-4-19",
     "IMAGE": ""
@@ -2874,7 +2874,7 @@
   {
     "ID": "SP02",
     "NAME": "Step Through Combo 2",
-    "SKILLS": "Step Through Mic / Leg Over Step Through / Swing / Basic Cross / Dive EB",
+    "SKILLS": "Step Through / Crossed Step Through / Open / Side Swing / EB Cross / Stall Between Legs / Backwards Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP02",
     "DATE": "2021-4-20",
     "IMAGE": ""
@@ -2882,7 +2882,7 @@
   {
     "ID": "SP03",
     "NAME": "Step Through Combo 3",
-    "SKILLS": "Inverse Toad Step Through  / Inverse Toad Gogo Swing / Dive EB  / EB Wrap / EB Unwrap 180 Double",
+    "SKILLS": "Side Swing / EB Swing / Step Through / Basic Cross / Crossed Step Through / Side Swing / Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP03",
     "DATE": "2021-4-21",
     "IMAGE": ""
@@ -2890,7 +2890,7 @@
   {
     "ID": "SP04",
     "NAME": "Step Through Combo 4",
-    "SKILLS": "Inverse Leg Over Step Through / Basic Cross / Toad Cross / Step Through Mic Release / OC Double",
+    "SKILLS": "Step Through / Stall / Backwards Side Swing / Backwards Side Swing / Backwards Side Swing / Backwards Side Swing / Stall / Side Swing / Step Through / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP04",
     "DATE": "2021-4-22",
     "IMAGE": ""
@@ -2898,7 +2898,7 @@
   {
     "ID": "SP05",
     "NAME": "Step Through Combo 5",
-    "SKILLS": "Backwards Swing / Backwards Leg Over Step Through / Backwards Inverse Toad Mic Release  / Backwards EB",
+    "SKILLS": "Backwards EB Swing / Backwards Step Through / Backwards Arm Wrap / Backwards Unwrap / Backwards Side Swing / Backwards EB",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP05",
     "DATE": "2021-4-23",
     "IMAGE": ""
@@ -2906,7 +2906,7 @@
   {
     "ID": "SP06",
     "NAME": "Step Through Combo 6",
-    "SKILLS": "Leg Over Step Through / EB Swing / Stall to Backwards / Backwards Toad Step Through / Backwards Swing / Heel Catch",
+    "SKILLS": "Leg Over / Side Swing / Side Swing / Step Through / Side Swing / Basic Cross / Step Through Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP06",
     "DATE": "2021-4-24",
     "IMAGE": ""
@@ -2914,7 +2914,7 @@
   {
     "ID": "SP07",
     "NAME": "Step Through Combo 7",
-    "SKILLS": "Leg Over Step Through / Toad Step Through / Mic / EB Wrap / EB Unwrap 180 / Behind The Back Swing 180 / Toe Catch",
+    "SKILLS": "Basic Cross / Step Through / Side Swing / Basic Cross / Wrist Mic / Step Through / Step Through Wrap / Unwrap / Awesome Annie / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP07",
     "DATE": "2021-4-25",
     "IMAGE": ""
@@ -3565,6 +3565,30 @@
     "SKILLS": "Mic Release / Toad Swing / EB Toad Wrap / Unwrap Swing / Awesome Annie to Leg Over Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR20",
     "DATE": "2021-3-13",
+    "IMAGE": ""
+  },
+  {
+    "ID": "NZ0266",
+    "NAME": "NateStyle 266",
+    "SKILLS": "Side Swing / Open / Mic Release / Inverse Toad Swing / Inverse Toad Swing Arm Wrap / Unwrap / Toad Swing / Crossed Step Through Wrap / Unwrap / Open Step Through Double / Mic Open Open Triple / Open Cross Open Triple (OCO) / Double Frog (Double Under Full Bound Handstand)",
+    "LINK": "https://www.instagram.com/reel/Cf6iVadFl_W/?utm_source=ig_web_copy_link",
+    "DATE": "22-07-12",
+    "IMAGE": ""
+  },
+  {
+    "ID": "NZ0265",
+    "NAME": "NateStyle 265",
+    "SKILLS": "TJ Triple / Open Open AS Triple / Double Under Frog (Full Bound Handstand) / Single Unders / Side Swing / Mic / Stall Between Legs / Leg Hook / Backwards Inverse Toad Open Gogo Stall 😉 / Forwards Single",
+    "LINK": "https://www.instagram.com/reel/CfUYIaKpgTB/?utm_source=ig_web_copy_link",
+    "DATE": "22-06-27",
+    "IMAGE": ""
+  },
+  {
+    "ID": "NZ0264",
+    "NAME": "NateStyle 264",
+    "SKILLS": "Leg Over / Leg Over Wrap / Leg Over Wrap Bound (holding the placement) / Unwrap Swing / Awesome Annie",
+    "LINK": "https://www.instagram.com/reel/Cev_tAelV8Q/?utm_source=ig_web_copy_link",
+    "DATE": "22-06-13",
     "IMAGE": ""
   },
   {
