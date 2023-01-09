@@ -32,6 +32,118 @@
     "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//GUHKoov3zf0' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
+    "ID": "AW01",
+    "NAME": "Arm Wrap Combo 1",
+    "SKILLS": "Swing / Basic Cross / AS Cross / Caboose / Backwards Open",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW01",
+    "DATE": "2022-9-26",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW02",
+    "NAME": "Arm Wrap Combo 2",
+    "SKILLS": "Backwards Swing / Basic Cross / Stall / Forwards AS Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW02",
+    "DATE": "2022-9-27",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW03",
+    "NAME": "Arm Wrap Combo 3",
+    "SKILLS": "AS Cross / OO Double",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW03",
+    "DATE": "2022-9-28",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW04",
+    "NAME": "Arm Wrap Combo 4",
+    "SKILLS": "Toad Cross / AS Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW04",
+    "DATE": "2022-9-29",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW05",
+    "NAME": "Arm Wrap Combo 5",
+    "SKILLS": "Backwards Leg Hook / Stall / Forwards AS Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW05",
+    "DATE": "2022-9-30",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW06",
+    "NAME": "Arm Wrap Combo 6",
+    "SKILLS": "Step Through Mic Release / AS Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW06",
+    "DATE": "2022-10-1",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW07",
+    "NAME": "Arm Wrap Combo 7",
+    "SKILLS": "Push Up / AS Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW07",
+    "DATE": "2022-10-2",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW08",
+    "NAME": "Arm Wrap Combo 8",
+    "SKILLS": "Side Swing (R) / Arm Wrap (R) / Unwrap (L) / Side Swing (L) / Arm Wrap (L) / Unwrap (R) / Side Swing (R) / Toe Catch",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW08",
+    "DATE": "2023-1-9",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW09",
+    "NAME": "Arm Wrap Combo 9",
+    "SKILLS": "Side Swing / Arm Wrap / Unwrap 180 / Backwards Single Under / Texan 180",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW09",
+    "DATE": "2023-1-10",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW10",
+    "NAME": "Arm Wrap Combo 10",
+    "SKILLS": "Side Swing / EB Cross / Arm Wrap / Unwrap / Side Swing / EB Cross / Single Under",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW10",
+    "DATE": "2023-1-11",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW11",
+    "NAME": "Arm Wrap Combo 11",
+    "SKILLS": "Side Swing / Mic Release / Side Swing / Arm Wrap / Unwrap / Basic Cross / Single Under",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW11",
+    "DATE": "2023-1-12",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW12",
+    "NAME": "Arm Wrap Combo 12",
+    "SKILLS": "Side Swing / EB Swing / Basic Cross / Arm Wrap / Unwrap / Basic Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW12",
+    "DATE": "2023-1-13",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW13",
+    "NAME": "Arm Wrap Combo 13",
+    "SKILLS": "Side Swing / Arm Wrap / Unwrap / Side Swing / Leg Over / Side Swing / Swing Transition / Single Under",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW13",
+    "DATE": "2023-1-14",
+    "IMAGE": ""
+  },
+  {
+    "ID": "AW14",
+    "NAME": "Arm Wrap Combo 14",
+    "SKILLS": "Toad Cross / Toad Arm Wrap / Unwrap / Toad Cross / Single Under / Basic Cross / Arm Wrap / Unwrap / Basic Cross",
+    "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW14",
+    "DATE": "2023-1-15",
+    "IMAGE": ""
+  },
+  {
     "ID": "AS01",
     "NAME": "AS Combo 1",
     "SKILLS": "Swing / Basic Cross / AS Cross / Caboose / Backwards Open",
