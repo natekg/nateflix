@@ -514,7 +514,7 @@
   {
     "ID": "CA02",
     "NAME": "Catch Combo 2",
-    "SKILLS": "Backwards EB Cross 4 / LJ Catch / Forwards Open",
+    "SKILLS": "Backwards EB Cross / LJ Catch / Forwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA02",
     "DATE": "2020-9-1",
     "IMAGE": ""
@@ -522,7 +522,7 @@
   {
     "ID": "CA03",
     "NAME": "Catch Combo 3",
-    "SKILLS": "Swing / EB Cross / Mic Release / Foot Catch / Backwards SC Double / SO Double",
+    "SKILLS": "Side Swing / EB Cross / Mic Release / Single Foot Catch / Backwards Single / Backwards Side Swing / Backwards Basic Cross / Backwards Cross Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA03",
     "DATE": "2020-9-2",
     "IMAGE": ""
@@ -530,7 +530,7 @@
   {
     "ID": "CA04",
     "NAME": "Catch Combo 4",
-    "SKILLS": "Backwards SC Double / LeeMan Catch / CO Double / SO Double",
+    "SKILLS": "Backwards Side Swing / Backwards Basic Cross / Cross Catch / Forwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA04",
     "DATE": "2020-9-3",
     "IMAGE": ""
@@ -538,7 +538,7 @@
   {
     "ID": "CA05",
     "NAME": "Catch Combo 5",
-    "SKILLS": "Backwards Swing / Backwards Basic Cross / Cross Catch / Forwards Open",
+    "SKILLS": "Side Swing / Basic Cross / Side Swing / EB Cross / Mic Release / Crossed Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA05",
     "DATE": "2020-9-4",
     "IMAGE": ""
@@ -546,7 +546,7 @@
   {
     "ID": "CA06",
     "NAME": "Catch Combo 6",
-    "SKILLS": "Swing / Basic Cross / Swing / EB Cross / Mic Release / Crossed Foot Catch",
+    "SKILLS": "Backwards Side Swing / Backwards Basic Cross / Backwards Step Through Mic Release / Crossed Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA06",
     "DATE": "2020-9-5",
     "IMAGE": ""
@@ -554,7 +554,7 @@
   {
     "ID": "CA07",
     "NAME": "Catch Combo 7",
-    "SKILLS": "Backwards Swing / Backwards Basic Cross / Backwards Swing / Backwards Step Through Mic Release / Crossed Foot Catch",
+    "SKILLS": "Backwards Swing Cross Double (SC) / LeeMan Catch / Cross Open Double (CO) / Swing Open Double (SO)",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA07",
     "DATE": "2020-9-6",
     "IMAGE": ""
