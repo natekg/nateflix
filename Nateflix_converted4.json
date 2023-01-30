@@ -8,10 +8,10 @@
     "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//rg1BA59uizE' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
-    "ID": "EB06",
-    "NAME": "EB Combo 6",
-    "SKILLS": "Backwards Swing / Backwards EB Cross / Backwards EB Swing / Mic Release / 180 to Forwards Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB06",
+    "ID": "EB04",
+    "NAME": "EB Combo 4",
+    "SKILLS": "Side Swing / EB Cross / Side Swing / Basic Cross / Side Swing / EB Cross / Side Swing / Basic Cross / Single Under",
+    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB04",
     "DATE": "2020-8-15",
     "IMAGE": ""
   },
@@ -272,60 +272,53 @@
     "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//SV4xe4NgHIQ' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
-    "ID": "AA01",
-    "NAME": "Awesome Annie Combo 1",
-    "SKILLS": "Mamba / Ground Awesome Annie (double)",
-    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA01",
-    "DATE": "2020-11-30",
-    "IMAGE": ""
+    "id": "AA01",
+    "name": "Awesome Annie Combo 1",
+    "skills": "Step Through / Side Swing / Basic Cross / Toad Cross / Awesome Annie/ Basic Cross",
+    "link": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA01",
+    "date": "2023-01-30T08:00:00.000Z"
   },
   {
-    "ID": "AA02",
-    "NAME": "Awesome Annie Combo 2",
-    "SKILLS": "Toad Cross / Awesome Annie / Leg Over Mic Release / Leg Over Catch / Awesome Annie to Toad Cross / Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA02",
-    "DATE": "2020-12-01",
-    "IMAGE": ""
+    "id": "AA02",
+    "name": "Awesome Annie Combo 2",
+    "skills": "Crossed Step Through / Side Swing / Single Under / Leg Over / Awesome Annie/ Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA02",
+    "date": "2023-01-31T08:00:00.000Z"
   },
   {
-    "ID": "AA03",
-    "NAME": "Awesome Annie Combo 3",
-    "SKILLS": "Ground Awesome Annie (double) / Leg Over into Awesome Annie",
-    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA03",
-    "DATE": "2020-12-02",
-    "IMAGE": ""
+    "id": "AA03",
+    "name": "Awesome Annie Combo 3",
+    "skills": "Toad Cross / Awesome Annie / Side Swing / EB Cross / Leg Over / Awesome Annie / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA03",
+    "date": "2023-02-01T08:00:00.000Z"
   },
   {
-    "ID": "AA04",
-    "NAME": "Awesome Annie Combo 4",
-    "SKILLS": "Open, Leg Over (double) / Awesome Annie to Toad Cross / CL Cross",
-    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA04",
-    "DATE": "2020-12-03",
-    "IMAGE": ""
+    "id": "AA04",
+    "name": "Awesome Annie Combo 4",
+    "skills": "Crossed Step Through / Side Swing / Step Through / Side Swing / Toad Cross / Awesome Annie / Awesome Annie / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA04",
+    "date": "2023-02-02T08:00:00.000Z"
   },
   {
-    "ID": "AA05",
-    "NAME": "Awesome Annie Combo 5",
-    "SKILLS": "EB Toad / Awesome Annie to Leg Over / Awesome Annie to Toad Cross / Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA05",
-    "DATE": "2020-12-04",
-    "IMAGE": ""
+    "id": "AA05",
+    "name": "Awesome Annie Combo 5",
+    "skills": "Side Swing / EB Toad / Awesome Annie / Awesome Annie / Toad Swing / Toad Cross/ Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA05",
+    "date": "2023-02-03T08:00:00.000Z"
   },
   {
-    "ID": "AA06",
-    "NAME": "Awesome Annie Combo 6",
-    "SKILLS": "Leg Over (left) / Awesome Annie / Step Through Mic Release (left)",
-    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA06",
-    "DATE": "2020-12-05",
-    "IMAGE": ""
+    "id": "AA06",
+    "name": "Awesome Annie Combo 6",
+    "skills": "Side Swing / Toad Cross / Side Swing / EB Cross / Side Swing / Toad Cross / Awesome Annie / Awesome Annie / Side Swing / EB Cross / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA06",
+    "date": "2023-02-04T08:00:00.000Z"
   },
   {
-    "ID": "AA07",
-    "NAME": "Awesome Annie Combo 7",
-    "SKILLS": "Toad Cross (right) / Awesome Annie to Leg Over / Mic Release (in Leg Over) / Toad Cross (left) / Awesome Annie to Leg Over / Basic Cross / Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA07",
-    "DATE": "2020-12-06",
-    "IMAGE": ""
+    "id": "AA07",
+    "name": "Awesome Annie Combo 7",
+    "skills": "Leg Over / Awesome Annie / Awesome Annie / Basic Cross / Side Swing / Pop Mic",
+    "link": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA07",
+    "date": "2023-02-05T08:00:00.000Z"
   },
   {
     "ID": "BBTUT01",
@@ -976,57 +969,51 @@
     "IMAGE": ""
   },
   {
-    "ID": "EB01",
-    "NAME": "EB Combo 1",
-    "SKILLS": "Swing / EB Cross / Swing / Basic Cross / SEB Double / SC Double / Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB01",
-    "DATE": "2020-8-10",
-    "IMAGE": ""
+    "id": "EB01",
+    "name": "EB Combo 1",
+    "skills": "Side Swing (standing) / EB Cross / Single Under / Side Swing (jumping) / EB Cross / Single Under / Side Swing (standing) / EB Cross / EB Swing (standing) / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/eb/#EB01",
+    "date": "2023-01-23T08:00:00.000Z"
   },
   {
-    "ID": "EB02",
-    "NAME": "EB Combo 2",
-    "SKILLS": "Swing / EB Wrap / Unwrap 180 / Backwards EB Swing (other side) / Backwards Swing / Backwards EB Swing / Backwards Swing",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB02",
-    "DATE": "2020-8-11",
-    "IMAGE": ""
+    "id": "EB02",
+    "name": "EB Combo 2",
+    "skills": "Side Swing (standing) / EB Swing (standing) / Basic Cross / Side Swing (jumping) / EB Cross / EB Swing (jumping) / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/eb/#EB02",
+    "date": "2023-01-24T08:00:00.000Z"
   },
   {
-    "ID": "EB03",
-    "NAME": "EB Combo 3",
-    "SKILLS": "Mic Release / Swing / EB Cross / 180 to Backwards EB",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB03",
-    "DATE": "2020-8-12",
-    "IMAGE": ""
+    "id": "EB03",
+    "name": "EB Combo 3",
+    "skills": "Single Under / Side Swing  / EB Cross  / Side Swing / Swing Transition / Single Under / Side Swing / EB Cross / Side Swing / Swing Transition / Side Swing / Basic Cross / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/eb/#EB03",
+    "date": "2023-01-25T08:00:00.000Z"
   },
   {
-    "ID": "EB04",
-    "NAME": "EB Combo 4",
-    "SKILLS": "Swing / EB Swing / OO Double / Swing / EB Cross / OO Double",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB04",
-    "DATE": "2020-8-13",
-    "IMAGE": ""
+    "id": "EB05",
+    "name": "EB Combo 5",
+    "skills": "Side Swing / EB Cross / Side Swing / Basic Cross / Single Under / Side Swing / EB Cross / Basic Cross / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/eb/#EB05",
+    "date": "2023-01-27T08:00:00.000Z"
   },
   {
-    "ID": "EB05",
-    "NAME": "EB Combo 5",
-    "SKILLS": "Backwards Swing / Backwards EB Cross / Backwards EB Swing / Backwards Open / Backwards EB Swing / Backwards Swing",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB05",
-    "DATE": "2020-8-14",
-    "IMAGE": ""
+    "id": "EB06",
+    "name": "EB Combo 6",
+    "skills": "Side Swing / Basic Cross/ Side Swing / EB Cross/ Side Swing / Basic Cross/ Side Swing / Swing Transition / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/eb/#EB06",
+    "date": "2023-01-28T08:00:00.000Z"
   },
   {
-    "ID": "EB07",
-    "NAME": "EB Combo 7",
-    "SKILLS": "Backwards Swing / Backwards EB Cross / Backwards EB Swing / Mic Release (under leg) / Backwards Swing / Backwards Swing / Backwards Swing / Backwards Open",
-    "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB07",
-    "DATE": "2020-8-16",
-    "IMAGE": ""
-  },
+    "id": "EB07",
+    "name": "EB Combo 7",
+    "skills": "Side Swing / Mic / Side Swing / EB Cross / EB Swing / Basic Cross / Side Swing / Single Under",
+    "link": "https://www.natekg.com/jump-rope-combos/eb/#EB07",
+    "date": "2023-01-29T08:00:00.000Z"
+},
   {
     "ID": "EB08",
     "NAME": "EB Combo 8",
-    "SKILLS": "Side Swing / Leg Over / Side Swing  / EB Cross / Side Swing / Toad Cross / Side Swing  / EB Cross",
+    "SKILLS": "Side Swing / Leg Over / Side Swing / EB Cross / Side Swing / Toad Cross / Side Swing / EB Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB08",
     "DATE": "2022-07-04",
     "IMAGE": ""
