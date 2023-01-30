@@ -5,12 +5,12 @@
     "SKILLS": "Complete Tutorial for the Mic Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MRTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//rg1BA59uizE' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//rg1BA59uizE' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "EB04",
     "NAME": "EB Combo 4",
-    "SKILLS": "SIDe Swing / EB Cross / SIDe Swing / Basic Cross / SIDe Swing / EB Cross / SIDe Swing / Basic Cross / Single Under",
+    "SKILLS": "Side Swing / EB Cross / Side Swing / Basic Cross / Side Swing / EB Cross / Side Swing / Basic Cross / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB04",
     "DATE": "2020-8-15",
     "IMAGE": ""
@@ -29,7 +29,7 @@
     "SKILLS": "Complete Tutorial for the EB Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BFSSD8V8zPI' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BFSSD8V8zPI' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "AW01",
@@ -90,7 +90,7 @@
   {
     "ID": "AW08",
     "NAME": "Arm Wrap Combo 8",
-    "SKILLS": "SIDe Swing (R) / Arm Wrap (R) / Unwrap (L) / SIDe Swing (L) / Arm Wrap (L) / Unwrap (R) / SIDe Swing (R) / Toe Catch",
+    "SKILLS": "Side Swing (R) / Arm Wrap (R) / Unwrap (L) / Side Swing (L) / Arm Wrap (L) / Unwrap (R) / Side Swing (R) / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW08",
     "DATE": "2023-1-9",
     "IMAGE": ""
@@ -98,7 +98,7 @@
   {
     "ID": "AW09",
     "NAME": "Arm Wrap Combo 9",
-    "SKILLS": "SIDe Swing / Arm Wrap / Unwrap 180 / Backwards Single Under / Texan 180",
+    "SKILLS": "Side Swing / Arm Wrap / Unwrap 180 / Backwards Single Under / Texan 180",
     "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW09",
     "DATE": "2023-1-10",
     "IMAGE": ""
@@ -106,7 +106,7 @@
   {
     "ID": "AW10",
     "NAME": "Arm Wrap Combo 10",
-    "SKILLS": "SIDe Swing / EB Cross / Arm Wrap / Unwrap / SIDe Swing / EB Cross / Single Under",
+    "SKILLS": "Side Swing / EB Cross / Arm Wrap / Unwrap / Side Swing / EB Cross / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW10",
     "DATE": "2023-1-11",
     "IMAGE": ""
@@ -114,7 +114,7 @@
   {
     "ID": "AW11",
     "NAME": "Arm Wrap Combo 11",
-    "SKILLS": "SIDe Swing / Mic Release / SIDe Swing / Arm Wrap / Unwrap / Basic Cross / Single Under",
+    "SKILLS": "Side Swing / Mic Release / Side Swing / Arm Wrap / Unwrap / Basic Cross / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW11",
     "DATE": "2023-1-12",
     "IMAGE": ""
@@ -122,7 +122,7 @@
   {
     "ID": "AW12",
     "NAME": "Arm Wrap Combo 12",
-    "SKILLS": "SIDe Swing / EB Swing / Basic Cross / Arm Wrap / Unwrap / Basic Cross",
+    "SKILLS": "Side Swing / EB Swing / Basic Cross / Arm Wrap / Unwrap / Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW12",
     "DATE": "2023-1-13",
     "IMAGE": ""
@@ -130,7 +130,7 @@
   {
     "ID": "AW13",
     "NAME": "Arm Wrap Combo 13",
-    "SKILLS": "SIDe Swing / Arm Wrap / Unwrap / SIDe Swing / Leg Over / SIDe Swing / Swing Transition / Single Under",
+    "SKILLS": "Side Swing / Arm Wrap / Unwrap / Side Swing / Leg Over / Side Swing / Swing Transition / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/arm-wrap/#AW13",
     "DATE": "2023-1-14",
     "IMAGE": ""
@@ -205,7 +205,7 @@
     "SKILLS": "Complete Tutorial for the AS-Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/as-toad/#ATTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/P4FeEHIb9Vk' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/P4FeEHIb9Vk' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "AT01",
@@ -269,54 +269,54 @@
     "SKILLS": "Complete Tutorial for the Awesome Annie",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AATUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//SV4xe4NgHIQ' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//SV4xe4NgHIQ' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "AA01",
     "NAME": "Awesome Annie Combo 1",
-    "SKILLS": "Step Through / SIDe Swing / Basic Cross / Toad Cross / Awesome Annie/ Basic Cross",
+    "SKILLS": "Step Through / Side Swing / Basic Cross / Toad Cross / Awesome Annie/ Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA01",
     "DATE": "2023-01-30T08:00:00.000Z"
   },
   {
     "ID": "AA02",
     "NAME": "Awesome Annie Combo 2",
-    "SKILLS": "Crossed Step Through / SIDe Swing / Single Under / Leg Over / Awesome Annie/ Single Under",
+    "SKILLS": "Crossed Step Through / Side Swing / Single Under / Leg Over / Awesome Annie/ Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA02",
     "DATE": "2023-01-31T08:00:00.000Z"
   },
   {
     "ID": "AA03",
     "NAME": "Awesome Annie Combo 3",
-    "SKILLS": "Toad Cross / Awesome Annie / SIDe Swing / EB Cross / Leg Over / Awesome Annie / Single Under",
+    "SKILLS": "Toad Cross / Awesome Annie / Side Swing / EB Cross / Leg Over / Awesome Annie / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA03",
     "DATE": "2023-02-01T08:00:00.000Z"
   },
   {
     "ID": "AA04",
     "NAME": "Awesome Annie Combo 4",
-    "SKILLS": "Crossed Step Through / SIDe Swing / Step Through / SIDe Swing / Toad Cross / Awesome Annie / Awesome Annie / Single Under",
+    "SKILLS": "Crossed Step Through / Side Swing / Step Through / Side Swing / Toad Cross / Awesome Annie / Awesome Annie / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA04",
     "DATE": "2023-02-02T08:00:00.000Z"
   },
   {
     "ID": "AA05",
     "NAME": "Awesome Annie Combo 5",
-    "SKILLS": "SIDe Swing / EB Toad / Awesome Annie / Awesome Annie / Toad Swing / Toad Cross/ Single Under",
+    "SKILLS": "Side Swing / EB Toad / Awesome Annie / Awesome Annie / Toad Swing / Toad Cross/ Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA05",
     "DATE": "2023-02-03T08:00:00.000Z"
   },
   {
     "ID": "AA06",
     "NAME": "Awesome Annie Combo 6",
-    "SKILLS": "SIDe Swing / Toad Cross / SIDe Swing / EB Cross / SIDe Swing / Toad Cross / Awesome Annie / Awesome Annie / SIDe Swing / EB Cross / Single Under",
+    "SKILLS": "Side Swing / Toad Cross / Side Swing / EB Cross / Side Swing / Toad Cross / Awesome Annie / Awesome Annie / Side Swing / EB Cross / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA06",
     "DATE": "2023-02-04T08:00:00.000Z"
   },
   {
     "ID": "AA07",
     "NAME": "Awesome Annie Combo 7",
-    "SKILLS": "Leg Over / Awesome Annie / Awesome Annie / Basic Cross / SIDe Swing / Pop Mic",
+    "SKILLS": "Leg Over / Awesome Annie / Awesome Annie / Basic Cross / Side Swing / Pop Mic",
     "LINK": "https://www.natekg.com/jump-rope-combos/awesome-annie/#AA07",
     "DATE": "2023-02-05T08:00:00.000Z"
   },
@@ -326,7 +326,7 @@
     "SKILLS": "Complete Tutorial for the Backwards Basic Cross",
     "LINK": "",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//wQGqhVi9vew' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//wQGqhVi9vew' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "BB01",
@@ -339,7 +339,7 @@
   {
     "ID": "BB02",
     "NAME": "Backwards Cross Combo 2",
-    "SKILLS": "Single Under / Stall  / Backwards Basic Cross / Backwards SIDe Swing / Backwards Basic Cross / Backwards SIDe Swing / Backwards Open / Heel Catch",
+    "SKILLS": "Single Under / Stall  / Backwards Basic Cross / Backwards Side Swing / Backwards Basic Cross / Backwards Side Swing / Backwards Open / Heel Catch",
     "LINK": "",
     "DATE": "2021-10-19",
     "IMAGE": ""
@@ -379,7 +379,7 @@
   {
     "ID": "BB07",
     "NAME": "Backwards Cross Combo 7",
-    "SKILLS": "Backwards Same SIDe Mic / Backwards Swing / Backwards Basic Cross / BTF Crossed Texan 180",
+    "SKILLS": "Backwards Same Side Mic / Backwards Swing / Backwards Basic Cross / BTF Crossed Texan 180",
     "LINK": "",
     "DATE": "2021-10-24",
     "IMAGE": ""
@@ -443,7 +443,7 @@
   {
     "ID": "BG08",
     "NAME": "Beginner Combo 8",
-    "SKILLS": "SIDe Swing (L) / SIDe Swing (R) / High Knee (R) / SIDe Swing (L) / SIDe Swing (R) / High Knee (L) / SIDe Swing (L) / SIDe Swing (R) / SIDe Straddle / Single Under / Toe Catch",
+    "SKILLS": "Side Swing (L) / Side Swing (R) / High Knee (R) / Side Swing (L) / Side Swing (R) / High Knee (L) / Side Swing (L) / Side Swing (R) / Side Straddle / Single Under / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG08",
     "DATE": "2022-7-25",
     "IMAGE": ""
@@ -451,7 +451,7 @@
   {
     "ID": "BG09",
     "NAME": "Beginner Combo 9",
-    "SKILLS": "SIDe Swing + High Knee / SIDe Straddle / Single Under / SIDe Swing + High Knee / SIDe Straddle / Single Under / Toe Catch",
+    "SKILLS": "Side Swing + High Knee / Side Straddle / Single Under / Side Swing + High Knee / Side Straddle / Single Under / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG09",
     "DATE": "2022-7-26",
     "IMAGE": ""
@@ -459,7 +459,7 @@
   {
     "ID": "BG10",
     "NAME": "Beginner Combo 10",
-    "SKILLS": "SIDe Swing (R) / Basic Cross / SIDe Swing (L) / Open / SIDe Swing (L) / Open / SIDe Swing (L) / SIDe Swing (R) / Open / Toe Catch",
+    "SKILLS": "Side Swing (R) / Basic Cross / Side Swing (L) / Open / Side Swing (L) / Open / Side Swing (L) / Side Swing (R) / Open / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG10",
     "DATE": "2022-7-27",
     "IMAGE": ""
@@ -467,7 +467,7 @@
   {
     "ID": "BG11",
     "NAME": "Beginner Combo 11",
-    "SKILLS": "Basic Cross / SIDe Swing (standing) / Open / Basic Cross / SIDe Swing (jumping) / Open / Toe Catch",
+    "SKILLS": "Basic Cross / Side Swing (standing) / Open / Basic Cross / Side Swing (jumping) / Open / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG11",
     "DATE": "2022-7-28",
     "IMAGE": ""
@@ -475,7 +475,7 @@
   {
     "ID": "BG12",
     "NAME": "Beginner Combo 12",
-    "SKILLS": "Backwards Single Under / Stall (standing) / SIDe Swing (L) / SIDe Swing (L) / SIDe Swing (R) / Toe Catch",
+    "SKILLS": "Backwards Single Under / Stall (standing) / Side Swing (L) / Side Swing (L) / Side Swing (R) / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG12",
     "DATE": "2022-7-29",
     "IMAGE": ""
@@ -483,7 +483,7 @@
   {
     "ID": "BG13",
     "NAME": "Beginner Combo 13",
-    "SKILLS": "Single Under / SIDe Swing (jump, R) / SIDe Swing (jump, L) / Single Under / SIDe Swing (no jump, R) / SIDe Swing (no jump, L) / Single Under / SIDe Swing (jump, R) / SIDe Swing (jump, L) / Single Under / Toe Catch",
+    "SKILLS": "Single Under / Side Swing (jump, R) / Side Swing (jump, L) / Single Under / Side Swing (no jump, R) / Side Swing (no jump, L) / Single Under / Side Swing (jump, R) / Side Swing (jump, L) / Single Under / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG13",
     "DATE": "2022-7-30",
     "IMAGE": ""
@@ -491,7 +491,7 @@
   {
     "ID": "BG14",
     "NAME": "Beginner Combo 14",
-    "SKILLS": "SIDe Swing (standing) / EB Swing (standing) / SIDe Swing (standing) / EB Swing (standing) / SIDe Swing (standing) / Stall / Backwards Single / Backwards Straddle Stall / Basic Cross / Toe Catch",
+    "SKILLS": "Side Swing (standing) / EB Swing (standing) / Side Swing (standing) / EB Swing (standing) / Side Swing (standing) / Stall / Backwards Single / Backwards Straddle Stall / Basic Cross / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/beginner/#BG14",
     "DATE": "2022-7-31",
     "IMAGE": ""
@@ -603,7 +603,7 @@
   {
     "ID": "CB07",
     "NAME": "Caboose Combo 7",
-    "SKILLS": "Leg Over / Open Caboose / Backwards Leg Over (other sIDe)",
+    "SKILLS": "Leg Over / Open Caboose / Backwards Leg Over (other side)",
     "LINK": "https://www.natekg.com/jump-rope-combos/caboose/#CB07",
     "DATE": "2020-8-9",
     "IMAGE": ""
@@ -611,7 +611,7 @@
   {
     "ID": "CA01",
     "NAME": "Catch Combo 1",
-    "SKILLS": "SIDe Swing / Foot Catch / Reverse Direction",
+    "SKILLS": "Side Swing / Foot Catch / Reverse Direction",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA01",
     "DATE": "2020-8-31",
     "IMAGE": ""
@@ -627,7 +627,7 @@
   {
     "ID": "CA03",
     "NAME": "Catch Combo 3",
-    "SKILLS": "SIDe Swing / EB Cross / Mic Release / Single Foot Catch / Backwards Single / Backwards SIDe Swing / Backwards Basic Cross / Backwards Cross Heel Catch",
+    "SKILLS": "Side Swing / EB Cross / Mic Release / Single Foot Catch / Backwards Single / Backwards Side Swing / Backwards Basic Cross / Backwards Cross Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA03",
     "DATE": "2020-9-2",
     "IMAGE": ""
@@ -635,7 +635,7 @@
   {
     "ID": "CA04",
     "NAME": "Catch Combo 4",
-    "SKILLS": "Backwards SIDe Swing / Backwards Basic Cross / Cross Catch / Forwards Open",
+    "SKILLS": "Backwards Side Swing / Backwards Basic Cross / Cross Catch / Forwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA04",
     "DATE": "2020-9-3",
     "IMAGE": ""
@@ -643,7 +643,7 @@
   {
     "ID": "CA05",
     "NAME": "Catch Combo 5",
-    "SKILLS": "SIDe Swing / Basic Cross / SIDe Swing / EB Cross / Mic Release / Crossed Foot Catch",
+    "SKILLS": "Side Swing / Basic Cross / Side Swing / EB Cross / Mic Release / Crossed Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA05",
     "DATE": "2020-9-4",
     "IMAGE": ""
@@ -651,7 +651,7 @@
   {
     "ID": "CA06",
     "NAME": "Catch Combo 6",
-    "SKILLS": "Backwards SIDe Swing / Backwards Basic Cross / Backwards Step Through Mic Release / Crossed Foot Catch",
+    "SKILLS": "Backwards Side Swing / Backwards Basic Cross / Backwards Step Through Mic Release / Crossed Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CA06",
     "DATE": "2020-9-5",
     "IMAGE": ""
@@ -670,7 +670,7 @@
     "SKILLS": "Complete Tutorial for the CL Cross",
     "LINK": "https://www.natekg.com/cl/#CLTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//RJB-neNnwrs' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//RJB-neNnwrs' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "CL01",
@@ -790,7 +790,7 @@
     "SKILLS": "Complete Tutorial for the Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/cross/#CRTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//hLF77ykM7rQ' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//hLF77ykM7rQ' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "CR01",
@@ -851,7 +851,7 @@
   {
     "ID": "CT01",
     "NAME": "Creativity Combo 1",
-    "SKILLS": "Swing / Basic Cross / Swing / EB Cross / Swing (same sIDe) / Basic Cross / OC Double (switching top hand)",
+    "SKILLS": "Swing / Basic Cross / Swing / EB Cross / Swing (same side) / Basic Cross / OC Double (switching top hand)",
     "LINK": "",
     "DATE": "2021-5-25",
     "IMAGE": ""
@@ -859,7 +859,7 @@
   {
     "ID": "CT02",
     "NAME": "Creativity Combo 2",
-    "SKILLS": "SIDe Swing / Toad / SIDe Swing / EB Toad / Open / SIDe Swing / Basic Cross / Switch Cross",
+    "SKILLS": "Side Swing / Toad / Side Swing / EB Toad / Open / Side Swing / Basic Cross / Switch Cross",
     "LINK": "",
     "DATE": "2021-5-25",
     "IMAGE": ""
@@ -867,7 +867,7 @@
   {
     "ID": "CT03",
     "NAME": "Creativity Combo 3",
-    "SKILLS": "SIDe Swing / Basic Cross + High Knee / Foot Cross / High Knee + Swing / EB Cross / SIDe Swing / Basic Cross / Switch Cross",
+    "SKILLS": "Side Swing / Basic Cross + High Knee / Foot Cross / High Knee + Swing / EB Cross / Side Swing / Basic Cross / Switch Cross",
     "LINK": "",
     "DATE": "2021-5-26",
     "IMAGE": ""
@@ -875,7 +875,7 @@
   {
     "ID": "CT04",
     "NAME": "Creativity Combo 4",
-    "SKILLS": "SIDe Swing / Basic Cross + High Knee / SIDe Swing / EB Swing + SIDe Tap / SIDe Swing (other sIDe) / EB swing + SIDe Tap",
+    "SKILLS": "Side Swing / Basic Cross + High Knee / Side Swing / EB Swing + Side Tap / Side Swing (other side) / EB swing + Side Tap",
     "LINK": "",
     "DATE": "2021-5-27",
     "IMAGE": ""
@@ -891,7 +891,7 @@
   {
     "ID": "CT06",
     "NAME": "Creativity Combo 6",
-    "SKILLS": "SIDe Swing / Basic Cross / SIDe Swing (same sIDe) / EB Cross / SIDe Swing / Basic Cross / Switch Cross",
+    "SKILLS": "Side Swing / Basic Cross / Side Swing (same side) / EB Cross / Side Swing / Basic Cross / Switch Cross",
     "LINK": "",
     "DATE": "2021-5-29",
     "IMAGE": ""
@@ -899,7 +899,7 @@
   {
     "ID": "CT07",
     "NAME": "Creativity Combo 7",
-    "SKILLS": "Mic Release / SIDe Swing / Basic Cross / Mic Release / SIDe Swing / EB Cross",
+    "SKILLS": "Mic Release / Side Swing / Basic Cross / Mic Release / Side Swing / EB Cross",
     "LINK": "",
     "DATE": "2021-5-30",
     "IMAGE": ""
@@ -910,7 +910,7 @@
     "SKILLS": "Complete Tutorial for the OC, CO, and CC Double Under Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/double-unders/#DUTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//pqgXbeIsfqU' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//pqgXbeIsfqU' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "DU01",
@@ -971,49 +971,49 @@
   {
     "ID": "EB01",
     "NAME": "EB Combo 1",
-    "SKILLS": "SIDe Swing (standing) / EB Cross / Single Under / SIDe Swing (jumping) / EB Cross / Single Under / SIDe Swing (standing) / EB Cross / EB Swing (standing) / Single Under",
+    "SKILLS": "Side Swing (standing) / EB Cross / Single Under / Side Swing (jumping) / EB Cross / Single Under / Side Swing (standing) / EB Cross / EB Swing (standing) / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB01",
     "DATE": "2023-01-23T08:00:00.000Z"
   },
   {
     "ID": "EB02",
     "NAME": "EB Combo 2",
-    "SKILLS": "SIDe Swing (standing) / EB Swing (standing) / Basic Cross / SIDe Swing (jumping) / EB Cross / EB Swing (jumping) / Single Under",
+    "SKILLS": "Side Swing (standing) / EB Swing (standing) / Basic Cross / Side Swing (jumping) / EB Cross / EB Swing (jumping) / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB02",
     "DATE": "2023-01-24T08:00:00.000Z"
   },
   {
     "ID": "EB03",
     "NAME": "EB Combo 3",
-    "SKILLS": "Single Under / SIDe Swing  / EB Cross  / SIDe Swing / Swing Transition / Single Under / SIDe Swing / EB Cross / SIDe Swing / Swing Transition / SIDe Swing / Basic Cross / Single Under",
+    "SKILLS": "Single Under / Side Swing  / EB Cross  / Side Swing / Swing Transition / Single Under / Side Swing / EB Cross / Side Swing / Swing Transition / Side Swing / Basic Cross / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB03",
     "DATE": "2023-01-25T08:00:00.000Z"
   },
   {
     "ID": "EB05",
     "NAME": "EB Combo 5",
-    "SKILLS": "SIDe Swing / EB Cross / SIDe Swing / Basic Cross / Single Under / SIDe Swing / EB Cross / Basic Cross / Single Under",
+    "SKILLS": "Side Swing / EB Cross / Side Swing / Basic Cross / Single Under / Side Swing / EB Cross / Basic Cross / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB05",
     "DATE": "2023-01-27T08:00:00.000Z"
   },
   {
     "ID": "EB06",
     "NAME": "EB Combo 6",
-    "SKILLS": "SIDe Swing / Basic Cross/ SIDe Swing / EB Cross/ SIDe Swing / Basic Cross/ SIDe Swing / Swing Transition / Single Under",
+    "SKILLS": "Side Swing / Basic Cross/ Side Swing / EB Cross/ Side Swing / Basic Cross/ Side Swing / Swing Transition / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB06",
     "DATE": "2023-01-28T08:00:00.000Z"
   },
   {
     "ID": "EB07",
     "NAME": "EB Combo 7",
-    "SKILLS": "SIDe Swing / Mic / SIDe Swing / EB Cross / EB Swing / Basic Cross / SIDe Swing / Single Under",
+    "SKILLS": "Side Swing / Mic / Side Swing / EB Cross / EB Swing / Basic Cross / Side Swing / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB07",
     "DATE": "2023-01-29T08:00:00.000Z"
 },
   {
     "ID": "EB08",
     "NAME": "EB Combo 8",
-    "SKILLS": "SIDe Swing / Leg Over / SIDe Swing / EB Cross / SIDe Swing / Toad Cross / SIDe Swing / EB Cross",
+    "SKILLS": "Side Swing / Leg Over / Side Swing / EB Cross / Side Swing / Toad Cross / Side Swing / EB Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB08",
     "DATE": "2022-07-04",
     "IMAGE": ""
@@ -1021,7 +1021,7 @@
   {
     "ID": "EB09",
     "NAME": "EB Combo 9",
-    "SKILLS": "SIDe Swing / EB Floater / Open / SIDe Swing / EB Cross / Open",
+    "SKILLS": "Side Swing / EB Floater / Open / Side Swing / EB Cross / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB09",
     "DATE": "2022-07-05",
     "IMAGE": ""
@@ -1037,7 +1037,7 @@
   {
     "ID": "EB11",
     "NAME": "EB Combo 11",
-    "SKILLS": "SIDe Swing / EB Cross / EB Stall / Backwards EB Cross / Backwards Open / Backwards Swing / Backwards Basic Cross / Heel catch",
+    "SKILLS": "Side Swing / EB Cross / EB Stall / Backwards EB Cross / Backwards Open / Backwards Swing / Backwards Basic Cross / Heel catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB11",
     "DATE": "2022-07-07",
     "IMAGE": ""
@@ -1045,7 +1045,7 @@
   {
     "ID": "EB12",
     "NAME": "EB Combo 12",
-    "SKILLS": "Backwards EB Cross / Stall to Forwards Double / SIDe Swing / EB Cross / SIDe Swing  / Open",
+    "SKILLS": "Backwards EB Cross / Stall to Forwards Double / Side Swing / EB Cross / Side Swing  / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB12",
     "DATE": "2022-07-08",
     "IMAGE": ""
@@ -1053,7 +1053,7 @@
   {
     "ID": "EB13",
     "NAME": "EB Combo 13",
-    "SKILLS": "SIDe Swing / Mic / SIDe Swing / EB Cross / Mic  / Open",
+    "SKILLS": "Side Swing / Mic / Side Swing / EB Cross / Mic  / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB13",
     "DATE": "2022-07-09",
     "IMAGE": ""
@@ -1061,7 +1061,7 @@
   {
     "ID": "EB14",
     "NAME": "EB Combo 14",
-    "SKILLS": "SIDe Swing / EB Cross / Open / Leg Hook 360 / Dive EB / Open",
+    "SKILLS": "Side Swing / EB Cross / Open / Leg Hook 360 / Dive EB / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EB14",
     "DATE": "2022-07-10",
     "IMAGE": ""
@@ -1184,20 +1184,20 @@
     "SKILLS": "Complete Tutorial for the Boxer Step Footwork Skill",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//1XCE4QlGzxI' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//1XCE4QlGzxI' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "FWTUT02",
     "NAME": "💻 5 Best Jump Rope Footwork SKILLS For Beginners (Tutorial)",
-    "SKILLS": "Complete Tutorial for the 5 Best Jump Rope Footwork SKILLS for Beginners, Including the SIDe Straddle, Foot Cross, Running In Place, Front Straddle, and the Heel Tap",
+    "SKILLS": "Complete Tutorial for the 5 Best Jump Rope Footwork SKILLS for Beginners, Including the Side Straddle, Foot Cross, Running In Place, Front Straddle, and the Heel Tap",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWTUT02",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//PDS8XpoYiPs' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//PDS8XpoYiPs' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "FW01",
     "NAME": "Footwork Combo 1",
-    "SKILLS": "SIDe Straddle / High Knee (right) / Front Straddle (right) / High Knee (right) / SIDe Straddle / High Knee (left) / Front Straddle (left) / High Knee (left) / SIDe Straddle / Single Under / Toe Catch",
+    "SKILLS": "Side Straddle / High Knee (right) / Front Straddle (right) / High Knee (right) / Side Straddle / High Knee (left) / Front Straddle (left) / High Knee (left) / Side Straddle / Single Under / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW01",
     "DATE": "2021-3-29",
     "IMAGE": ""
@@ -1205,7 +1205,7 @@
   {
     "ID": "FW02",
     "NAME": "Footwork Combo 2",
-    "SKILLS": "Single Bounce / Heel Tap (right) / Toe Tap (right) / Heel Tap (left) / Toe Tap (left) / SIDe Straddle / Cross Straddle / Full Turn (no bounding) / Toe Catch",
+    "SKILLS": "Single Bounce / Heel Tap (right) / Toe Tap (right) / Heel Tap (left) / Toe Tap (left) / Side Straddle / Cross Straddle / Full Turn (no bounding) / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW02",
     "DATE": "2021-3-30",
     "IMAGE": ""
@@ -1213,7 +1213,7 @@
   {
     "ID": "FW03",
     "NAME": "Footwork Combo 3",
-    "SKILLS": "Single Bounce / SIDe Straddle / Cross Straddle / Heel Straddle (right) / Single Bounce / SIDe Straddle / Cross Straddle / Heel Straddle (left) / Single Bounce / Toe Catch",
+    "SKILLS": "Single Bounce / Side Straddle / Cross Straddle / Heel Straddle (right) / Single Bounce / Side Straddle / Cross Straddle / Heel Straddle (left) / Single Bounce / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW03",
     "DATE": "2021-3-31",
     "IMAGE": ""
@@ -1237,7 +1237,7 @@
   {
     "ID": "FW06",
     "NAME": "Footwork Combo 6",
-    "SKILLS": "Backwards Single Bounce / Backwards High Knee (right) / Backwards Single Bounce / Backwards High Knee (left) / Backwards Double Bounce / Backwards High Knee (right) / Backwards High Knee (left) / Backwards SIDe Straddle / Backwards Single Bounce / Backwards Heel Catch",
+    "SKILLS": "Backwards Single Bounce / Backwards High Knee (right) / Backwards Single Bounce / Backwards High Knee (left) / Backwards Double Bounce / Backwards High Knee (right) / Backwards High Knee (left) / Backwards Side Straddle / Backwards Single Bounce / Backwards Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW06",
     "DATE": "2021-4-3",
     "IMAGE": ""
@@ -1245,7 +1245,7 @@
   {
     "ID": "FW07",
     "NAME": "Footwork Combo 7",
-    "SKILLS": "Skier (left) / Skier (right) / SIDe Straddle / High Knee (right) / High Knee (right) / SIDe Straddle / High Knee (left) / High Knee (left) / SIDe Straddle / Single Bounce / Toe Catch",
+    "SKILLS": "Skier (left) / Skier (right) / Side Straddle / High Knee (right) / High Knee (right) / Side Straddle / High Knee (left) / High Knee (left) / Side Straddle / Single Bounce / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW07",
     "DATE": "2021-4-4",
     "IMAGE": ""
@@ -1253,7 +1253,7 @@
   {
     "ID": "FW08",
     "NAME": "Footwork Combo 8",
-    "SKILLS": "High Knee (right) / SIDe Tap (right) / High Knee (right) / Front Straddle (right) / High Knee (right) / High Knee (left) / SIDe Tap (left) / High Knee (left) / Front Straddle (left) / High Knee (left) / Single Bounce / Toe Catch",
+    "SKILLS": "High Knee (right) / Side Tap (right) / High Knee (right) / Front Straddle (right) / High Knee (right) / High Knee (left) / Side Tap (left) / High Knee (left) / Front Straddle (left) / High Knee (left) / Single Bounce / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW08",
     "DATE": "2021-4-26",
     "IMAGE": ""
@@ -1261,7 +1261,7 @@
   {
     "ID": "FW09",
     "NAME": "Footwork Combo 9",
-    "SKILLS": "High Knee / Front Straddle / High Knee / Front Straddle / High Knee / Cross Straddle / High Knee / SIDe Straddle / Single Bounce / Toe Catch",
+    "SKILLS": "High Knee / Front Straddle / High Knee / Front Straddle / High Knee / Cross Straddle / High Knee / Side Straddle / Single Bounce / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW09",
     "DATE": "2021-4-27",
     "IMAGE": ""
@@ -1269,7 +1269,7 @@
   {
     "ID": "FW10",
     "NAME": "Footwork Combo 10",
-    "SKILLS": "Swing + High Knee / Basic Cross + SIDe Straddle / Swing + High Knee / EB + Single Bounce",
+    "SKILLS": "Swing + High Knee / Basic Cross + Side Straddle / Swing + High Knee / EB + Single Bounce",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW10",
     "DATE": "2021-4-29",
     "IMAGE": ""
@@ -1285,7 +1285,7 @@
   {
     "ID": "FW12",
     "NAME": "Footwork Combo 12",
-    "SKILLS": "Heel Tap (right) / Toe Tap (right) / Heel Tap (left) / Toe Tap (right) / Heel Tap (left) / Toe Tap (right) / SIDe Straddle / OO Double",
+    "SKILLS": "Heel Tap (right) / Toe Tap (right) / Heel Tap (left) / Toe Tap (right) / Heel Tap (left) / Toe Tap (right) / Side Straddle / OO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW12",
     "DATE": "2021-5-1",
     "IMAGE": ""
@@ -1301,7 +1301,7 @@
   {
     "ID": "FW14",
     "NAME": "Footwork Combo 14",
-    "SKILLS": "SIDe Step Stall / High Knee / Single Bounce / Kick / Single Under / SIDe Step Stall / High Knee / Single Bounce / Kick / Single Bounce / Toe Catch",
+    "SKILLS": "Side Step Stall / High Knee / Single Bounce / Kick / Single Under / Side Step Stall / High Knee / Single Bounce / Kick / Single Bounce / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW14",
     "DATE": "2021-5-2",
     "IMAGE": ""
@@ -1309,7 +1309,7 @@
   {
     "ID": "FW15",
     "NAME": "Footwork Combo 15",
-    "SKILLS": "SIDe Straddle  / High Knee / Foot Cross / High Knee  / High Knee  / Foot Cross / High Knee / SIDe Straddle / Open",
+    "SKILLS": "Side Straddle  / High Knee / Foot Cross / High Knee  / High Knee  / Foot Cross / High Knee / Side Straddle / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW15",
     "DATE": "2021-11-22",
     "IMAGE": ""
@@ -1325,7 +1325,7 @@
   {
     "ID": "FW17",
     "NAME": "Footwork Combo 17",
-    "SKILLS": "Back Leg Swing / Front Leg Swing / SIDe Leg Swing / High Knee / Back Leg Swing / Front Leg Swing / SIDe Leg Swing / High Knee",
+    "SKILLS": "Back Leg Swing / Front Leg Swing / Side Leg Swing / High Knee / Back Leg Swing / Front Leg Swing / Side Leg Swing / High Knee",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW17",
     "DATE": "2021-11-24",
     "IMAGE": ""
@@ -1333,7 +1333,7 @@
   {
     "ID": "FW18",
     "NAME": "Footwork Combo 18",
-    "SKILLS": "Stall + SIDe Step / Basic Cross + Right Leg Bound / Basic Cross + Right Leg Bound / Basic Cross + Left Leg Bound / Basic Cross + Left Leg Bound / Basic Cross + SIDe Straddle / Open",
+    "SKILLS": "Stall + Side Step / Basic Cross + Right Leg Bound / Basic Cross + Right Leg Bound / Basic Cross + Left Leg Bound / Basic Cross + Left Leg Bound / Basic Cross + Side Straddle / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW18",
     "DATE": "2021-11-25",
     "IMAGE": ""
@@ -1341,7 +1341,7 @@
   {
     "ID": "FW19",
     "NAME": "Footwork Combo 19",
-    "SKILLS": "SIDe Straddle / Front Straddle / Switch Front Straddle / SIDe Straddle  / Open",
+    "SKILLS": "Side Straddle / Front Straddle / Switch Front Straddle / Side Straddle  / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork#FW19",
     "DATE": "2021-11-27",
     "IMAGE": ""
@@ -1397,7 +1397,7 @@
   {
     "ID": "HP05",
     "NAME": "Handle Pass 5",
-    "SKILLS": "Open / SIDe Swing Handle Pass / Stall Swing / Backwards EB Cross / Body Stall to Forward Open Double",
+    "SKILLS": "Open / Side Swing Handle Pass / Stall Swing / Backwards EB Cross / Body Stall to Forward Open Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP05",
     "DATE": "2021-2-12",
     "IMAGE": ""
@@ -1405,7 +1405,7 @@
   {
     "ID": "HP06",
     "NAME": "Handle Pass 6",
-    "SKILLS": "SIDe Swing Handle Pass / Leg Over Swing / SIDe Swing Handle Grab / Open",
+    "SKILLS": "Side Swing Handle Pass / Leg Over Swing / Side Swing Handle Grab / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP06",
     "DATE": "2021-2-13",
     "IMAGE": ""
@@ -1421,7 +1421,7 @@
   {
     "ID": "HP08",
     "NAME": "Handle Pass 8",
-    "SKILLS": "Basic Cross / SIDe Swing Handle Pass / Toad Swing (single hand) / SIDe Swing (single hand) / Basic Cross Handle Grab",
+    "SKILLS": "Basic Cross / Side Swing Handle Pass / Toad Swing (single hand) / Side Swing (single hand) / Basic Cross Handle Grab",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP08",
     "DATE": "2022-4-25",
     "IMAGE": ""
@@ -1429,7 +1429,7 @@
   {
     "ID": "HP09",
     "NAME": "Handle Pass 9",
-    "SKILLS": "SIDe Swing / T-Toad / SIDeSwing Handle Pass / SIDeSwing Handle Grab / Leg Over / Basic Cross / SIDe Swing Handle Pass / SO Double Handle Grab",
+    "SKILLS": "Side Swing / T-Toad / SideSwing Handle Pass / SideSwing Handle Grab / Leg Over / Basic Cross / Side Swing Handle Pass / SO Double Handle Grab",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP09",
     "DATE": "2022-4-26",
     "IMAGE": ""
@@ -1445,7 +1445,7 @@
   {
     "ID": "HP11",
     "NAME": "Handle Pass 11",
-    "SKILLS": "SIDe Swing / Leg Over  / Open Dive  / EB Handle Pass / SIDe Swing Handle Grab / Dive 180 / Backwards Open / Texan BTF 180",
+    "SKILLS": "Side Swing / Leg Over  / Open Dive  / EB Handle Pass / Side Swing Handle Grab / Dive 180 / Backwards Open / Texan BTF 180",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP11",
     "DATE": "2022-4-28",
     "IMAGE": ""
@@ -1469,7 +1469,7 @@
   {
     "ID": "HP14",
     "NAME": "Handle Pass 14",
-    "SKILLS": "SIDe Swing / Cross / Wrist Mic / Catch HAndle Pass / SIDe Swing (single hand) / Toad Swing Handle Grab / Open",
+    "SKILLS": "Side Swing / Cross / Wrist Mic / Catch HAndle Pass / Side Swing (single hand) / Toad Swing Handle Grab / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/handle-pass/#HP14",
     "DATE": "2022-5-1",
     "IMAGE": ""
@@ -1480,7 +1480,7 @@
     "SKILLS": "Complete Tutorial for the Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos-all/toad/#TCTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//xvMOKkZBsu8' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//xvMOKkZBsu8' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "ITTUT01",
@@ -1488,7 +1488,7 @@
     "SKILLS": "Complete Tutorial for the Inverse Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#ITTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//mf5wdJ2tONA' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//mf5wdJ2tONA' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "ITTUT02",
@@ -1496,7 +1496,7 @@
     "SKILLS": "Complete Tutorial for the Inverse Toad Open Gogo Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#ITTUT02",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//BstVWkoub7I' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//BstVWkoub7I' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "IT01",
@@ -1525,7 +1525,7 @@
   {
     "ID": "IT04",
     "NAME": "Inverse Toad Combo 4",
-    "SKILLS": "SIDe Swing / Inverse Toad Cross / CL Cross",
+    "SKILLS": "Side Swing / Inverse Toad Cross / CL Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/inverse-toad/#IT04",
     "DATE": "2020-9-10",
     "IMAGE": ""
@@ -1560,7 +1560,7 @@
     "SKILLS": "Complete Tutorial for the K-Toad/Neck Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/k-toad/#KTTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//BavqD2zcN1w' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//BavqD2zcN1w' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "KT01",
@@ -1680,7 +1680,7 @@
     "SKILLS": "Complete Tutorial for the Leg Hook 360 Turn",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-hook/#LHTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//rmS5o3lu1DA' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//rmS5o3lu1DA' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "LH01",
@@ -1744,7 +1744,7 @@
     "SKILLS": "Complete Tutorial for the Leg Over Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/leg-over/#LOTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//Y_Kd6WlkI4s' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//Y_Kd6WlkI4s' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "LO01",
@@ -1861,10 +1861,10 @@
   {
     "ID": "MATUT01",
     "NAME": "💻 Mamba Release Tutorial",
-    "SKILLS": "Complete Tutorial for the Mamba Release/SIDe-to-SIDe Mic",
+    "SKILLS": "Complete Tutorial for the Mamba Release/Side-to-Side Mic",
     "LINK": "https://youtu.be/jDJSZbxwxp8",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//jDJSZbxwxp8' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//jDJSZbxwxp8' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "MR01",
@@ -1893,7 +1893,7 @@
   {
     "ID": "MR04",
     "NAME": "Mic Combo 4",
-    "SKILLS": "Mic Release (same sIDe) / 180 to Backwards Open",
+    "SKILLS": "Mic Release (same side) / 180 to Backwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR04",
     "DATE": "2020-7-16",
     "IMAGE": ""
@@ -1933,7 +1933,7 @@
   {
     "ID": "MR09",
     "NAME": "Mic Combo 9",
-    "SKILLS": "SIDe Swing / EB Wrap / Unwrap 180 Swing / Mic Release 180 / SIDe Swing / EB Cross",
+    "SKILLS": "Side Swing / EB Wrap / Unwrap 180 Swing / Mic Release 180 / Side Swing / EB Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR09",
     "DATE": "2022-08-02",
     "IMAGE": ""
@@ -1965,7 +1965,7 @@
   {
     "ID": "MR13",
     "NAME": "Mic Combo 13",
-    "SKILLS": "Same-SIDe Release (behind the back) / Mamba / Leg Over  / Awesome Annie",
+    "SKILLS": "Same-Side Release (behind the back) / Mamba / Leg Over  / Awesome Annie",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR13",
     "DATE": "2022-08-06",
     "IMAGE": ""
@@ -2013,7 +2013,7 @@
   {
     "ID": "MR19",
     "NAME": "Mic Combo 19",
-    "SKILLS": "Swing 180 / Backwards Leg Hook Release / Backwards Swing / Backwards Basic Cross / Backwards SO Double (other sIDe)",
+    "SKILLS": "Swing 180 / Backwards Leg Hook Release / Backwards Swing / Backwards Basic Cross / Backwards SO Double (other side)",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR19",
     "DATE": "2021-3-5",
     "IMAGE": ""
@@ -2021,7 +2021,7 @@
   {
     "ID": "MR20",
     "NAME": "Mic Combo 20",
-    "SKILLS": "Backwards EB Same SIDe Mic 180 / Dive EB 180 / Backwards Mic",
+    "SKILLS": "Backwards EB Same Side Mic 180 / Dive EB 180 / Backwards Mic",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR20",
     "DATE": "2021-3-6",
     "IMAGE": ""
@@ -2029,7 +2029,7 @@
   {
     "ID": "MR21",
     "NAME": "Mic Combo 21",
-    "SKILLS": "Back Same SIDe Mic Release / Backwards Swing / Backwards Arm Wrap / Backwards Unwrap Swing / Backwards SO Double",
+    "SKILLS": "Back Same Side Mic Release / Backwards Swing / Backwards Arm Wrap / Backwards Unwrap Swing / Backwards SO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/mic/#MR21",
     "DATE": "2021-3-7",
     "IMAGE": ""
@@ -2040,7 +2040,7 @@
     "SKILLS": "Complete Tutorial for the No Swing Mic",
     "LINK": "https://www.natekg.com/jump-rope-combos/no-swing-mic/#NMTUT01",
     "DATE": "2022-6-15",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//2wdEAQzw2hU' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//2wdEAQzw2hU' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "NM01",
@@ -2261,7 +2261,7 @@
   {
     "ID": "EBA4",
     "NAME": "Nate K-G Combo 22",
-    "SKILLS": "Swing / Basic Cross / Swing / EB Cross / SC Double / Swing, EB (double) / Front Toe Tap / SIDe Toe Tap / Back Toe Tap / Leg Kick + Toad",
+    "SKILLS": "Swing / Basic Cross / Swing / EB Cross / SC Double / Swing, EB (double) / Front Toe Tap / Side Toe Tap / Back Toe Tap / Leg Kick + Toad",
     "LINK": "https://www.natekg.com/jump-rope-combos/eb/#EBA4",
     "DATE": "",
     "IMAGE": ""
@@ -2269,7 +2269,7 @@
   {
     "ID": "CAA1",
     "NAME": "Nate K-G Combo 23",
-    "SKILLS": "OO Double / Toe Catch MID-Air",
+    "SKILLS": "OO Double / Toe Catch Mid-Air",
     "LINK": "https://www.natekg.com/jump-rope-combos/catches/#CAA1",
     "DATE": "",
     "IMAGE": ""
@@ -2325,7 +2325,7 @@
   {
     "ID": "PUA1",
     "NAME": "Nate K-G Combo 30",
-    "SKILLS": "Basic Push Up / Open to Stall / Backwards Toad Cross / Backwards Toad Cross / Backwards Open / Backwards Toad Cross (other sIDe) / Backwards Open",
+    "SKILLS": "Basic Push Up / Open to Stall / Backwards Toad Cross / Backwards Toad Cross / Backwards Open / Backwards Toad Cross (other side) / Backwards Open",
     "LINK": "https://www.instagram.com/p/B_fW_F1lqj4/?utm_source=ig_web_copy_LINK",
     "DATE": "",
     "IMAGE": ""
@@ -2357,7 +2357,7 @@
   {
     "ID": "PUA2",
     "NAME": "Nate K-G Combo 34",
-    "SKILLS": "One-Handed Basic Push Up / Basic Cross / One-Hand Basic Push Up (other sIDe) / Basic Cross",
+    "SKILLS": "One-Handed Basic Push Up / Basic Cross / One-Hand Basic Push Up (other side) / Basic Cross",
     "LINK": "https://www.instagram.com/p/B_rFfBEFZq5/?utm_source=ig_web_copy_LINK",
     "DATE": "",
     "IMAGE": ""
@@ -2469,7 +2469,7 @@
   {
     "ID": "FWA2",
     "NAME": "Nate K-G Combo 48",
-    "SKILLS": "Straddle / Basic Cross / Straddle / Basic Cross (with a Body Cross) / Open / High Knee (with a Swing) / SIDe Tap (with a Texan Swing) / Open",
+    "SKILLS": "Straddle / Basic Cross / Straddle / Basic Cross (with a Body Cross) / Open / High Knee (with a Swing) / Side Tap (with a Texan Swing) / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA3",
     "DATE": "",
     "IMAGE": ""
@@ -2477,7 +2477,7 @@
   {
     "ID": "FWA3",
     "NAME": "Nate K-G Combo 49",
-    "SKILLS": "4 x Alternating Step / Toad Cross / Open / Toad (other sIDe) / Open / Step Through Stall / Toe Catch",
+    "SKILLS": "4 x Alternating Step / Toad Cross / Open / Toad (other side) / Open / Step Through Stall / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/footwork/#FWA4",
     "DATE": "",
     "IMAGE": ""
@@ -2693,7 +2693,7 @@
   {
     "ID": "PU01",
     "NAME": "Push Up Combo 1",
-    "SKILLS": "SIDe Swing / Toad Cross / Jump Rope Squat / Push Up Pull Through / Mic / Toe Catch",
+    "SKILLS": "Side Swing / Toad Cross / Jump Rope Squat / Push Up Pull Through / Mic / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/push-up/#PU01",
     "DATE": "2021-4-12",
     "IMAGE": ""
@@ -2733,7 +2733,7 @@
   {
     "ID": "PU06",
     "NAME": "Push Up Combo 6",
-    "SKILLS": "Backwards SIDe Swing / Backwards Leg Over / Jump Rope Squat / Push Up Pull Through / Single Under (Dive) / EB Wrap / Unwrap / Mic x3 / Single Foot Catch",
+    "SKILLS": "Backwards Side Swing / Backwards Leg Over / Jump Rope Squat / Push Up Pull Through / Single Under (Dive) / EB Wrap / Unwrap / Mic x3 / Single Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/push-up/#PU06",
     "DATE": "2021-4-17",
     "IMAGE": ""
@@ -2752,7 +2752,7 @@
     "SKILLS": "Complete Tutorial for the SCSEB Quadruple Under (Swing Cross Swing EB)",
     "LINK": "https://youtu.be/lJchBQ4xyDE",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//lJchBQ4xyDE' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//lJchBQ4xyDE' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "RD01",
@@ -2981,7 +2981,7 @@
   {
     "ID": "SP01",
     "NAME": "Step Through Combo 1",
-    "SKILLS": "SIDe Swing / EB Swing / SIDe Swing / EB Swing / Step Through / Arm Wrap / Unwrap / Basic Cross / SIDe Swing / Open",
+    "SKILLS": "Side Swing / EB Swing / Side Swing / EB Swing / Step Through / Arm Wrap / Unwrap / Basic Cross / Side Swing / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP01",
     "DATE": "2022-7-11",
     "IMAGE": ""
@@ -2989,7 +2989,7 @@
   {
     "ID": "SP02",
     "NAME": "Step Through Combo 2",
-    "SKILLS": "Step Through / Crossed Step Through / Open / SIDe Swing / EB Cross / Stall Between Legs / Backwards Cross",
+    "SKILLS": "Step Through / Crossed Step Through / Open / Side Swing / EB Cross / Stall Between Legs / Backwards Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP02",
     "DATE": "2022-7-12",
     "IMAGE": ""
@@ -2997,7 +2997,7 @@
   {
     "ID": "SP03",
     "NAME": "Step Through Combo 3",
-    "SKILLS": "SIDe Swing / EB Swing / Step Through / Basic Cross / Crossed Step Through / SIDe Swing / Basic Cross",
+    "SKILLS": "Side Swing / EB Swing / Step Through / Basic Cross / Crossed Step Through / Side Swing / Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP03",
     "DATE": "2022-7-13",
     "IMAGE": ""
@@ -3005,7 +3005,7 @@
   {
     "ID": "SP04",
     "NAME": "Step Through Combo 4",
-    "SKILLS": "Step Through / Stall / Backwards SIDe Swing / Backwards SIDe Swing / Backwards SIDe Swing / Backwards SIDe Swing / Stall / SIDe Swing / Step Through / SIDe Swing / Toe Catch",
+    "SKILLS": "Step Through / Stall / Backwards Side Swing / Backwards Side Swing / Backwards Side Swing / Backwards Side Swing / Stall / Side Swing / Step Through / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP04",
     "DATE": "2022-7-14",
     "IMAGE": ""
@@ -3013,7 +3013,7 @@
   {
     "ID": "SP05",
     "NAME": "Step Through Combo 5",
-    "SKILLS": "Backwards EB Swing / Backwards Step Through / Backwards Arm Wrap / Backwards Unwrap / Backwards SIDe Swing / Backwards EB",
+    "SKILLS": "Backwards EB Swing / Backwards Step Through / Backwards Arm Wrap / Backwards Unwrap / Backwards Side Swing / Backwards EB",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP05",
     "DATE": "2022-7-15",
     "IMAGE": ""
@@ -3021,7 +3021,7 @@
   {
     "ID": "SP06",
     "NAME": "Step Through Combo 6",
-    "SKILLS": "Leg Over / SIDe Swing / SIDe Swing / Step Through / SIDe Swing / Basic Cross / Step Through Release",
+    "SKILLS": "Leg Over / Side Swing / Side Swing / Step Through / Side Swing / Basic Cross / Step Through Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP06",
     "DATE": "2022-7-16",
     "IMAGE": ""
@@ -3029,7 +3029,7 @@
   {
     "ID": "SP07",
     "NAME": "Step Through Combo 7",
-    "SKILLS": "Basic Cross / Step Through / SIDe Swing / Basic Cross / Wrist Mic / Step Through / Step Through Wrap / Unwrap / Awesome Annie / Open",
+    "SKILLS": "Basic Cross / Step Through / Side Swing / Basic Cross / Wrist Mic / Step Through / Step Through Wrap / Unwrap / Awesome Annie / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through/#SP07",
     "DATE": "2022-7-17",
     "IMAGE": ""
@@ -3037,7 +3037,7 @@
   {
     "ID": "SD01",
     "NAME": "Step Through Thread Combo 1",
-    "SKILLS": "SIDe Swing  / EB Gogo Mic  / Step Through / Step Through Thread / Unwrap / SIDe Swing / OO Double",
+    "SKILLS": "Side Swing  / EB Gogo Mic  / Step Through / Step Through Thread / Unwrap / Side Swing / OO Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through-thread#SD01",
     "DATE": "2022-8-8",
     "IMAGE": ""
@@ -3045,7 +3045,7 @@
   {
     "ID": "SD02",
     "NAME": "Step Through Thread Combo 2",
-    "SKILLS": "Mic / Toad Swing / Crossed Step Through Thread / Unwrap / SIDe Swing / SIDe Swing / EB Swing  / Single Foot Catch",
+    "SKILLS": "Mic / Toad Swing / Crossed Step Through Thread / Unwrap / Side Swing / Side Swing / EB Swing  / Single Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through-thread#SD02",
     "DATE": "2022-8-9",
     "IMAGE": ""
@@ -3053,7 +3053,7 @@
   {
     "ID": "SD03",
     "NAME": "Step Through Thread Combo 3",
-    "SKILLS": "Elephant / Step Through / Step Through Thread / Unwrap / SIDe Swing / Ground Leg Over / Ground Awesome Annie Double",
+    "SKILLS": "Elephant / Step Through / Step Through Thread / Unwrap / Side Swing / Ground Leg Over / Ground Awesome Annie Double",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through-thread#SD03",
     "DATE": "2022-8-10",
     "IMAGE": ""
@@ -3061,7 +3061,7 @@
   {
     "ID": "SD04",
     "NAME": "Step Through Thread Combo 4",
-    "SKILLS": "SIDe Swing / Step Through  / Step Through Wrap / Unwrap / Leg Over Swing  / Crossed Step Through Thread / Unwrap / SIDe Swing  / SIDe Swing  / EB Toe Catch",
+    "SKILLS": "Side Swing / Step Through  / Step Through Wrap / Unwrap / Leg Over Swing  / Crossed Step Through Thread / Unwrap / Side Swing  / Side Swing  / EB Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through-thread#SD04",
     "DATE": "2022-8-11",
     "IMAGE": ""
@@ -3069,7 +3069,7 @@
   {
     "ID": "SD05",
     "NAME": "Step Through Thread Combo 5",
-    "SKILLS": "SIDe Swing / EB Toad / Step Through / Step Through Thread / Unwrap / SIDe Swing  / 180 SIDe Swing / Backwards Cross / 180 SIDe Swing / Single Under",
+    "SKILLS": "Side Swing / EB Toad / Step Through / Step Through Thread / Unwrap / Side Swing  / 180 Side Swing / Backwards Cross / 180 Side Swing / Single Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through-thread#SD05",
     "DATE": "2022-8-12",
     "IMAGE": ""
@@ -3077,7 +3077,7 @@
   {
     "ID": "SD06",
     "NAME": "Step Through Thread Combo 6",
-    "SKILLS": "Step Through Mic / Toad Swing  / Crosed Step Through Thread / Unwrap / 180 SIDe Swing  / Texan 180 / Toe Catch",
+    "SKILLS": "Step Through Mic / Toad Swing  / Crosed Step Through Thread / Unwrap / 180 Side Swing  / Texan 180 / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through-thread#SD06",
     "DATE": "2022-8-13",
     "IMAGE": ""
@@ -3085,7 +3085,7 @@
   {
     "ID": "SD07",
     "NAME": "Step Through Thread Combo 7",
-    "SKILLS": "Backwards Toad Hook / Stall / Step Through / Step Through Thread / Unwrap / SIDe Swing / Toad Cross",
+    "SKILLS": "Backwards Toad Hook / Stall / Step Through / Step Through Thread / Unwrap / Side Swing / Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/step-through-thread#SD07",
     "DATE": "2022-8-14",
     "IMAGE": ""
@@ -3093,7 +3093,7 @@
   {
     "ID": "SR01",
     "NAME": "Straddle Stall Combo 1",
-    "SKILLS": "Basic Cross / Between Legs Stall / Backwards Single Under / Backwards SIDe Swing / Backwards SIDe Swing / Backwards Single Under / Straddle Stall / SIDe Swing / EB Swing / Single Foot Catch",
+    "SKILLS": "Basic Cross / Between Legs Stall / Backwards Single Under / Backwards Side Swing / Backwards Side Swing / Backwards Single Under / Straddle Stall / Side Swing / EB Swing / Single Foot Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/straddle-stall/#SR01",
     "DATE": "2022-7-18",
     "IMAGE": ""
@@ -3101,7 +3101,7 @@
   {
     "ID": "SR02",
     "NAME": "Straddle Stall Combo 2",
-    "SKILLS": "SIDe Swing / SIDe Swing (same sIDe) / Basic Cross / Straddle Stall / Backwards Basic Cross / Backwards SIDe Swing / Backwards Straddle Stall / Basic Cross",
+    "SKILLS": "Side Swing / Side Swing (same side) / Basic Cross / Straddle Stall / Backwards Basic Cross / Backwards Side Swing / Backwards Straddle Stall / Basic Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/straddle-stall/#SR02",
     "DATE": "2022-7-19",
     "IMAGE": ""
@@ -3109,7 +3109,7 @@
   {
     "ID": "SR03",
     "NAME": "Straddle Stall Combo 3",
-    "SKILLS": "Straddle Stall / Backwards EB Swing / Backwards Same SIDe Mic 180 Turn / Dive 180 Turn",
+    "SKILLS": "Straddle Stall / Backwards EB Swing / Backwards Same Side Mic 180 Turn / Dive 180 Turn",
     "LINK": "https://www.natekg.com/jump-rope-combos/straddle-stall/#SR03",
     "DATE": "2022-7-20",
     "IMAGE": ""
@@ -3117,7 +3117,7 @@
   {
     "ID": "SR04",
     "NAME": "Straddle Stall Combo 4",
-    "SKILLS": "Backwards Straddle Stall / SIDe Swing + High Knee / Single Under / SIDe Swing + High Knee (othersIDe) / Single Under  / Straddle Stall / Backwards Single Under  / Heel Catch",
+    "SKILLS": "Backwards Straddle Stall / Side Swing + High Knee / Single Under / Side Swing + High Knee (otherside) / Single Under  / Straddle Stall / Backwards Single Under  / Heel Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/straddle-stall/#SR04",
     "DATE": "2022-7-21",
     "IMAGE": ""
@@ -3133,7 +3133,7 @@
   {
     "ID": "SR06",
     "NAME": "Straddle Stall Combo 6",
-    "SKILLS": "Backwards SIDe Swing / Backwards Basic Cross / Backwards Straddle Stall / Leg Wrap / Unwrap / Open",
+    "SKILLS": "Backwards Side Swing / Backwards Basic Cross / Backwards Straddle Stall / Leg Wrap / Unwrap / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/straddle-stall/#SR06",
     "DATE": "2022-7-23",
     "IMAGE": ""
@@ -3149,7 +3149,7 @@
   {
     "ID": "SS01",
     "NAME": "Swings Combo 1",
-    "SKILLS": "SIDe Swing / SIDe Swing / Leg Over Swing / SIDe Swing / SIDe Swing / Toe Catch",
+    "SKILLS": "Side Swing / Side Swing / Leg Over Swing / Side Swing / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS01",
     "DATE": "2020-7-27",
     "IMAGE": ""
@@ -3157,7 +3157,7 @@
   {
     "ID": "SS02",
     "NAME": "Swings Combo 2",
-    "SKILLS": "SIDe Swing / Leg Over Swing / SIDe Swing / Toad Swing / SIDe Swing / Inverse Toad Swing / SIDe Swing / Toe Catch",
+    "SKILLS": "Side Swing / Leg Over Swing / Side Swing / Toad Swing / Side Swing / Inverse Toad Swing / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS02",
     "DATE": "2020-7-28",
     "IMAGE": ""
@@ -3165,7 +3165,7 @@
   {
     "ID": "SS03",
     "NAME": "Swings Combo 3",
-    "SKILLS": "Toad Swing / EB Swing / Inverse Toad Swing / SIDe Swing / EB Swing / Toe Catch",
+    "SKILLS": "Toad Swing / EB Swing / Inverse Toad Swing / Side Swing / EB Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS03",
     "DATE": "2020-7-29",
     "IMAGE": ""
@@ -3173,7 +3173,7 @@
   {
     "ID": "SS04",
     "NAME": "Swings Combo 4",
-    "SKILLS": "Backwards EB Swing / EB Swing / SIDe Swing / EB Swing (other sIDe) / SIDe Swing / Toe Catch",
+    "SKILLS": "Backwards EB Swing / EB Swing / Side Swing / EB Swing (other side) / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS04",
     "DATE": "2020-7-30",
     "IMAGE": ""
@@ -3181,7 +3181,7 @@
   {
     "ID": "SS05",
     "NAME": "Swings Combo 5",
-    "SKILLS": "Inverse Toad Swing / Inverse Toad Gogo Swing / Toad Swing / SIDe Swing / Toe Catch",
+    "SKILLS": "Inverse Toad Swing / Inverse Toad Gogo Swing / Toad Swing / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS05",
     "DATE": "2020-7-31",
     "IMAGE": ""
@@ -3189,7 +3189,7 @@
   {
     "ID": "SS06",
     "NAME": "Swings Combo 6",
-    "SKILLS": "Toad Swing (left) / SIDe Swing(right) / Toad Swing (right) / SIDe Swing(left) / Toad Swing (left) / SIDe Swing / Toe Catch",
+    "SKILLS": "Toad Swing (left) / Side Swing(right) / Toad Swing (right) / Side Swing(left) / Toad Swing (left) / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS06",
     "DATE": "2020-8-1",
     "IMAGE": ""
@@ -3197,7 +3197,7 @@
   {
     "ID": "SS07",
     "NAME": "Swings Combo 7",
-    "SKILLS": "Double SIDe Swing(with opposing leg extension) / Double SIDe Swing(with opposing leg extension) / SIDe Swing / SIDe Swing / Single-Foot Toe Catch / Dramatic Handle Release",
+    "SKILLS": "Double Side Swing(with opposing leg extension) / Double Side Swing(with opposing leg extension) / Side Swing / Side Swing / Single-Foot Toe Catch / Dramatic Handle Release",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS07",
     "DATE": "2020-8-2",
     "IMAGE": ""
@@ -3205,7 +3205,7 @@
   {
     "ID": "SS08",
     "NAME": "Swings Combo 8",
-    "SKILLS": "SIDe Swing / EB Wrap / EB Unwrap / EB Toe Catch",
+    "SKILLS": "Side Swing / EB Wrap / EB Unwrap / EB Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS08",
     "DATE": "2022-05-30",
     "IMAGE": ""
@@ -3213,7 +3213,7 @@
   {
     "ID": "SS09",
     "NAME": "Swings Combo 9",
-    "SKILLS": "SIDe Swing(left) / SIDe Swing(right) / SIDe Swingright) / Stall / Backwards Swing (right) / Swing (left)",
+    "SKILLS": "Side Swing(left) / Side Swing(right) / Side Swingright) / Stall / Backwards Swing (right) / Swing (left)",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS09",
     "DATE": "2022-05-31",
     "IMAGE": ""
@@ -3221,7 +3221,7 @@
   {
     "ID": "SS10",
     "NAME": "Swings Combo 10",
-    "SKILLS": "SIDe Swing / Toad Swing (left) / Toad Gogo Swing (right) / Toad Swing (left) / EB Swing (right) / Toe Catch",
+    "SKILLS": "Side Swing / Toad Swing (left) / Toad Gogo Swing (right) / Toad Swing (left) / EB Swing (right) / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS10",
     "DATE": "2022-06-01",
     "IMAGE": ""
@@ -3237,7 +3237,7 @@
   {
     "ID": "SS12",
     "NAME": "Swings Combo 12",
-    "SKILLS": "Inverse Leg Over Step Through / Leg Over Swing / SIDe Swing / SIDe Swing / Toe Catch",
+    "SKILLS": "Inverse Leg Over Step Through / Leg Over Swing / Side Swing / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS12",
     "DATE": "2022-06-03",
     "IMAGE": ""
@@ -3245,7 +3245,7 @@
   {
     "ID": "SS13",
     "NAME": "Swings Combo 13",
-    "SKILLS": "SIDe Swing(left) / Leg Over Swing (right) / Leg Over Gogo Swing (left) / Leg Over Swing (right) / SIDe Swing(left) / Toad Swing (right) / Toad Gogo Swing (left) / Toad Swing (right) / SIDe Swing / Toe Catch",
+    "SKILLS": "Side Swing(left) / Leg Over Swing (right) / Leg Over Gogo Swing (left) / Leg Over Swing (right) / Side Swing(left) / Toad Swing (right) / Toad Gogo Swing (left) / Toad Swing (right) / Side Swing / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS13",
     "DATE": "2022-06-04",
     "IMAGE": ""
@@ -3253,7 +3253,7 @@
   {
     "ID": "SS14",
     "NAME": "Swings Combo 14",
-    "SKILLS": "Backwards Texan Swing (right) / Backwards SIDe Swing (left) / Backwards Arm Wrap (right) / Unwrap Swing (left) / Backwards Texan Swing (right) / Backwards SIDe Swing (left) / Toe Catch",
+    "SKILLS": "Backwards Texan Swing (right) / Backwards Side Swing (left) / Backwards Arm Wrap (right) / Unwrap Swing (left) / Backwards Texan Swing (right) / Backwards Side Swing (left) / Toe Catch",
     "LINK": "https://www.natekg.com/jump-rope-combos/swings/#SS14",
     "DATE": "2022-06-05",
     "IMAGE": ""
@@ -3317,7 +3317,7 @@
   {
     "ID": "SW08",
     "NAME": "Switch Cross Combo 8",
-    "SKILLS": "SIDe Swing / Basic Cross / Switch Cross / SIDe Swing / Basic Cross / Switch Cross",
+    "SKILLS": "Side Swing / Basic Cross / Switch Cross / Side Swing / Basic Cross / Switch Cross",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW08",
     "DATE": "2021-11-8",
     "IMAGE": ""
@@ -3325,7 +3325,7 @@
   {
     "ID": "SW09",
     "NAME": "Switch Cross Combo 9",
-    "SKILLS": "SIDe Swing / Basic Cross / Switch Cross To Toad Cross",
+    "SKILLS": "Side Swing / Basic Cross / Switch Cross To Toad Cross",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW09",
     "DATE": "2021-11-9",
     "IMAGE": ""
@@ -3349,7 +3349,7 @@
   {
     "ID": "SW12",
     "NAME": "Switch Cross Combo 12",
-    "SKILLS": "Backwards SIDe Swing / Backwards Basic Cross / Backwards To Forwards Stall / Basic Cross (switched) / Switch Cross Into Switch Cross Double",
+    "SKILLS": "Backwards Side Swing / Backwards Basic Cross / Backwards To Forwards Stall / Basic Cross (switched) / Switch Cross Into Switch Cross Double",
     "LINK": "https://natekg.com/jump-rope-combos/switch-cross/#SW12",
     "DATE": "2021-11-12",
     "IMAGE": ""
@@ -3376,7 +3376,7 @@
     "SKILLS": "Complete Tutorial for the TJ Triple Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/triples/#TUTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//dxRxtQ-ewkY' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//dxRxtQ-ewkY' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "TUTUT02",
@@ -3384,12 +3384,12 @@
     "SKILLS": "Complete Tutorial for the Mic Release Triple Under",
     "LINK": "https://www.natekg.com/jump-rope-combos/triples/#TUTUT02",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//VTRwzjjMJpc' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//VTRwzjjMJpc' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "TU01",
     "NAME": "Triples Combo 1",
-    "SKILLS": "Swing, Cross, Cross / Swing, Cross, Open / Swing, Open, Cross / Swing, Open, Open / (all same sIDe)",
+    "SKILLS": "Swing, Cross, Cross / Swing, Cross, Open / Swing, Open, Cross / Swing, Open, Open / (all same side)",
     "LINK": "https://www.natekg.com/jump-rope-combos/triples/#TU01",
     "DATE": "2020-8-24",
     "IMAGE": ""
@@ -3413,7 +3413,7 @@
   {
     "ID": "TU04",
     "NAME": "Triples Combo 4",
-    "SKILLS": "Swing, EB, Open / Swing, Toad, Open (TJ) / Swing, Cross, Open (other sIDe)",
+    "SKILLS": "Swing, EB, Open / Swing, Toad, Open (TJ) / Swing, Cross, Open (other side)",
     "LINK": "https://www.natekg.com/jump-rope-combos/triples/#TU04",
     "DATE": "2020-8-27",
     "IMAGE": ""
@@ -3448,7 +3448,7 @@
     "SKILLS": "Complete Tutorial for the TS Cross/Behind the Back Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/ts/#TSTUT01",
     "DATE": "",
-    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hIDden; max-wIDth: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; wIDth: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//PZ3ztmqQrpo' frameborder='0' allowfullscreen></iframe></div>"
+    "IMAGE": "<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//PZ3ztmqQrpo' frameborder='0' allowfullscreen></iframe></div>"
   },
   {
     "ID": "TS01",
@@ -3541,7 +3541,7 @@
   {
     "ID": "MM05",
     "NAME": "Turn Combo 5",
-    "SKILLS": "SIDe Swing / EB Wrap / Unwrap 180 / Backwards Inverse Toad Cross",
+    "SKILLS": "Side Swing / EB Wrap / Unwrap 180 / Backwards Inverse Toad Cross",
     "LINK": "https://www.natekg.com/jump-rope-combos/turns/#MM05",
     "DATE": "2020-7-10",
     "IMAGE": ""
@@ -3645,7 +3645,7 @@
   {
     "ID": "WR04",
     "NAME": "Wrap Combo 4",
-    "SKILLS": "SIDe Swing / Arm Wrap / Thread / Stall / Unwrap  / Backwards Open",
+    "SKILLS": "Side Swing / Arm Wrap / Thread / Stall / Unwrap  / Backwards Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR04",
     "DATE": "2022-6-9",
     "IMAGE": ""
@@ -3653,7 +3653,7 @@
   {
     "ID": "WR05",
     "NAME": "Wrap Combo 5",
-    "SKILLS": "SIDe Swing / Arm Wrap / Unwrap Swing / Crossed Step Through / SIDe Swing / Open",
+    "SKILLS": "Side Swing / Arm Wrap / Unwrap Swing / Crossed Step Through / Side Swing / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR05",
     "DATE": "22022-6-10",
     "IMAGE": ""
@@ -3661,7 +3661,7 @@
   {
     "ID": "WR06",
     "NAME": "Wrap Combo 6",
-    "SKILLS": "Swing EB Toad Double / Toad Swing Toad Wrap Double / Unwrap Swing / Step Through / SIDe Swing / SIDe Swing / Open",
+    "SKILLS": "Swing EB Toad Double / Toad Swing Toad Wrap Double / Unwrap Swing / Step Through / Side Swing / Side Swing / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR06",
     "DATE": "42022-6-11",
     "IMAGE": ""
@@ -3669,7 +3669,7 @@
   {
     "ID": "WR07",
     "NAME": "Wrap Combo 7",
-    "SKILLS": "Leg Over / Mic Release / Leg Over (other sIDe) / Leg Over Wrap / Unwrap Swing / Awesome Annie / Open",
+    "SKILLS": "Leg Over / Mic Release / Leg Over (other side) / Leg Over Wrap / Unwrap Swing / Awesome Annie / Open",
     "LINK": "https://www.natekg.com/jump-rope-combos/wraps/#WR07",
     "DATE": "62022-6-12",
     "IMAGE": ""
@@ -3781,7 +3781,7 @@
   {
     "ID": "NZ0267",
     "NAME": "NateStyle 267",
-    "SKILLS": "SIDe Swing / EB Cross / SIDe Swing / Leg Over Swing / Mic Release / Single Under (Dive) / EB Toad / Crossed Step Through Wrap / Unwrap / Awesome Annie / Toad Cross / Step Through Release / Mic, Open, Open Triple / Single Under / Inverse Toad Swing / Inverse Toad Open Gogo / Single Under (Dive) / AS Swing, Cross Double / Double Frog (Double Under Full Bound Handstand)",
+    "SKILLS": "Side Swing / EB Cross / Side Swing / Leg Over Swing / Mic Release / Single Under (Dive) / EB Toad / Crossed Step Through Wrap / Unwrap / Awesome Annie / Toad Cross / Step Through Release / Mic, Open, Open Triple / Single Under / Inverse Toad Swing / Inverse Toad Open Gogo / Single Under (Dive) / AS Swing, Cross Double / Double Frog (Double Under Full Bound Handstand)",
     "LINK": "https://www.instagram.com/reel/CgM5C0aFrhh/?utm_source=ig_web_copy_LINK",
     "DATE": "22-07-19",
     "IMAGE": ""
@@ -3789,7 +3789,7 @@
   {
     "ID": "NZ0266",
     "NAME": "NateStyle 266",
-    "SKILLS": "SIDe Swing / Open / Mic Release / Inverse Toad Swing / Inverse Toad Swing Arm Wrap / Unwrap / Toad Swing / Crossed Step Through Wrap / Unwrap / Open Step Through Double / Mic Open Open Triple / Open Cross Open Triple (OCO) / Double Frog (Double Under Full Bound Handstand)",
+    "SKILLS": "Side Swing / Open / Mic Release / Inverse Toad Swing / Inverse Toad Swing Arm Wrap / Unwrap / Toad Swing / Crossed Step Through Wrap / Unwrap / Open Step Through Double / Mic Open Open Triple / Open Cross Open Triple (OCO) / Double Frog (Double Under Full Bound Handstand)",
     "LINK": "https://www.instagram.com/reel/Cf6iVadFl_W/?utm_source=ig_web_copy_LINK",
     "DATE": "22-07-12",
     "IMAGE": ""
@@ -3797,7 +3797,7 @@
   {
     "ID": "NZ0265",
     "NAME": "NateStyle 265",
-    "SKILLS": "TJ Triple / Open Open AS Triple / Double Under Frog (Full Bound Handstand) / Single Unders / SIDe Swing / Mic / Stall Between Legs / Leg Hook / Backwards Inverse Toad Open Gogo Stall 😉 / Forwards Single",
+    "SKILLS": "TJ Triple / Open Open AS Triple / Double Under Frog (Full Bound Handstand) / Single Unders / Side Swing / Mic / Stall Between Legs / Leg Hook / Backwards Inverse Toad Open Gogo Stall 😉 / Forwards Single",
     "LINK": "https://www.instagram.com/reel/CfUYIaKpgTB/?utm_source=ig_web_copy_LINK",
     "DATE": "22-06-27",
     "IMAGE": ""
@@ -3853,7 +3853,7 @@
   {
     "ID": "NZ0258",
     "NAME": "NateStyle 258",
-    "SKILLS": "Switch Cross / SIDe Swing / EB Swing / TS Cross / Switch Cross / Toad Cross / Open / EB Wrap / Mic Release / 180 / Backwards Crossed Leg Wrap 180 / Unwrap / Basic Cross / Inverse Leg Over Swing / Mic Release",
+    "SKILLS": "Switch Cross / Side Swing / EB Swing / TS Cross / Switch Cross / Toad Cross / Open / EB Wrap / Mic Release / 180 / Backwards Crossed Leg Wrap 180 / Unwrap / Basic Cross / Inverse Leg Over Swing / Mic Release",
     "LINK": "https://www.instagram.com/tv/CXg51QtvVhx/?utm_source=ig_web_copy_LINK",
     "DATE": "21-12-15",
     "IMAGE": ""
@@ -3869,7 +3869,7 @@
   {
     "ID": "NZ0256",
     "NAME": "NateStyle 256",
-    "SKILLS": "Step Through Mic / Stall / Backwards Single / Backwards Mic Release / Backwards Mic Release / Backwards SIDe Swing / Backwards Toad Cross / Backwards SIDe Swing / Backwards Mic Release / Backwards Mic Release / Backwards Leg Over / Backwards Single / Backwards Mic Release / Backwards Mic 180 / Dive 270 Turn / Open / Stall / Backwards Leg Hook 180 / Dive 180 / Texan 90 Turn",
+    "SKILLS": "Step Through Mic / Stall / Backwards Single / Backwards Mic Release / Backwards Mic Release / Backwards Side Swing / Backwards Toad Cross / Backwards Side Swing / Backwards Mic Release / Backwards Mic Release / Backwards Leg Over / Backwards Single / Backwards Mic Release / Backwards Mic 180 / Dive 270 Turn / Open / Stall / Backwards Leg Hook 180 / Dive 180 / Texan 90 Turn",
     "LINK": "https://www.instagram.com/p/CLDJLijjqNd/",
     "DATE": "21-2-8",
     "IMAGE": ""
@@ -3877,7 +3877,7 @@
   {
     "ID": "NZ0255",
     "NAME": "NateStyle 255",
-    "SKILLS": "Mic Release / Dive 180 / Backwards EB Swing 180 / EB Wrap / Unwrap / EB Toad Cross / Open / Leg Over Wrap / Unwrap / Awesome Annie / TJ Triple / Ground Leg Over Stall / Backwards Inverse Toad Arm Wrap / Unwrap 180 / Dive 180 / Backwards SC Double / Backwards SIDe Swing / Backwards Leg Over",
+    "SKILLS": "Mic Release / Dive 180 / Backwards EB Swing 180 / EB Wrap / Unwrap / EB Toad Cross / Open / Leg Over Wrap / Unwrap / Awesome Annie / TJ Triple / Ground Leg Over Stall / Backwards Inverse Toad Arm Wrap / Unwrap 180 / Dive 180 / Backwards SC Double / Backwards Side Swing / Backwards Leg Over",
     "LINK": "https://www.instagram.com/p/CKobLQ3IXNh/",
     "DATE": "21-1-29",
     "IMAGE": ""
@@ -3885,7 +3885,7 @@
   {
     "ID": "NZ0254",
     "NAME": "NateStyle 254",
-    "SKILLS": "SIDe Swing / Mic Release / Single Under / SIDe Swing  / Mic Release / Single Under / Step Through Mic / Dive 180 / Backwards EB Swing 180 / EB Wrap / EB Unwrap / EB Swing / Step Through Mic / SIDe Swing / Mic Release / Single Under / Mic Triple",
+    "SKILLS": "Side Swing / Mic Release / Single Under / Side Swing  / Mic Release / Single Under / Step Through Mic / Dive 180 / Backwards EB Swing 180 / EB Wrap / EB Unwrap / EB Swing / Step Through Mic / Side Swing / Mic Release / Single Under / Mic Triple",
     "LINK": "https://www.instagram.com/p/CKSUGA4oO4e/",
     "DATE": "21-1-20",
     "IMAGE": ""
@@ -3893,7 +3893,7 @@
   {
     "ID": "NZ0253",
     "NAME": "NateStyle 253",
-    "SKILLS": "Stall to Backwards Double / Backwards Open / Backwards Inverse Toad Hook Release / Backwards Same-SIDe Mic / Backwards Mamba (SIDe-to-SIDe Mic) / Backwards Mic Release / Backwards Open / Backwards Swing Cross Open Triple (SCO) / Backwards Stall to Forwards Double / Open / EB Wrap / Unwrap / EB Swing Open Double / Open / Toad Wrap / Unwrap / Awesome Annie / SIDe Swing / Swing Open Double (SO) / Leg Over / Mic Release / Open / EB Wrap / Unwrap 180 / Backwards Open / Texan 180",
+    "SKILLS": "Stall to Backwards Double / Backwards Open / Backwards Inverse Toad Hook Release / Backwards Same-Side Mic / Backwards Mamba (Side-to-Side Mic) / Backwards Mic Release / Backwards Open / Backwards Swing Cross Open Triple (SCO) / Backwards Stall to Forwards Double / Open / EB Wrap / Unwrap / EB Swing Open Double / Open / Toad Wrap / Unwrap / Awesome Annie / Side Swing / Swing Open Double (SO) / Leg Over / Mic Release / Open / EB Wrap / Unwrap 180 / Backwards Open / Texan 180",
     "LINK": "https://www.instagram.com/p/CKNZCMPofTV/",
     "DATE": "21-1-18",
     "IMAGE": ""
@@ -3901,7 +3901,7 @@
   {
     "ID": "NZ0252",
     "NAME": "NateStyle 252",
-    "SKILLS": "Backwards EB Cross / Backwards Open / Backwards SIDe Swing / Backwards Toad Cross / Backwards SIDe Swing / Backwards Leg Over / Backwards SIDe Swing / Backwards Toad Cross / Backwards SIDe Swing / Backwards Leg Over / Backwards EB Cross / Backwards Open / Backwards EB Cross / Backwards Open / Backwards EB Cross / Backwards Open / Backwards EB Cross / Backwards Open / Backwards SC Double / Backwards Stall to Forwards Double / TJ Triple",
+    "SKILLS": "Backwards EB Cross / Backwards Open / Backwards Side Swing / Backwards Toad Cross / Backwards Side Swing / Backwards Leg Over / Backwards Side Swing / Backwards Toad Cross / Backwards Side Swing / Backwards Leg Over / Backwards EB Cross / Backwards Open / Backwards EB Cross / Backwards Open / Backwards EB Cross / Backwards Open / Backwards EB Cross / Backwards Open / Backwards SC Double / Backwards Stall to Forwards Double / TJ Triple",
     "LINK": "https://www.instagram.com/p/CKAgI2yoEFg/",
     "DATE": "21-1-13",
     "IMAGE": ""
@@ -3909,7 +3909,7 @@
   {
     "ID": "NZ0251",
     "NAME": "NateStyle 251",
-    "SKILLS": "Open Cross Open Triple (OCO) / Single Under / Leg Over / Leg Over Wrap / Unwrap / Awesome Annie / Toad Wrap / Unwrap / Awesome Annie / SIDe Swing / Swing Open Double (SO) / Step Through Release / Mic Release / Single Under / Stall Between Legs / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Stall Between Legs / Single Under / Basic Cross",
+    "SKILLS": "Open Cross Open Triple (OCO) / Single Under / Leg Over / Leg Over Wrap / Unwrap / Awesome Annie / Toad Wrap / Unwrap / Awesome Annie / Side Swing / Swing Open Double (SO) / Step Through Release / Mic Release / Single Under / Stall Between Legs / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Backwards EB Cross / Backwards Single Under / Stall Between Legs / Single Under / Basic Cross",
     "LINK": "https://www.instagram.com/p/CJ7PwnkoPJB/",
     "DATE": "21-1-11",
     "IMAGE": ""
@@ -3917,7 +3917,7 @@
   {
     "ID": "NZ0250",
     "NAME": "NateStyle 250",
-    "SKILLS": "Backwards SIDe Swing / Backwards Cross / Backwards SIDe Swing / Backwards Open / (repeat x5) / Backwards EB  / Backwards Open / (repeat x7) / Backwards Inverse Toad / Backwards 360 Turn / Stall Between Legs / OO Double to Stall / Backwards Single / Backwards Swing / Backwards Leg Over / Backwards EB Awesome Annie / (repeat x3) / Backwards Step Through Mic || Step Through Mic / Toad 360 Turn / Inverse Toad 360 Turn / EB 360 Turn || Toad Wrap / Leg Over Wrap / (repeat x3)",
+    "SKILLS": "Backwards Side Swing / Backwards Cross / Backwards Side Swing / Backwards Open / (repeat x5) / Backwards EB  / Backwards Open / (repeat x7) / Backwards Inverse Toad / Backwards 360 Turn / Stall Between Legs / OO Double to Stall / Backwards Single / Backwards Swing / Backwards Leg Over / Backwards EB Awesome Annie / (repeat x3) / Backwards Step Through Mic || Step Through Mic / Toad 360 Turn / Inverse Toad 360 Turn / EB 360 Turn || Toad Wrap / Leg Over Wrap / (repeat x3)",
     "LINK": "https://www.instagram.com/p/CI8ZSPosU4r/",
     "DATE": "20-12-18",
     "IMAGE": ""
@@ -3949,7 +3949,7 @@
   {
     "ID": "NZ0246",
     "NAME": "NateStyle 246",
-    "SKILLS": "SIDe Swing / Basic Cross + High Knee / SIDe Swing / EB Cross + High Knee / SSO Triple / Swing Cross Ground Toad Triple / OO Double / SSO Triple / Open Ground Leg Over Double / Ground Awesome Annie Double / TJ Quad",
+    "SKILLS": "Side Swing / Basic Cross + High Knee / Side Swing / EB Cross + High Knee / SSO Triple / Swing Cross Ground Toad Triple / OO Double / SSO Triple / Open Ground Leg Over Double / Ground Awesome Annie Double / TJ Quad",
     "LINK": "https://www.instagram.com/p/CGAMLcLnL2i/",
     "DATE": "20-10-6",
     "IMAGE": ""
@@ -3957,7 +3957,7 @@
   {
     "ID": "NZ0245",
     "NAME": "NateStyle 245",
-    "SKILLS": "Inverse Leg Over / Mic Leg Over Double / Mic Ground Leg Over Double / Ground Awesome Annie Double / SSO Triple / TJ Triple / Behind the Back Release / Same SIDe Mic / Mamba / Single Under / Dive 360 / Toe Catch",
+    "SKILLS": "Inverse Leg Over / Mic Leg Over Double / Mic Ground Leg Over Double / Ground Awesome Annie Double / SSO Triple / TJ Triple / Behind the Back Release / Same Side Mic / Mamba / Single Under / Dive 360 / Toe Catch",
     "LINK": "https://www.instagram.com/p/CF22y89HBsC/",
     "DATE": "20-10-2",
     "IMAGE": ""
@@ -4037,7 +4037,7 @@
   {
     "ID": "NZ0235",
     "NAME": "NateStyle 235",
-    "SKILLS": "Split Bound Handstand / Handstand Pull Through to Stall (1.5) / Backwards Double Frog  / Handstand Pull Through || SIDe Swing / Mic Release / Mic Release / Inverse Leg Over / SIDe Swing / Leg Over Swing / Mic Release / Mic Release / Ground Leg Over / Ground Awesome Annie Triple",
+    "SKILLS": "Split Bound Handstand / Handstand Pull Through to Stall (1.5) / Backwards Double Frog  / Handstand Pull Through || Side Swing / Mic Release / Mic Release / Inverse Leg Over / Side Swing / Leg Over Swing / Mic Release / Mic Release / Ground Leg Over / Ground Awesome Annie Triple",
     "LINK": "https://www.instagram.com/p/CCTpVWPsuOq/",
     "DATE": "20-7-6",
     "IMAGE": ""
@@ -4045,7 +4045,7 @@
   {
     "ID": "NZ0234",
     "NAME": "NateStyle 234",
-    "SKILLS": "Swing Cross Open Open Quad (SCOO) / Swing Open Open Open Quad (SOOO) / Swing Swing Open Cross Quad (SSOC) / Swing Swing Open Open Quad (SSOO) / Swing Cross Swing EB Quad (SCSEB) / SSOO Quad  / Swing Toad Open Open Quad (TJ Quad) || SIDe Swing / SIDe Swing / Single Foot Rope Catch & Reversal / Backwards EB Cross / Backwards Leg Hook Release / Backwards Leg Over / Backwards Step Through Release / 180 Mic / Step Through Mic Release / 180 Mic / Backawrds SIDe Swing  / Backwards Swing Transition / Backwards Between Legs Stall / Stall to Forwards Double / Inverse Toad Swing / Arm Wrap / Unwrap / Toad Swing / Crossed Step Through Wrap / Unwrap Swing / 180 Toad Swing  / Backwards Step Through Release / 180 Same SIDe Mic / Mamba / Single Under / Swing Swing Open Triple (SSO)",
+    "SKILLS": "Swing Cross Open Open Quad (SCOO) / Swing Open Open Open Quad (SOOO) / Swing Swing Open Cross Quad (SSOC) / Swing Swing Open Open Quad (SSOO) / Swing Cross Swing EB Quad (SCSEB) / SSOO Quad  / Swing Toad Open Open Quad (TJ Quad) || Side Swing / Side Swing / Single Foot Rope Catch & Reversal / Backwards EB Cross / Backwards Leg Hook Release / Backwards Leg Over / Backwards Step Through Release / 180 Mic / Step Through Mic Release / 180 Mic / Backawrds Side Swing  / Backwards Swing Transition / Backwards Between Legs Stall / Stall to Forwards Double / Inverse Toad Swing / Arm Wrap / Unwrap / Toad Swing / Crossed Step Through Wrap / Unwrap Swing / 180 Toad Swing  / Backwards Step Through Release / 180 Same Side Mic / Mamba / Single Under / Swing Swing Open Triple (SSO)",
     "LINK": "https://www.instagram.com/p/B9C9BaShOPr/",
     "DATE": "20-2-26",
     "IMAGE": ""
@@ -4053,7 +4053,7 @@
   {
     "ID": "NZ0233",
     "NAME": "NateStyle 233",
-    "SKILLS": "Mic to EB Quad (SMSEB) || Underleg Swing / Leg Over Cross + Toad Gogo / SIDe Swing / Swing Open Double (SO)",
+    "SKILLS": "Mic to EB Quad (SMSEB) || Underleg Swing / Leg Over Cross + Toad Gogo / Side Swing / Swing Open Double (SO)",
     "LINK": "https://www.instagram.com/p/B73kyR0lRgR/",
     "DATE": "20-1-28",
     "IMAGE": ""
@@ -4061,7 +4061,7 @@
   {
     "ID": "NZ0232",
     "NAME": "NateStyle 232",
-    "SKILLS": "Swing T-Toad Double / T-Toad Gogo Swing / Caboose Cross / Backwards Single / Backwards Swing Cross Double (SC) / 180 Swing Open Double / EB Wrap Double / EB Unwrap 180 Double / Stall to Forwards Double / SIDe Swing / SIDe Swing / Single / Step Through Mic / Mic Open Double (MO)",
+    "SKILLS": "Swing T-Toad Double / T-Toad Gogo Swing / Caboose Cross / Backwards Single / Backwards Swing Cross Double (SC) / 180 Swing Open Double / EB Wrap Double / EB Unwrap 180 Double / Stall to Forwards Double / Side Swing / Side Swing / Single / Step Through Mic / Mic Open Double (MO)",
     "LINK": "https://www.instagram.com/p/B7y59nNlRIu/",
     "DATE": "20-1-26",
     "IMAGE": ""
@@ -4069,7 +4069,7 @@
   {
     "ID": "NZ0231",
     "NAME": "NateStyle 231",
-    "SKILLS": "Leg Over (stylized) / SIDe Swing / Basic Cross / Step Through Mic",
+    "SKILLS": "Leg Over (stylized) / Side Swing / Basic Cross / Step Through Mic",
     "LINK": "https://www.instagram.com/p/B7wlv56ld58/",
     "DATE": "20-1-25",
     "IMAGE": ""
@@ -4085,7 +4085,7 @@
   {
     "ID": "NZ0229",
     "NAME": "NateStyle 229",
-    "SKILLS": "SIDe Swing / EB Toad / Floater (release front hand) / EB Cross / EB Swing Open Double / Stall to Backwards Double / Backwards Mic  / Backwards Leg Over / Backwards Step Through Release / Backwards Mic Open Double (MO) / Stall to Forwards Double || Mamba Release",
+    "SKILLS": "Side Swing / EB Toad / Floater (release front hand) / EB Cross / EB Swing Open Double / Stall to Backwards Double / Backwards Mic  / Backwards Leg Over / Backwards Step Through Release / Backwards Mic Open Double (MO) / Stall to Forwards Double || Mamba Release",
     "LINK": "https://www.instagram.com/p/B7EEp2qFtVA/",
     "DATE": "20-1-8",
     "IMAGE": ""
@@ -4093,7 +4093,7 @@
   {
     "ID": "NZ0228",
     "NAME": "NateStyle 228",
-    "SKILLS": "(SLOW MO) / SIDe Swing / Step Through Release / SIDe Swing / EB + Toad Gogo Swing Release / Mic Release / Mic Open Double / Inverse Leg Over / SIDe Swing / Swing Open Double (SO)",
+    "SKILLS": "(SLOW MO) / Side Swing / Step Through Release / Side Swing / EB + Toad Gogo Swing Release / Mic Release / Mic Open Double / Inverse Leg Over / Side Swing / Swing Open Double (SO)",
     "LINK": "https://www.instagram.com/p/B68j56Ulat-/",
     "DATE": "20-1-5",
     "IMAGE": ""
@@ -4101,7 +4101,7 @@
   {
     "ID": "NZ0227",
     "NAME": "NateStyle 227",
-    "SKILLS": "SIDe Swing / Step Through Release / SIDe Swing / EB + Toad Gogo Swing Release / Mic Release / Mic Open Double / Inverse Leg Over / Swing / Swing Open Double (SO) || Step Through Mic / 180 / Backwards Swing / Backwards Cross / 180 / Swing / [repeated x4] / Stall to Backwards / Stall to Forwards Open Caboose Triple / Caboose Cross / Backwards Open / [repeated x3]",
+    "SKILLS": "Side Swing / Step Through Release / Side Swing / EB + Toad Gogo Swing Release / Mic Release / Mic Open Double / Inverse Leg Over / Swing / Swing Open Double (SO) || Step Through Mic / 180 / Backwards Swing / Backwards Cross / 180 / Swing / [repeated x4] / Stall to Backwards / Stall to Forwards Open Caboose Triple / Caboose Cross / Backwards Open / [repeated x3]",
     "LINK": "https://www.instagram.com/p/B652fzSlbOa/",
     "DATE": "20-1-4",
     "IMAGE": ""
@@ -4133,7 +4133,7 @@
   {
     "ID": "NZ0223",
     "NAME": "NateStyle 223",
-    "SKILLS": "Backwards Push Up / Backwards Double Down to Push Up / Push Up Double Up || Push Up Double Up / Push Up Double Down / Push Up Double Up || Leg Hook 360 (Toad, Opposite SIDe) / Leg Hook 360 (Inverse Toad, Same SIDe) / Leg Hook 360 (Inverse Toad, Opposite SIDe) / Swing Leg Hook 180 Double (Toad, Same SIDe) / Single Under / Step Through Release / [assorted release mistakes] / Regular Double Under (OO) || Leg Hook 360 (Inverse Toad, Same SIDe) / Leg Hook 360 (Toad, Opposite SIDe) / Swing Leg Hook 180 Double (Toad, Same SIDe) / Single Under / Swing Leg Hook 180 Double (Inverse Toad, Opposite SIDe) / Single Under / 180 Double / Stall to Forwards Double || Sunny D (Backwards Handstand Pull Through)",
+    "SKILLS": "Backwards Push Up / Backwards Double Down to Push Up / Push Up Double Up || Push Up Double Up / Push Up Double Down / Push Up Double Up || Leg Hook 360 (Toad, Opposite Side) / Leg Hook 360 (Inverse Toad, Same Side) / Leg Hook 360 (Inverse Toad, Opposite Side) / Swing Leg Hook 180 Double (Toad, Same Side) / Single Under / Step Through Release / [assorted release mistakes] / Regular Double Under (OO) || Leg Hook 360 (Inverse Toad, Same Side) / Leg Hook 360 (Toad, Opposite Side) / Swing Leg Hook 180 Double (Toad, Same Side) / Single Under / Swing Leg Hook 180 Double (Inverse Toad, Opposite Side) / Single Under / 180 Double / Stall to Forwards Double || Sunny D (Backwards Handstand Pull Through)",
     "LINK": "https://www.instagram.com/p/B5xugF6FUNW/",
     "DATE": "19-12-7",
     "IMAGE": ""
@@ -5853,7 +5853,7 @@
   {
     "ID": "NZ0008",
     "NAME": "NateStyle 8",
-    "SKILLS": "Double Unders (unbroken) || Frog (Full Bound Handstand) / Double Under / Frog (Full Bound Handstand) / Triple Under / Frog (Full Bound Handstand) || SIDe Swing / Step Through Release / Open / AS Double Down to Push Up / Push Up Pull Through 1.5 to Stall / Backwards Inverse TJ",
+    "SKILLS": "Double Unders (unbroken) || Frog (Full Bound Handstand) / Double Under / Frog (Full Bound Handstand) / Triple Under / Frog (Full Bound Handstand) || Side Swing / Step Through Release / Open / AS Double Down to Push Up / Push Up Pull Through 1.5 to Stall / Backwards Inverse TJ",
     "LINK": "https://www.instagram.com/p/7O6XgexKVy/",
     "DATE": "15-9-4",
     "IMAGE": ""
@@ -5909,7 +5909,7 @@
   {
     "ID": "NZ0001",
     "NAME": "NateStyle 1",
-    "SKILLS": "Fire Jump Rope 🔥  / Crossed Texan 360  / Dive EB / EB Gogo Swing / SIDe Swing / Toad Cross / Texan 360 / Between The Legs Stall / Backwards Cross / Backwards To Forwards Stall",
+    "SKILLS": "Fire Jump Rope 🔥  / Crossed Texan 360  / Dive EB / EB Gogo Swing / Side Swing / Toad Cross / Texan 360 / Between The Legs Stall / Backwards Cross / Backwards To Forwards Stall",
     "LINK": "https://www.instagram.com/p/hB_I0hxKUP/",
     "DATE": "13-11-22",
     "IMAGE": ""
